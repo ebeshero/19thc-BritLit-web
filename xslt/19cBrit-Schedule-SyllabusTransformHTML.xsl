@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    exclude-result-prefixes="xs math"
-    xmlns="http://www.w3.org/1999/xhtml"
-    version="3.0"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+    xmlns="http://www.w3.org/1999/xhtml" version="3.0"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0">
     
-    <xsl:output method="xhtml" encoding="utf-8" indent="yes" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
-    <xsl:strip-space elements="*"/>
+    <xsl:output method="xhtml" doctype-system="about:legacy-compat"/> 
+    <!--<xsl:strip-space elements="*"/>-->
     <xsl:template match="/">
 
         <html>
@@ -25,28 +23,14 @@
 
             </head>
             <body>
+                
+                <xsl:comment>#include virtual="top.html" </xsl:comment>
 
-                <div class="container"><div id="title">
-                    <img src="{//div[@type='logo']/head/graphic/@url}" alt="{//div[@type='logo']/head/graphic/desc}"/> <h1><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/head"/></span></h1>
+               
+                    <h1><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/head"/></span></h1>
                     
-                    <h2><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/p/text()"/><xsl:text>: Autumn 2014 Syllabus</xsl:text></span></h2>
-                    <hr/>
-                    <p class="boilerplate">
-                        <span>
-                            <strong>Maintained by: </strong> Elisa E. Beshero-Bondar (ebb8 at pitt.edu) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png"/></a>
-                            
-                            
-                            
-   
-                        </span>
-                        <span><strong>Read the <a href="Fa2014SyllEnglit1175.xml">course description and syllabus in TEI XML</a>.</strong></span>
-                        <span>
-                            <strong>Last modified: </strong> <xsl:value-of select="current-dateTime()"/> 
-                        </span>
-                        
-                    </p>
-                    <hr/>
-                </div>
+                    <h2><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/p/text()"/><xsl:text>: Autumn 2015 Syllabus</xsl:text></span></h2>
+                    
                     
                 <div id="main">    
                     <div id="courseInfo">
@@ -77,7 +61,7 @@
                </div></div>
                
                 
-                </div>
+              
                 <hr/>
                
                     
@@ -94,7 +78,7 @@
             <!--<tr>
          <td>--><table> 
                 
-                <tr>   <th><a id="Week{@n}"/><h4><em><xsl:text>Week </xsl:text><xsl:value-of select="@n"/></em></h4></th>
+                <tr>   <th><h4 id="Week{@n}"><em><xsl:text>Week </xsl:text><xsl:value-of select="@n"/></em></h4></th>
                     <th><h4><em>Readings due</em></h4></th>
                     <th><h4><em>Assignments due</em></h4></th>
                 </tr>
@@ -185,7 +169,23 @@
         <xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates/></span>
     </xsl:template>
     
+    <xsl:template match="note">
+        <xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="body//title[not(@level)] | body//title[@level='m']">
+        <cite><xsl:apply-templates/></cite>
+        
+    </xsl:template>
+    
+    <xsl:template match="body//title[@level='a']">
+        <cite class="sub"><xsl:apply-templates/></cite>
+        
+    </xsl:template>
+    <xsl:template match="q">
+        <q><xsl:apply-templates/></q>
+    </xsl:template>
+    
   
-</xsl:stylesheet>      
-   
+</xsl:stylesheet>
 

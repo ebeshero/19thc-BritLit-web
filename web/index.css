@@ -1,32 +1,61 @@
 @media screen{
 
-head {background-color:#DFBD79
-;}
+head {background-color:#DFBD79;
+}
 
-body {background-color:  #800000; color: #70003D; font-family: arial, helvetica, sans-serif;}
-div.container {background-color:#EDE3B8; width:80%; margin:auto; padding: 10px;  }
+div#top {width:100%}
+div#bannerImage {float:left}
+div#bannerImage img {width:150px}
+div#title{font-size:30px; font-weight:bold; color:#FF0000;}
+/*div#title h2 {text-align:center;}*/
+div#title a { text-decoration:none;}
 
-/*div#banner {width: 20%; float:left;}
+div.boilerplate span {text-indent:5px;
+    color:#63604F;
+    margin-left:1em;
+    display:block;
+    font-size:smaller;
+    line-height:1.4em;}
+    
+div.boilerplate img {position: relative; top:7px; right: -2px }
 
-div#title {width:100%; float:left}*/
 
-/*span.banner {position:relative; top:-18px; padding: 15px; } */
+
+
+body {background-color:  #EDE3B8; color: #70003D; 
+                        font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
+
 
 div#main {line-height:1.2em;}
 
 h1 {color:#0F046A; display:inline; letter-spacing:1.5px; font-size: 2.5em; text-align:center; padding: 2px;}
 
-div#title h2 {text-align:center;}
 
-h2 {color:#00056B; font-family:arial, helvetica, sans-serif; font-size: 1.3em; text-align:left; 
+
+h2 {color:#00056B; font-size: 1.3em; text-align:left; 
 }
 h3 {color:#990033;
- font-family:arial, helvetica, sans-serif; font-size: 1.1em; text-align:left; padding:3px
+ font-size: 1.1em; text-align:left; padding:3px
 }
 h4{color:#990033; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;
     
 }
-title {color:#FEE0D2}
+
+q {quotes:'“' '”' '‘' '’'; 
+}
+
+cite.sub {font-style:normal;}
+cite.sub::before {content:'“'; 
+}
+cite.sub::after {content:'”';
+}
+
+q cite.sub::before {content: '‘'}
+q cite.sub::after {content: '’'}
+cite.sub cite.sub::before {content: '‘'}
+cite.sub cite.sub::after {content: '’'}
+
+/*title {color:#FEE0D2}*/
 /*
 img[style] {position: relative; top: 20px;}*/
 img
@@ -34,11 +63,9 @@ img
 
 p {display:block; padding:2px 2px 2px 2px}
 
-p.boilerplate span {text-indent:-1em;
-    margin-left:1em;
-    display:block;
-    font-size:smaller;
-    line-height:1.4em;} /*from obdurodon */
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #AA0000;
+    margin: 1em 0; padding: 0; }
     
     
 
