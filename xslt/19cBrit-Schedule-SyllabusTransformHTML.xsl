@@ -148,9 +148,9 @@
         <li><xsl:apply-templates/></li>
     </xsl:template>
     
-    <xsl:template match="body//title">
+    <!--<xsl:template match="body//title">
         <span class="italic"><xsl:apply-templates/></span>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="ref">
         <a href="{@target}"><xsl:apply-templates/></a>
@@ -169,9 +169,6 @@
         <xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates/></span>
     </xsl:template>
     
-    <xsl:template match="note">
-        <xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates/></span>
-    </xsl:template>
     
     <xsl:template match="body//title[not(@level)] | body//title[@level='m']">
         <cite><xsl:apply-templates/></cite>
