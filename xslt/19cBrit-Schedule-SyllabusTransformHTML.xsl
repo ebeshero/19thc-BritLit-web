@@ -17,7 +17,7 @@
                 <meta name="keywords"
                     content="19th century, 19th-century, the nineteenth century, Syllabus, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
                <link rel="stylesheet" type="text/css" href="index.css"/>
-               
+                <script type="text/javascript" src="jumpingDateLinks.js">//</script>
                 
 
 
@@ -37,6 +37,8 @@
                         <h3><a href="index.html"> Course Description and Policies</a></h3>
                         
                         <xsl:apply-templates select="//div[@type='meetTimes']"/>
+                        <p><strong><a id="dateRef">Jump Down to the Schedule</a></strong></p>
+                        
                         
                         
                     
@@ -78,7 +80,7 @@
             <!--<tr>
          <td>--><table> 
                 
-                <tr>   <th><h4 id="Week{@n}"><em><xsl:text>Week </xsl:text><xsl:value-of select="@n"/></em></h4></th>
+                <tr>   <th id="Week{@n}"><h4><em><xsl:text>Week </xsl:text><xsl:value-of select="@n"/></em></h4></th>
                     <th><h4><em>Readings due</em></h4></th>
                     <th><h4><em>Assignments due</em></h4></th>
                 </tr>
@@ -105,7 +107,7 @@
     
     <xsl:template match="div[@type='day'][parent::div/@n]">
         
-        <tr> <td><h4><xsl:apply-templates select="head/date/text()"/></h4>
+        <tr id="d{head/date/@when}"> <td><h4><xsl:apply-templates select="head/date/text()"/></h4>
             <xsl:if test="head/date/note"><xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates select="head/date/note"/></span></xsl:if>
         </td>
             
