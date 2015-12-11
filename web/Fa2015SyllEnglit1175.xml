@@ -873,9 +873,9 @@
    <div type="week">
       <head>Final Exam Period - December 8-13</head>
       <div type="day">
-         <head><date>Final Exam Date: TBA</date></head>
+         <head><date when="2015-12-14">Final Exam Date: M 12/14</date></head>
          <div type="assign">
-            <p><!--<hi rend="em">Final Examination; our classroom, 118 Powers Hall</hi>--></p>
+            <p><hi rend="em">Final Examination; 8:30 AM in our classroom, 118 Powers Hall</hi></p>
          </div>
       </div>
    </div>
