@@ -7,7 +7,9 @@
     
     <xsl:mode on-no-match="shallow-copy"/>
     
-    <!--ebb: A stylesheet to update the dates in a syllabus file from another current syllabus XML file in my collection.-->
+    <!--ebb: A stylesheet to update the dates in a syllabus file from another current syllabus XML file in my collection.
+    NOTE: the file named in the variable must sit in the same directory with this XSLT stylesheet.
+    -->
     <xsl:variable name="upToDate" select="document('dhCDA-2016.xml')" as="document-node()"/> 
     
     <xsl:template match="head/date[@when]">
