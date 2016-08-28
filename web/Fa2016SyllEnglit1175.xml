@@ -41,14 +41,14 @@
             <div type="meetTimes">
                <p><hi rend="em">Autumn 2016:</hi> Classes meet M W F 2:00 - 2:50 PM, 118 Powers
                   Hall</p>
-               <p><hi rend="em">Course Website: <ref target="http://newtfire.org/19cBrit/">http://newtfire.org/19cBrit/</ref></hi></p>
+              <!-- <p><hi rend="em">Course Website: <ref target="http://newtfire.org/19cBrit/">http://newtfire.org/19cBrit/</ref></hi></p>-->
             </div>
             <div type="CRN">
                <p>Course Enrollment and Electives Info: </p>
                <list>
-                  <item>Englit 1175: course registration number: 15875</item>
+                  <item>Englit 1175: course registration number: <idno>15672</idno></item>
                   <!--<item>Socsci 1031: 25980</item>-->
-                  <item>Satisfies the LT General Elective Requirement at Pitt-Greensburg, and a core course requirement for the English Literature Major.</item>
+                  <item>Satisfies the LT General Elective Requirement at Pitt-Greensburg, a core course requirement for the English Literature Major, and an R (Research) requirement for the Digital Studies Certificate.</item>
                </list>
             </div>
             <div type="faculty">
@@ -104,6 +104,7 @@
                   discussions, and by conducting your own conversation with the texts as you
                   read</item>
                <item>Research and write about literature in historical and cultural contexts</item>
+               <item>Gain experience in preparing informational resources about literature on the public web</item>
             </list>
          </div>
          <div type="courseMtls" style="main">
@@ -354,7 +355,7 @@
       <div type="week" n="1">
          <div type="day">
             <head>
-               <date when="2015-08-31">M 08-31</date>
+               <date when="2016-08-29">M 08-29</date>
             </head>
             <div type="inclass">
                <p>First day! <ref target="Barbauld_MouseCaterpillar.pdf"><hi rend="em">Handout:</hi> Anna Barbauld, <title level="a">The Mouse’s Petition</title>
@@ -365,7 +366,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-02">W 09-02</date>
+               <date when="2016-08-31">W 08-31</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">NA-R:</hi> Anna Barbauld, <title level="a"><ref target="http://spenserians.cath.vt.edu/TextRecord.php?textsid=39102">Washing Day</ref></title>, pp. 50-52</p>
@@ -376,7 +377,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-04">F 09-04</date>
+               <date when="2016-09-02">F 09-02</date>
             </head>
             <div type="inclass">
                <p>NA-R: William Blake, <title level="a">All Religions Are One</title>, <title level="a">There Is No Natural
@@ -386,14 +387,14 @@
                      Innocence</title>.</p>
             </div>
             <div type="assign">
-               <p></p>
+               <p/>
             </div>
          </div>
       </div>
       <div type="week" n="2">
          <div type="day">
             <head>
-               <date when="2015-09-07">M 09-07</date>
+               <date when="2016-09-05">M 09-05</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Labor Day Holiday: No classes.</hi></p>
@@ -403,7 +404,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-09">W 09-09</date>
+               <date when="2016-09-07">W 09-07</date>
             </head>
             <div type="inclass">
                <p>NA-R: Blake, <title>Songs of Innocence and of Experience</title>: continue
@@ -417,7 +418,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-11">F 09-11</date>
+               <date when="2016-09-09">F 09-09 drop-add period ends</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Web:</hi> <ref target="http://www.pitt.edu/~ebb8/Southey/PoemsSlaveTrade.html">Robert Southey, <title level="a">Poems on the Slave Trade</title>,</ref> with <hi rend="em">CW:</hi> Blake Materials: <title level="a">Images of Little Black Boys</title> powerpoint</p></div>
@@ -428,7 +429,7 @@
       <div type="week" n="3">
          <div type="day">
             <head>
-               <date when="2015-09-14">M 09-14</date>
+               <date when="2016-09-12">M 09-12</date>
             </head>
             <div type="inclass">
                <p><ref target="http://www.wwnorton.com/college/english/nael/romantic/topic_3/welcome.htm">French Revolution—Apocalyptic Expectations: Overview, + first 6 selections in "Texts and contexts"</ref>; with <ref target="http://lit.genius.com/William-blake-auguries-of-innocence-annotated">William Blake, "Auguries of Innocence"</ref> </p>
@@ -438,22 +439,23 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-16">W 09-16</date>
+               <date when="2016-09-14">W 09-14</date>
             </head>
             <div type="inclass">
-               <p>NA-R: Anna Barbauld, <title level="a">A Summer Evening’s Meditation</title>, pp. 43-45 with <ref target="http://lit.genius.com/William-blake-the-mental-traveller-annotated">William Blake, <title level="a">The Mental Traveller</title></ref></p>
+               <p>NA-R: Anna Barbauld, <title level="a">A Summer Evening’s Meditation</title>, pp. 43-45 with <ref target="http://lit.genius.com/William-blake-the-mental-traveller-annotated">William Blake, <title level="a">The Mental Traveller</title></ref> and <ref target="http://lit.genius.com/William-blake-the-crystal-cabinet-annotated">William Blake, <title level="a">The Crystal Cabinet</title></ref></p>
             </div>
             <div type="assign"/>
               
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-18">F 09-18</date>
+               <date when="2016-09-16">F 09-16</date>
             </head>
             <div type="inclass">
-               <p><ref target="http://lit.genius.com/William-blake-the-crystal-cabinet-annotated">William Blake, <title level="a">The Crystal Cabinet</title></ref></p>
+               <p><hi rend="em">CW:</hi>Powerpoint: <title level="a">Background on the Sublime, Beautiful, and Picturesque</title>; with <hi rend="em">NA-R:</hi> Charlotte Smith, intro + Elegaic Sonnets and <title level="a">The Swallow</title> pp. 53-59</p>
             </div>
-            <div type="assign"/>
+            <div type="assign"><p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> Set up Hypothes.is in the Chrome web browser, and make a first annotation to be sure
+               it's working. </p></div>
                        
             
          </div>
@@ -461,32 +463,31 @@
       <div type="week" n="4">
          <div type="day">
             <head>
-               <date when="2015-09-21">M 09-21</date>
+               <date when="2016-09-19">M 09-19</date>
             </head>
             <div type="inclass">
-               <p><hi rend="em">CW:</hi>Powerpoint: <title level="a">Background on the Sublime, Beautiful, and Picturesque</title>; with <hi rend="em">NA-R:</hi> Charlotte Smith, intro + Elegaic Sonnets and <title level="a">The Swallow</title> pp. 53-59</p>
+               <p>NA-R: S. T. Coleridge, intro + <title level="a">The Eolian Harp</title> <!--and <title level="a">This Lime-Tree Bower My Prison</title> pp. 437-441--> plus <ref target="https://www.bu.edu/cas/magazine/fall09/wagenknecht/">listen to an Aeolian harp</ref>; NA-R: William Wordsworth, <title level="a">Ode: Intimations of Immortality</title> pp. 335-341;</p>
             </div>
             <div type="assign">
-               <p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> Set up Hypothes.is in the Chrome web browser, and make a first annotation to be sure
-               it's working. </p>
+               
             </div>
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-23">W 09-23</date>
+               <date when="2016-09-21">W 09-21</date>
             </head>
             <div type="inclass">
-               <p>NA-R: S. T. Coleridge, intro + <title level="a">The Eolian Harp</title> and <title level="a">This Lime-Tree Bower My Prison</title> pp. 437-441, plus <ref target="http://www.mohicanwindharps.com/">listen to an Eolian harp!</ref></p>
+               <p>S. T. Coleridge, <title level="a">Dejection: An Ode</title> and <title level="a">The Pains of Sleep</title> pp. 479-484.</p>
             </div>
             <div type="assign"/>
            
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-25">F 09-25</date>
+               <date when="2016-09-23">F 09-23</date>
             </head>
             <div type="inclass">
-               <p>NA-R: William Wordsworth, <title level="a">Ode: Intimations of Immortality</title> pp. 335-341; with S. T. Coleridge, <title level="a">Dejection: An Ode</title> and <title level="a">The Pains of Sleep</title> pp. 479-484.</p>
+               <note>TEI Conference</note>
             </div>
             <div type="assign">
                <p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> due.
@@ -497,30 +498,33 @@
       <div type="week" n="5">
          <div type="day">
             <head>
-               <date when="2015-09-28">M 09-28</date>
+               <date when="2016-09-26">M 09-26</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Midterm Exam 1</hi></p>
+               <note>TEI Conference</note>
             </div>
             <div type="assign"/>
               
          </div>
          <div type="day">
             <head>
-               <date when="2015-09-30">W 09-30</date>
+               <date when="2016-09-28">W 09-28</date>
             </head>
             <div type="inclass">
                <p>NA-R: Balladry and Ballad Revivals, pp. 31-39 (especially <title level="a">Sir Patrick Spens”</title> and <title level="a">The Dæmon-lover</title>); Mary Robinson, <title level="a">The Haunted Beach</title> pp. 83-84</p>
+               <note>TEI Conference</note>
             </div>
             <div type="assign"/>
               
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-02">F 10-02</date>
+               <date when="2016-09-30">F 09-30</date>
             </head>
             <div type="inclass">
                <p>Review ballad readings and Mary Robinson, <title level="a">The Haunted Beach</title> from last class, with S. T. Coleridge, <title level="a">The Rime of the Ancient Mariner</title>, pp. 443-459, CW: Reading Guide to Coleridge's <title level="a">Rime</title> (posted in Online Course Readings)</p>
+               <note>TEI Conference</note>
             </div>
             <div type="assign"/>
          </div>
@@ -529,7 +533,7 @@
       <div type="week" n="6">
          <div type="day">
             <head>
-               <date when="2015-10-05">M 10-05</date>
+               <date when="2016-10-03">M 10-03</date>
             </head>
             <div type="inclass">
                <p>S. T. Coleridge, <title level="a">The Rime of the Ancient Mariner</title>, pp. 443-459; Discussion.</p>
@@ -540,7 +544,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-07">W 10-07</date>
+               <date when="2016-10-05">W 10-05</date>
             </head>
             <div type="inclass">
                <p>Coleridge, <title level="a">Kubla Khan</title> and <title level="a">Christabel</title> pp. 459-477;</p>
@@ -550,7 +554,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-09">F 10-09</date>
+               <date when="2016-10-07">F 10-07</date>
             </head>
             <div type="inclass">
                <p>Coleridge, <title level="a">Christabel</title> (discussion continued)</p>
@@ -563,7 +567,7 @@
       <div type="week" n="7">
          <div type="day">
             <head>
-               <date when="2015-10-12">M 10-12</date>
+               <date when="2016-10-10">M 10-10</date>
             </head>
             <div type="inclass">
                <p>William Wordsworth, intro + <title>Lyrical Ballads</title> through <title level="a">The Thorn</title> pp. 272-288;</p>
@@ -573,10 +577,10 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-14">W 10-14</date>
+               <date when="2016-10-12">W 10-12</date>
             </head>
             <div type="inclass">
-               <p>Wordsworth, <title level="a">The Thorn</title>: in-class exercise</p>
+               <p>William Wordsworth, Preface to <title>Lyrical Ballads</title>, pp. 293-304; Revisit <title level="a">The Thorn</title></p>
             </div>
             <div type="assign">
                
@@ -584,10 +588,11 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-16">F 10-16</date>
+               <date when="2016-10-14">F 10-14</date>
             </head>
             <div type="inclass">
                <p>William Wordsworth, <title level="a">Resolution and Independence</title> and <title level="a">I wandered lonely as a cloud</title>, pp. 330-335, excerpts from Dorothy Wordsworth’s Grasmere Journals and poems, pp. 406-418</p>
+               <note>Pittsburgh lecture</note>
             </div>
             <div type="assign"/>
               
@@ -596,7 +601,7 @@
       <div type="week" n="8">
          <div type="day">
             <head>
-               <date when="2015-10-19">M 10-19</date>
+               <date when="2016-10-17">M 10-17</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Fall Break: Monday classes meet on Tuesday this week.</hi></p>
@@ -606,7 +611,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-20">T 10-20</date>
+               <date when="2016-10-18">T 10-18</date>
             </head>
             <div type="inclass">
                <p>NA-R: George Gordon, Lord Byron intro, poems through <title level="a">Darkness</title> and <title level="a">So we’ll go no more a roving</title> pp. 612-620</p>
@@ -617,7 +622,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-21">W 10-21</date>
+               <date when="2016-10-19">W 10-19</date>
             </head>
             <div type="inclass">
                <p><ref target="ByronCorsairCochranEd.pdf">PDF edition of Byron, <title>The Corsair</title></ref>, at least to the end of Canto the First (to page 18) (or somewhere halfway—through middle of Canto the Second <note><hi rend="em">Note for those printing:</hi> this is 51 pages long (try printing multiple pages per sheet). I would like you to read the PDF version since it contains informative notes, but there is, of course, <ref target="http://lit.genius.com/George-gordon-lord-byron-the-works-of-lord-byron-vol-3-the-corsair-annotated">a copy on Literature Genius</ref> that you may choose to work on for the Major Annotation Assignment.]</note></p>
@@ -627,7 +632,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-23">F 10-23</date>
+               <date when="2016-10-21">F 10-21</date>
             </head>
             <div type="inclass">
                <p>Finish <ref target="ByronCorsairCochranEd.pdf">PDF edition of Byron, The Corsair</ref> (Cantos the Second and The Third); start PDF edition of <ref target="ByronBeppoPCochranClassEd.pdf">Byron’s “Beppo: a Venetian Story”</ref> (~44 pages) <note>Again, I would like you to read the PDF version since it contains informative notes, but there is, of course, <ref target="http://lit.genius.com/George-gordon-lord-byron-beppo-annotated">a copy on Literature Genius</ref> that you may choose to work on for the Major Annotation Assignment.</note></p>
@@ -640,11 +645,11 @@
       <div type="week" n="9">
          <div type="day">
             <head>
-               <date when="2015-10-26">M 10-26</date>
+               <date when="2016-10-24">M 10-24</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">CW:</hi> finish Byron’s <ref target="ByronBeppoPCochranClassEd.pdf">“Beppo: a Venetian Story”</ref>; </p>
-               <note>TEI Conference</note>
+              
             </div>
             <div type="assign">
                <p>. . . .</p>
@@ -653,22 +658,22 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-28">W 10-28</date>
+               <date when="2016-10-26">W 10-26</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Midterm Exam 2</hi></p>
-               <note>TEI Conference</note>
+              
             </div>
             <div type="assign"/>
                
          </div>
          <div type="day">
             <head>
-               <date when="2015-10-30">F 10-30</date>
+               <date when="2016-10-28">F 10-28</date>
             </head>
             <div type="inclass">
-               <p><!--<hi rend="em">Class Cancelled Today.</hi>--> Begin reading <hi rend="em"><title>Frankenstein</title> volume:</hi> Mary Shelley’s <title>Frankenstein</title>, to p. 35 (through Vol. I Ch. III). with my CW: Powerpoint: Frankenstein Intro Notes </p>
-               <note>TEI Conference</note>
+               <p>Begin reading <hi rend="em"><title>Frankenstein</title> volume:</hi> Mary Shelley’s <title>Frankenstein</title>, to p. 35 (through Vol. I Ch. III). with my CW: Powerpoint: Frankenstein Intro Notes </p>
+               
             </div>
             <div type="assign">
                <!--<p><hi rend="em">Major Poetry Annotation Project: First Round of Annotations Due!</hi></p>-->
@@ -678,7 +683,7 @@
       <div type="week" n="10">
          <div type="day">
             <head>
-               <date when="2015-11-02">M 11-02</date>
+               <date when="2016-10-31">M 10-31</date>
             </head>
             <div type="inclass">
                <p><title>Frankenstein</title> to p. 101 (through Vol. II Ch. VIII—the end of the Creature’s narration)</p>
@@ -688,7 +693,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-04">W 11-04</date>
+               <date when="2016-11-02">W 11-02</date>
             </head>
             <div type="inclass">
                <p>finish <title>Frankenstein</title> (to p. 161)</p> 
@@ -700,7 +705,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-06">F 11-06</date>
+               <date when="2016-11-04">F 11-04</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">NA-R:</hi> John Keats, Intro (pp. 901-903); <title level="a">When I have fears that I may cease to be</title> p. 911; and Odes: To Psyche, To a Nightingale, on a Grecian Urn, and on Melancholy (pp. 925-933)</p>
@@ -713,7 +718,7 @@
       <div type="week" n="11">
          <div type="day">
             <head>
-               <date when="2015-11-09">M 11-09</date>
+               <date when="2016-11-07">M 11-07</date>
             </head>
             <div type="inclass">
                <p>NA-R: John Keats: <title level="a">The Eve of St. Agnes</title> and <title level="a">La Belle Dame Sans Merci</title> pp. 912-924</p>
@@ -724,7 +729,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-11">W 11-11</date>
+               <date when="2016-11-09">W 11-09</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">switch to NA-V:</hi> Alfred, Lord Tennyson intro, <title level="a">Mariana</title>, <title level="a">The Lady of Shalott</title>, pp. 1156-1166</p>
@@ -734,7 +739,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-13">F 11-13</date>
+               <date when="2016-11-11">F 11-11</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Class Cancelled: Reading Day</hi></p>
@@ -749,7 +754,7 @@
       <div type="week" n="12">
          <div type="day">
             <head>
-               <date when="2015-11-16">M 11-16</date>
+               <date when="2016-11-14">M 11-14</date>
             </head>
             <div type="inclass">
                <p>Elizabeth Barrett Browning, <title level="a">The Cry of the Children</title> and sonnets <title level="a">To George Sand: A Desire and A Recognition</title> pp. 1124-29, CW: powerpoint on The Industrial Revolution and the <q>Hungry Forties</q>. </p>
@@ -760,7 +765,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-18">W 11-18</date>
+               <date when="2016-11-16">W 11-16</date>
             </head>
             <div type="inclass">
                <p>Finish <ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm"><title>A Christmas Carol</title></ref>.</p>
@@ -772,7 +777,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-20">F 11-20</date>
+               <date when="2016-11-18">F 11-18</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">NA-V:</hi> Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, pp. 1560-1572, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title>, pp. 1186-1189 and pp. 1206-1207.</p>
@@ -784,7 +789,7 @@
       <div type="week" n="13">
          <div type="day">
             <head>
-               <date when="2015-11-23">M 11-23</date>
+               <date when="2016-11-21">M 11-21</date>
             </head>
             <div type="inclass">
                <p>Christina Rossetti intro, <title level="a">Goblin Market</title> (and all surrounding poems) pp. 1489-1509</p>
@@ -794,7 +799,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-11-25">W 11-25 to F 11-27</date>
+               <date when="2016-11-23">W 11-23 to F 11-27</date>
             </head>
             <div type="inclass">
                <p><hi rend="em">Thanksgiving Recess: No Classes.</hi></p>
@@ -807,7 +812,7 @@
       <div type="week" n="14">
          <div type="day">
             <head>
-               <date when="2015-11-30">M 11-30</date>
+               <date when="2016-11-28">M 11-28</date>
             </head>
             <div type="inclass">
                <p>Revisit Christina Rossetti, <title level="a">In an Artist’s Studio</title>, p. 1493, with Dante Gabriel Rossetti, intro, <title level="a">Jenny</title>, and sonnets from <title>The House of Life</title>, pp. 1471-2, 1478-89</p>
@@ -817,7 +822,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-12-02">W 12-02</date>
+               <date when="2016-11-30">W 11-30</date>
             </head>
             <div type="inclass">
                <p>Robert Browning, <title level="a">Porphyria’s Lover</title>, <title level="a">Soliloquy of the Spanish Cloister</title>, and <title level="a">My Last Duchess</title> pp. 1278-1283</p>
@@ -826,7 +831,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-12-04">F 12-04</date>
+               <date when="2016-12-02">F 12-02</date>
             </head>
             <div type="inclass">
                <p>Sir Arthur Conan Doyle, <title level="a">The Speckled Band</title>, pp. 1830-48</p>
@@ -838,7 +843,7 @@
       <div type="week" n="15">
          <div type="day">
             <head>
-               <date when="2015-12-07">M 12-07</date>
+               <date when="2016-12-05">M 12-05</date>
             </head>
             <div type="inclass">
                <p>Rudyard Kipling, intro, and start <title>The Man Who Would Be King</title>, pp. 1851 to break at top of p. 1863</p>
@@ -850,7 +855,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-12-09">W 12-09</date>
+               <date when="2016-12-07">W 12-07</date>
             </head>
             <div type="inclass">
                <p>Finish <title>The Man Who Would Be King</title> (to p. 1877), Kipling’s poems, pp. 1877-83</p>
@@ -860,7 +865,7 @@
          </div>
          <div type="day">
             <head>
-               <date when="2015-12-11">F 12-11</date>
+               <date when="2016-12-09">F 12-09 (Last Day of Classes)</date>
             </head>
             <div type="inclass">
                <p>Last Day: Review / Catch-up Day</p>
@@ -871,11 +876,11 @@
          </div>
       </div>
    <div type="week">
-      <head>Final Exam Period - December 8-13</head>
+      <head>Final Exam Period - December 12-17</head>
       <div type="day">
-         <head><date when="2015-12-14">Final Exam Date: M 12/14</date></head>
+         <head><date when="2016-12-13">Final Exam Date: T 12/13</date></head>
          <div type="assign">
-            <p><hi rend="em">Final Examination; 8:30 AM in our classroom, 118 Powers Hall</hi></p>
+            <p><hi rend="em">Final Examination: 3:15 PM in our classroom, 118 Powers Hall</hi></p>
          </div>
       </div>
    </div>

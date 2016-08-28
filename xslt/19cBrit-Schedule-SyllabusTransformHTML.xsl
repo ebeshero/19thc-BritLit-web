@@ -29,11 +29,12 @@
                
                     <h1><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/head"/></span></h1>
                     
-                    <h2><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/p/text()"/><xsl:text>: Autumn 2015 Syllabus</xsl:text></span></h2>
+                    <h2><span class="banner"><xsl:apply-templates select="//text/front/div[@type='courseID']/p/text()"/><xsl:text>: Syllabus</xsl:text></span></h2>
                     
                     
                 <div id="main">    
-                    <div id="courseInfo">
+                   <div id="heading"> 
+                       <div id="courseInfo">
                         <h3><a href="index.html"> Course Description and Policies</a></h3>
                         
                         <xsl:apply-templates select="//div[@type='meetTimes']"/>
@@ -48,6 +49,11 @@
                         
                         <xsl:apply-templates select="//div[@type='abbrev']"/>
                     </div>
+                       <div id="picture">
+                           <img id="goblinMarket" src="goblinMarket1862.jpg" alt="an illustration of Laura paying the goblins with a golden curl, made by Dante Gabriel Rossetti for Christina Rossetti's Goblin Market"/>
+                       </div>
+                   
+                   </div>
                     
                     
                

@@ -27,6 +27,10 @@ body {background-color:  #EDE3B8; color: #70003D;
 
 
 div#main {line-height:1.2em;}
+div#heading {width:100%}
+div#courseInfo {width:40%; float:left;}
+div#picture {width:60%; float:right;}
+img#goblinMarket {max-width:600px; width:100%; margin-left:2em; margin-bottom: 2em;}
 
 h1 {color:#0F046A; display:inline; letter-spacing:1.5px; font-size: 2.5em; text-align:center; padding: 2px;}
 
@@ -145,20 +149,35 @@ size: 8.5in 11in;/* width height */ padding:10em;
 
  
  body {background-color: white; color: black; font-family: arial, helvetica, sans-serif; font-size:10pt;  }
-div.container {background-color:white; width:90%; padding: 5pt;  }   
+div.container {background-color:white; width:90%;   }   
     
- table {width:100%; padding: 5pt;border-collapse: collapse; width: 100%;
+ table {width:100%;border-collapse: collapse; 
 border: 1px solid black }   
 th, td
 {
 border: 1px solid  black;
-padding: 5pt;
-vertical-align:top;
+vertical-align:middle;
 }
-  tr, th, td {page-break-inside: avoid; padding: 5pt} 
-   p {page-break-inside:avoid; padding: 5pt}
-   li {page-break-inside: avoid; padding: 5pt}
-   h4 {page-break-inside: avoid; padding: 5pt}
+  tr, th, td {page-break-inside: avoid;} 
+  th:nth-child(1), td:nth-child(1) {
+width:12%; text-align:center;   
+}
+
+th:nth-child(2), td:nth-child(2) {
+width:44%;  
+}
+
+th:nth-child(3), td:nth-child(3) {
+width:44%;  
+}
+   p {page-break-inside:avoid;}
+   li {page-break-inside: avoid; }
+   h1, h2, h3, h4 {page-break-inside: avoid; page-break-after: avoid; line-height:1.15em;}
    div#bannerImage {float:left}
 div#bannerImage img {width:150px}
+div#main {line-height:1.1em;}
+div#heading {width:100%}
+div#courseInfo {width:40%; float:left;}
+div#picture {width:60%; float:right;}
+img#goblinMarket {max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
 }
