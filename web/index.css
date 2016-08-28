@@ -3,7 +3,8 @@
 head {background-color:#DFBD79;
 }
 
-div#top {width:100%}
+div#top {width:100%; background-color:#FFFDF5; padding:5px; border-top-left-radius: 45px; 
+border-bottom-right-radius: 45px; font-family: arial, helvetica, sans-serif;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
 div#title{font-size:30px; font-weight:bold; color:#FF0000;}
@@ -27,11 +28,11 @@ body {background-color:  #EDE3B8; color: #70003D;
 
 
 div#main {line-height:1.2em;}
-div#heading {width:100%}
+div#heading {width:100%; position: relative}
 div#courseInfo {width:40%; float:left;}
 div#picture {width:60%; float:right;}
 img#goblinMarket {max-width:600px; width:100%; margin-left:2em; margin-bottom: 2em;}
-
+img#frontis {position: absolute; top: -30px; max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
 h1 {color:#0F046A; display:inline; letter-spacing:1.5px; font-size: 2.5em; text-align:center; padding: 2px;}
 
 
@@ -180,4 +181,6 @@ div#heading {width:100%}
 div#courseInfo {width:40%; float:left;}
 div#picture {width:60%; float:right;}
 img#goblinMarket {max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
+img#frontis {max-width:200px; width:100%; margin-left:2em; margin-bottom: 2em;}
 }
+

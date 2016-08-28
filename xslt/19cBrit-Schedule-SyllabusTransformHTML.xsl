@@ -50,7 +50,7 @@
                         <xsl:apply-templates select="//div[@type='abbrev']"/>
                     </div>
                        <div id="picture">
-                           <img id="goblinMarket" src="goblinMarket1862.jpg" alt="an illustration of Laura paying the goblins with a golden curl, made by Dante Gabriel Rossetti for Christina Rossetti's Goblin Market"/>
+                           <img id="frontis" src="SongsInnocenceTP.jpg" alt="an illustration of Laura paying the goblins with a golden curl, made by Dante Gabriel Rossetti for Christina Rossetti's Goblin Market"/>
                        </div>
                    
                    </div>
