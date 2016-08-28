@@ -159,4 +159,6 @@ vertical-align:top;
    p {page-break-inside:avoid; padding: 5pt}
    li {page-break-inside: avoid; padding: 5pt}
    h4 {page-break-inside: avoid; padding: 5pt}
+   div#bannerImage {float:left}
+div#bannerImage img {width:150px}
 }
