@@ -55,10 +55,10 @@
                <head>Instructor:</head>
                <p>
                   <ref target="http://www.pitt.edu/~ebb8/">Elisa Beshero-Bondar</ref></p>
-               <p>Office Hours (in FOB 204)</p>
+               <p>Office Hours</p>
                <list>
-                  <item>Wed. 11:30 AM -12:30 PM</item>
-                  <item>Tues. 2-4 PM</item>
+                  <item>Wed. 11:30 AM -12:30 PM (in McKenna 137)</item>
+                  <item>Tues. 2-4 PM (in FOB 204)</item>
                   <item>and by appointment.</item>
                </list>
             </div>
@@ -442,9 +442,9 @@
                <date when="2016-09-14">W 09-14</date>
             </head>
             <div type="inclass">
-               <p>NA-R: Anna Barbauld, <title level="a">A Summer Evening’s Meditation</title>, pp. 43-45 with <ref target="http://lit.genius.com/William-blake-the-mental-traveller-annotated">William Blake, <title level="a">The Mental Traveller</title></ref> and <ref target="http://lit.genius.com/William-blake-the-crystal-cabinet-annotated">William Blake, <title level="a">The Crystal Cabinet</title></ref></p>
+               <p>NA-R: <ref target="http://digital.library.upenn.edu/women/barbauld/1773/1773-poems.html#meditation">Anna Barbauld, <title level="a">A Summer Evening’s Meditation</title></ref>, pp. 43-45 with <ref target="http://lit.genius.com/William-blake-the-mental-traveller-annotated">William Blake, <title level="a">The Mental Traveller</title></ref> and <ref target="http://lit.genius.com/William-blake-the-crystal-cabinet-annotated">William Blake, <title level="a">The Crystal Cabinet</title></ref></p>
             </div>
-            <div type="assign"/>
+            <div type="assign"><p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> Set up <ref target="https://hypothes.is/">Hypothes.is</ref> in the Chrome web browser, and make a first annotation on Barbauld's <title level="a">A Summer Evening's Meditation</title>.</p></div>
               
          </div>
          <div type="day">
@@ -454,8 +454,7 @@
             <div type="inclass">
                <p><hi rend="em">CW:</hi>Powerpoint: <title level="a">Background on the Sublime, Beautiful, and Picturesque</title>; with <hi rend="em">NA-R:</hi> Charlotte Smith, intro + Elegaic Sonnets and <title level="a">The Swallow</title> pp. 53-59</p>
             </div>
-            <div type="assign"><p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> Set up Hypothes.is in the Chrome web browser, and make a first annotation to be sure
-               it's working. </p></div>
+            <div type="assign"><p><hi rend="em">CW Assigments: Annotation Exercise 1, continued</hi> See <ref target="http://courseweb.pitt.edu">CourseWeb</ref> for options to continue annotating with Hypothes.is</p></div>
                        
             
          </div>
