@@ -465,7 +465,7 @@
                <date when="2016-09-19">M 09-19</date>
             </head>
             <div type="inclass">
-               <p>NA-R: S. T. Coleridge, intro + <title level="a">The Eolian Harp</title> <!--and <title level="a">This Lime-Tree Bower My Prison</title> pp. 437-441--> plus <ref target="https://www.bu.edu/cas/magazine/fall09/wagenknecht/">listen to an Aeolian harp</ref>; NA-R: William Wordsworth, <title level="a">Ode: Intimations of Immortality</title> pp. 335-341;</p>
+               <p>NA-R: S. T. Coleridge, intro + <title level="a">The Eolian Harp</title> <!--and <title level="a">This Lime-Tree Bower My Prison</title>-->, pp. 437-441; plus <ref target="https://www.bu.edu/cas/magazine/fall09/wagenknecht/">listen to an Aeolian harp</ref>; NA-R: William Wordsworth, <title level="a">Ode: Intimations of Immortality</title> pp. 335-341;</p>
             </div>
             <div type="assign">
                
@@ -485,12 +485,11 @@
             <head>
                <date when="2016-09-23">F 09-23</date>
             </head>
-            <div type="inclass">
+            <div type="inclass"><p><hi>No class meeting: reading/review day</hi></p>
                <note>TEI Conference</note>
             </div>
             <div type="assign">
-               <p><hi rend="em">CW Assigments: Annotation Exercise 1</hi> due.
-                  </p>
+               
             </div>
          </div>
       </div>
