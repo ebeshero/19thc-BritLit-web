@@ -489,7 +489,13 @@
                <note>TEI Conference</note>
             </div>
             <div type="assign">
-               
+              <p>Hypothes.is Annotations: Make two annotations on two different poems (a total of four annotations) from the following list:</p>
+               <list>
+                  <item>Charlotte Smith, <ref target="Swallow_CSmith.html"><title level="a">The Swallow</title></ref></item>
+                  <item><ref target="https://rpo.library.utoronto.ca/poems/eolian-harp"><title level="a">The Eolian Harp</title></ref></item>
+                  <item>William Wordsworth, <ref target="https://rpo.library.utoronto.ca/poems/ode-intimations-immortality-recollections-early-childhood"><title level="a">Ode: Intimations of Immortality</title></ref></item>
+                  <item>S. T. Coleridge, <ref target="https://rpo.library.utoronto.ca/poems/dejection-ode"><title level="a">Dejection: An Ode</title></ref></item>
+               </list>
             </div>
          </div>
       </div>
@@ -558,7 +564,6 @@
                <p>Coleridge, <title level="a">Christabel</title> (discussion continued)</p>
             </div>
             <div type="assign">
-               <p><hi rend="em">Major Project (Poetry Annotation Exercise 2):</hi> Hypothes.is Annotations of <title level="a">Rime of the Ancient Mariner</title></p>
             </div>
          </div>
       </div>
@@ -588,12 +593,15 @@
             <head>
                <date when="2016-10-14">F 10-14</date>
             </head>
-            <div type="inclass">
-               <p>William Wordsworth, <title level="a">Resolution and Independence</title> and <title level="a">I wandered lonely as a cloud</title>, pp. 330-335, excerpts from Dorothy Wordsworth’s Grasmere Journals and poems, pp. 406-418</p>
-               <note>Pittsburgh lecture</note>
+            <div type="inclass"><p><hi>Class Cancelled:</hi> Reading and Annotating Day. </p> 
+               <note>I am delivering a lecture at the Pittsburgh campus.</note>
+               <!--<p>William Wordsworth, <title level="a">Resolution and Independence</title> and <title level="a">I wandered lonely as a cloud</title>, pp. 330-335, excerpts from Dorothy Wordsworth’s Grasmere Journals and poems, pp. 406-418</p>
+               <note>Pittsburgh lecture</note>-->
             </div>
-            <div type="assign"/>
-              
+            <div type="assign">
+               <p><hi rend="em">Hypothes.is Annotations:</hi> Assignment Options and Guidelines [TBA]</p>
+               <note>Options: <title level="a">Christabel</title>, <title level="a">The Thorn</title>, section of <title level="a">Preface to Lyrical Ballads</title>, or <title level="a">I wandered lonely as a cloud</title> together with Dorothy Wordsworth's Grasmere Journals.</note>
+            </div>
          </div>
       </div>
       <div type="week" n="8">
@@ -740,7 +748,7 @@
                <date when="2016-11-11">F 11-11</date>
             </head>
             <div type="inclass">
-               <p><hi rend="em">Class Cancelled: Reading Day</hi></p>
+               <p>Catch-up Day (TBA)</p>
             </div>
             <div type="assign">
                

@@ -27,9 +27,9 @@ body {background-color:#fffae6; color: #70003D;
                         font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
 
 
-h1 {color:#0F046A; display:block; letter-spacing:1.5px; font-size: 2.5em; text-align:center; padding: 2px;}
+h1 {color:#0F046A; display:block; letter-spacing:1.5px; font-size: 2.5em; margin-left:10%; padding: 2px;}
 
-h2 {color:#00056B; font-size: 1.3em; text-align:center; padding: 2px;
+h2 {color:#00056B; display:block; font-size: 1.3em; margin-left:15%; padding: 2px;
 }
 h3 {color:#990033;
  font-size: 1.1em; text-align:left; padding:3px
@@ -38,7 +38,7 @@ h4{color:#990033; display:inline-block; font-family:"Trebuchet MS", Helvetica, s
 }
 
 div[class="lg"]{padding-top:10px; padding-bottom:10px;}
-div[class="line"]{margin-left:23em; color:black;}
+div[class="line"]{margin-left:10%; color:black;}
 span[class="indent"]{padding-left:1em;}
 span[class="num"]{color:#70003D; padding-left:2em; padding-right:1em; font-size:.75em;}
 
@@ -62,7 +62,7 @@ img[style] {position: relative; top: 20px;}*/
 img
 {padding:2px;}
 
-p {display:block; padding:2px 2px 2px 2px; text-align:center;}
+p {display:block; margin-left:5%;}
 
 
 hr { display: block; height: 1px;
