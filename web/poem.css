@@ -23,25 +23,33 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 
-body {background-color:#fffae6; color: #70003D; 
+body {background-color:#fffae6; color: black; 
                         font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
 
 
 h1 {color:#0F046A; display:block; letter-spacing:1.5px; font-size: 2.5em; margin-left:10%; padding: 2px;}
 
-h2 {color:#00056B; display:block; font-size: 1.3em; margin-left:15%; padding: 2px;
+div.title h2 {color:#00056B; display:block; font-size: 1.3em; margin-left:15%; padding: 2px;
 }
-h3 {color:#990033;
- font-size: 1.1em; text-align:left; padding:3px
+div.title h3 {color:#00056B; display:block;
+ font-size: 1.1em; margin-left:15%; padding:3px
 }
-h4{color:#990033; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;    
+h2 {color:#00056B; display:block; font-size: 1.3em; margin-left:10%; padding: 2px;
+}
+h3 {color:#00056B; display:block;
+ font-size: 1.1em; margin-left:10%; padding:3px;}
+h4{color:#990033; display:block; margin-left:10%; font-size: 1em; text-align:left;    
 }
 
-div[class="lg"]{padding-top:10px; padding-bottom:10px;}
+div[class="lg"]{padding-top:7px; padding-bottom:7px;}
 div[class="line"]{margin-left:10%; color:black;}
 span[class="indent"]{padding-left:1em;}
+span.indent_15 {padding-left:10em;}
+span.indent_5{padding-left:3em;}
 span[class="num"]{color:#70003D; padding-left:2em; padding-right:1em; font-size:.75em;}
-
+span.noteRef {color:#00056B; font-size:.9em;}
+span.footNote {color:#00056B; font-size:.9em}
+div.footNote {color:#00056B; font-size:.9em}
 q {quotes:'“' '”' '‘' '’'; 
 }
 
@@ -151,8 +159,12 @@ div.container {background-color:white; width:90%;   }
 div[class="lg"]{padding-top:10px; padding-bottom:10px;}
 div[class="line"]{margin-left:5em; color:black;}
 span[class="indent"]{padding-left:1em;}
+span.indent_15 {padding-left:10em;}
+span.indent_5{padding-left:3em;}
 span[class="num"]{color:#70003D; padding-left:2em; padding-right:1em; font-size:.75em;}
-    
+span.noteRef {color:#00056B;font-size:.9em;}
+span.footNote {color:#00056B;font-size:.9em;}
+div.footNote {color:#00056B;font-size:.93em;}
  table {width:100%;border-collapse: collapse; 
 border: 1px solid black }   
 th, td
