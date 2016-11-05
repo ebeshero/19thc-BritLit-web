@@ -3,7 +3,7 @@
 head {background-color:#DFBD79;
 }
 
-div#top {width:100%; background-color:#FFFDF5; padding:5px; border-top-left-radius: 45px; 
+div#top {width:100%; background-color: #F1D5A5; padding:5px; border-top-left-radius: 45px; 
 border-bottom-right-radius: 45px; font-family: arial, helvetica, sans-serif;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
@@ -23,7 +23,7 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 
-body {background-color:  #EDE3B8; color: #70003D; 
+body {background-color: #fffae6 /*#EDE3B8*/; color: #70003D; 
                         font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
 
 
