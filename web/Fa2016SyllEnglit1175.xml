@@ -743,7 +743,7 @@
                <date when="2016-11-09">W 11-09</date>
             </head>
             <div type="inclass">
-               <p><hi rend="em">switch to NA-V:</hi> Alfred, Lord Tennyson intro, <title level="a">Mariana</title>, <title level="a">The Lady of Shalott</title>, pp. 1156-1166</p>
+               <p>Discussion of NA-R: John Keats <title level="a">The Eve of St. Agnes</title> pp. 912-922</p>
             </div>
             <div type="assign">
             </div>  
@@ -753,7 +753,8 @@
                <date when="2016-11-11">F 11-11</date>
             </head>
             <div type="inclass">
-               <p>Elizabeth Barrett Browning, <title level="a">The Cry of the Children</title> and sonnets <title level="a">To George Sand: A Desire and A Recognition</title> pp. 1124-29, CW: powerpoint on The Industrial Revolution and the <q>Hungry Forties</q>. </p>
+               <p><hi rend="em">Switch to NA-V:</hi> Alfred, Lord Tennyson intro, <title level="a">Mariana</title>, <title level="a">The Lady of Shalott</title>, pp. 1156-66; with Elizabeth Barrett Browning, sonnets: <title level="a">To George Sand: A Desire and A Recognition</title>, pp. 1128-29.
+                  </p>
             </div>
             <div type="assign">
                <p>Choose your text to annotate on the <hi rend="em"><ref target="AnnotResearchAssign2016.html">Annotation Research Assignment</ref></hi></p>
@@ -769,10 +770,10 @@
             </head>
             <div type="inclass">
                
-               <p><ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm">Charles Dickens, <title>A Christmas Carol</title></ref> (e-book of the Dec. 1843 edition) Staves I-II</p>
+               <p>Elizabeth Barrett Browning, <title level="a">The Cry of the Children</title> pp. 1124-28, read <ref target="http://www.slideshare.net/ebbondar/the-industrial-revolution-and-the-hungry-forties">my slideshow notes on The Industrial Revolution and the <q>Hungry Forties</q></ref> before class (also on Courseweb). <ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm">Charles Dickens, <title>A Christmas Carol</title></ref> (e-book of the Dec. 1843 edition) Staves I-II</p>
             </div>
-            <div type="assign"/>
-               
+            <div type="assign">
+            </div>
          </div>
          <div type="day">
             <head>
@@ -781,9 +782,7 @@
             <div type="inclass">
                <p>Finish <ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm"><title>A Christmas Carol</title></ref>.</p>
             </div>
-            <div type="assign">
-               <p><hi rend="em">Dickens Quiz</hi></p>
-             
+            <div type="assign"><p><hi rend="em">short Dickens exercise or quiz</hi></p>
             </div>
          </div>
          <div type="day">
@@ -792,6 +791,7 @@
             </head>
             <div type="inclass">
                <p><hi rend="em">NA-V:</hi> Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, pp. 1560-1572, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title>, pp. 1186-1189 and pp. 1206-1207.</p>
+               <p><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref>  (also on Courseweb).</p>
             </div>
             <div type="assign"></div>
                
@@ -846,7 +846,7 @@
                <date when="2016-12-02">F 12-02</date>
             </head>
             <div type="inclass">
-               <p>Sir Arthur Conan Doyle, <ref target="http://ignisart.com/camdenhouse/canon/spec.htm"><title level="a">The Speckled Band</title></ref> (pp. 1830-48 in NAR)</p>
+               <p>Sir Arthur Conan Doyle, <ref target="http://ignisart.com/camdenhouse/canon/spec.htm"><title level="a">The Speckled Band</title></ref> (pp. 1830-48 in NAV)</p>
             </div>
             <div type="assign">
                  </div>
@@ -860,10 +860,8 @@
             <div type="inclass">
                <p>Rudyard Kipling, intro, and start <title>The Man Who Would Be King</title>, pp. 1851 to break at top of p. 1863</p>
             </div>
-            <div type="assign">
-               <p><hi rend="em">Tues. 12/6 by 11:59 PM: <ref target="AnnotResearchAssign2016.html">Annotation Research Assignment</ref></hi>: Online annotated edition and paper on Courseweb due.</p>
-               
-            </div>
+            <div type="assign"/>
+            
          </div>
          <div type="day">
             <head>
@@ -880,10 +878,10 @@
                <date when="2016-12-09">F 12-09 (Last Day of Classes)</date>
             </head>
             <div type="inclass">
-               <p>Last Day: Review / Catch-up Day</p>
+               <p>Last Day / Catch-up Day </p>
             </div>
             <div type="assign">
-               <p>. . . .<!--ebb: Short Exercise due??--></p>
+               <p><hi rend="em"><ref target="AnnotResearchAssign2016.html">Annotation Research Assignment</ref></hi>: Online annotated edition and paper on Courseweb due by 1:59 PM.</p>
             </div>
          </div>
       </div>
