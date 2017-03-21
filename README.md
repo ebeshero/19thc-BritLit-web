@@ -1,2 +1,2 @@
-# 19thc-BritLit-web
-GitHub for work on the website for my 19th-century British Literature course
+# Lit-Courses-Web
+GitHub for work on my course website materials for 19c-Brit Lit and other courses. 
