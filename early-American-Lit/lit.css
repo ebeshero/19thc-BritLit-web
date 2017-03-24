@@ -24,7 +24,7 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 body {background-color:#fffae6; color: black; 
-                        font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
+                        font-family: Georgia, Times, "Times New Roman", serif; padding:15px; line-height:1.2em;}
 
 div#imageHead {float:left; margin-left: auto;
     margin-right: auto; padding:15px;}
@@ -66,7 +66,7 @@ hr::after {
     /*background: white;*/
 }
 
-div[class="lg"]{padding-top:7px; padding-bottom:7px; margin-left:10%}
+div[class="lg"]{padding-top:7px; padding-bottom:7px;}
 div[class="line"]{margin-left:10%; color:black;}
 span[class="indent"]{padding-left:1em;}
 span.indent_15 {padding-left:10em;}

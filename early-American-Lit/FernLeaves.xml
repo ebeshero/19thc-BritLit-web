@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Fern Leaves: An assortment of Fanny Fern’s newspaper writings</title>
-            <author><persName type="pseudonym">Fanny Fern</persName><note><soCalled>Fanny Fern</soCalled> was the pseudonym of <persName>Sara Willis</persName> or <persName>Sara Willis Parton</persName>. For biographical information please see <ref target="https://fannyfern.org/bio">Fanny Fern in <title level="j">The New York Ledger</title></ref></note><graphic url="fern18560216_crop.jpg"><desc>New York Ledger Fresh Fern Leaves masthead photofacsimile</desc></graphic></author>
+            <author><persName type="pseudonym">Fanny Fern</persName><note><soCalled>Fanny Fern</soCalled> was the pseudonym of <persName>Sara Willis</persName> or <persName>Sara Willis Parton</persName>. For biographical information please see <ref target="https://fannyfern.org/bio">Fanny Fern in <title level="j">The New York Ledger</title></ref>.</note><graphic url="fern18560216_crop.jpg"><desc>New York Ledger Fresh Fern Leaves masthead photofacsimile</desc></graphic></author>
             <editor><persName ref="#ebb">Elisa Beshero-Bondar</persName></editor>
          </titleStmt>
          <publicationStmt>
@@ -201,8 +201,9 @@
                plausible, yet so pernicious. We have a conservative horror of this pop-gun, torpedo
                female; we predict for Fanny Fern’s <title level="m">Leaves</title> only a fleeting
                autumnal flutter.</p>
-            <byline>By Fanny Fern <note><bibl><title level="j">New York Ledger</title><date
-                        when="1857-10-10"/></bibl></note></byline>
+            <byline>By Fanny Fern</byline>
+            <note><bibl><title level="j">New York Ledger</title><date
+                        when="1857-10-10"/></bibl></note>
          </div>
          <div type="article">
             <head>A Law More Nice Than Just</head>
@@ -421,7 +422,7 @@
             <note><bibl><title level="j">New York Ledger</title><date when="1860-06-30"
                /></bibl></note>
          </div>
-         <div>
+         <div type="article">
             <head>The Working-Girls of New York</head>
 
             <p>Nowhere more than in New York does the contest between squalor and splendor so
