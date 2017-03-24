@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Fern Leaves: An assortment of Fanny Fern’s newspaper writings</title>
-            <author><persName type="pseudonym">Fanny Fern</persName></author>
+            <author><persName type="pseudonym">Fanny Fern</persName><note><soCalled>Fanny Fern</soCalled> was the pseudonym of <persName>Sara Willis</persName> or <persName>Sara Willis Parton</persName>. For biographical information please see <ref target="https://fannyfern.org/bio">Fanny Fern in <title level="j">The New York Ledger</title></ref></note><graphic url="fern18560216_crop.jpg"><desc>New York Ledger Fresh Fern Leaves masthead photofacsimile</desc></graphic></author>
             <editor><persName ref="#ebb">Elisa Beshero-Bondar</persName></editor>
          </titleStmt>
          <publicationStmt>
@@ -66,7 +66,7 @@
             <p>I say unmingled; I am not unaware that the charge of coarseness and sensuality has
                been affixed to them. My moral constitution may be hopelessly tainted—or too sound to
                be tainted, as the critic wills—but I confess that I extract no poison from these
-                  <title level="m">Leaves</title>—to methey have brought only healing. Let him who
+                  <title level="m">Leaves</title>—to me they have brought only healing. Let him who
                can do so, shroud the eyes of the nursing babe lest it should see its mother’s
                breast. Let him look carefully between the gilded covers of books, backed by
                high-sounding names, and endorsed by parson and priest, lying unrebuked upon his own
