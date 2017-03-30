@@ -17,18 +17,16 @@
             <body>
                 <xsl:comment>#include virtual="top.html" </xsl:comment>  
                 <h1><xsl:apply-templates select="//titleStmt/title"/></h1>
-                <div id="headIcon"><img src="fernIcon.png" alt="fractal fern leaf"/></div>
                 <xsl:apply-templates select="//titleStmt/author"/>
                 
                 
-                <xsl:apply-templates select="//text"/>
-                <div id="footIcon"><img src="fernIcon.png" alt="fractal fern leaf"/></div>
-                <span class="smaller"><xsl:apply-templates select="//sourceDesc/p/text()"/> This edition was prepared in <a href="http://www.tei-c.org/index.xml">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="FernLeaves.xml">View this document in TEI XML.</a></span>          
+                <xsl:apply-templates select="//text"/> 
+               <span class="smaller"><xsl:apply-templates select="//sourceDesc/p/text()"/> This edition was prepared in <a href="http://www.tei-c.org/index.xml">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="FernLeaves.xml">View this document in TEI XML.</a></span>           
             </body>
         </html>     
     </xsl:template>
     <xsl:template match="author">
-        <h2>by <xsl:apply-templates select="persName"/></h2>
+        <p id="byline">by <xsl:apply-templates select="persName"/></p>
             <p><span class="smaller"><xsl:apply-templates select="note"/></span></p>
         <xsl:apply-templates select="graphic"/>
     </xsl:template>
@@ -41,17 +39,16 @@
                 <xsl:if test="byline"><xsl:apply-templates select="byline"/><xsl:text>. </xsl:text></xsl:if>
                 <xsl:apply-templates select="note[bibl]"/><xsl:text>: </xsl:text><xsl:value-of select="descendant::date/@when"/></span>
        <xsl:apply-templates select="p | q | lg | l"/>
-        <hr class="article"/>
+        <hr/>
         </div>
     </xsl:template>
     <xsl:template match="head">
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
-    <xsl:template match="note[@resp]">
-        <span class="anchor"><xsl:text>&#9880;</xsl:text>
-      <span class="note"><xsl:apply-templates/></span>  
-        </span>
-    </xsl:template>
+   <!-- <xsl:template match="note[bibl]">
+        <xsl:apply-templates/>
+        <xsl:value-of select="descendant::date/@when"/>
+    </xsl:template>-->
 
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>

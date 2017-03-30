@@ -3,11 +3,11 @@
 head {
 }
 
-div#top {width:100%; background-color: #F1D5A5; padding:5px; border-top-left-radius: 45px; 
+div#top {width:100%; background-color: #C5D3D3; padding:5px; border-top-left-radius: 45px; 
 border-bottom-right-radius: 45px; font-family: arial, helvetica, sans-serif;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
-div#title{font-size:30px; font-weight:bold; color:#FF0000;}
+div#title{font-size:30px; font-weight:bold; color:#003300;  line-height:1.3em}
 /*div#title h2 {text-align:center;}*/
 div#title a { text-decoration:none;}
 
@@ -23,40 +23,44 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 
-body {background-color:#fffae6; color: black; 
+body {background-color:	#F8F8FF; color: black; 
                         font-family: Georgia, Times, "Times New Roman", serif; padding:15px; line-height:1.2em;}
 
+div#headIcon {float:right; margin-left:auto; margin-right:35%; padding:3px}
+div#headIcon img {max-width:300px; width:70%; padding:1px;}
+div#footIcon {float:left; margin-left:auto; margin-right:auto; padding:3px}
+div#footIcon img {max-width:175px; width:30%; padding:1px;}
 div#imageHead {float:left; margin-left: auto;
     margin-right: auto; padding:15px;}
 
 div#imageHead img {max-width:5000px; width:100%; padding: 2px;}
 
-h1 {color:#b20000; display:block; letter-spacing:1.5px; font-size: 2.5em; margin-left:10%; line-height:30px; padding: 5px; }
+h1 {color:#556B2F; display:block; letter-spacing:1.5px; font-size: 2.5em; margin-left:10%; line-height:50px; padding: 5px; }
 
-div.title h2 {color:#990000; display:inline; font-size: 1.3em; margin-left:10%; padding: 2px;
+div.title h2 {color:#006400; display:inline; font-size: 1.3em; margin-left:10%; padding: 2px;
 }
-div.title h3 {color:#990000; display:inline;
+div.title h3 {color:#006400; display:inline;
  font-size: 1.1em; margin-left:15%; padding:3px
 }
-p#byline {color:#990000;
+p#byline {color:#006400;
  font-size: 1.1em; margin-left:15%; padding:3px}
  span.note {display:inline; font-size:0.8em; line-height:1.2em; padding:2px}
-h2 {color:#990000; display:block; font-size: 1.3em; margin-left:10%; padding: 2px;
+h2 {color:#006400; display:block; font-size: 1.3em; margin-left:10%; padding: 2px;
 }
-h3 {color:#990000; display:block;
+h3 {color:#006400; display:block;
  font-size: 1.1em; margin-left:10%; padding:3px;}
 h4{color:#990033; display:block; margin-left:10%; font-size: 1em; text-align:left;    
 }
 
 
-hr {
+hr.article {
     padding: 0;
     border: none;
     border-top: medium double #333;
     color: #333;
     text-align: center;
 }
-hr::after {
+hr.article::after {
     content: "§";
     display: inline-block;
     position: relative;
@@ -66,8 +70,11 @@ hr::after {
     /*background: white;*/
 }
 
+
 div[class="lg"]{padding-top:7px; padding-bottom:7px;}
-div[class="line"]{margin-left:10%; color:black;}
+span[class="line"]{margin-left:10%; color:black; display:block;}
+
+span.publine {display:inline; font-size:0.8em; line-height:1.2em; padding:2px; margin-left:5%}
 span[class="indent"]{padding-left:1em;}
 span.indent_15 {padding-left:10em;}
 span.indent_5{padding-left:3em;}
