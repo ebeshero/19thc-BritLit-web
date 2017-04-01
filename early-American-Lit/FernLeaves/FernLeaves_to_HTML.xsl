@@ -13,20 +13,23 @@
                 <meta name="keywords"
                     content="Fanny Fern, Sara Willis, Sara Willis Parton, 19th century, 19th-century, the nineteenth century, American Renaissance, US literature, women writers, American women newspaper columnists, American women journalists, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
                 <link rel="stylesheet" type="text/css" href="lit.css"/>
+                <script type="text/javascript" src="notes.js" xml:space="preserve"></script>
             </head>
             <body>
                 <xsl:comment>#include virtual="top.html" </xsl:comment>  
                 <h1><xsl:apply-templates select="//titleStmt/title"/></h1>
+                <div id="headIcon"><img src="fernIcon.png" alt="fractal fern leaf"/></div>
                 <xsl:apply-templates select="//titleStmt/author"/>
                 
                 
-                <xsl:apply-templates select="//text"/> 
-               <span class="smaller"><xsl:apply-templates select="//sourceDesc/p/text()"/> This edition was prepared in <a href="http://www.tei-c.org/index.xml">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="FernLeaves.xml">View this document in TEI XML.</a></span>           
+                <xsl:apply-templates select="//text"/>
+                <div id="footIcon"><img src="fernIcon.png" alt="fractal fern leaf"/></div>
+                <span class="smaller"><xsl:apply-templates select="//sourceDesc/p/text()"/> This edition was prepared in <a href="http://www.tei-c.org/index.xml">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="FernLeaves.xml">View this document in TEI XML.</a></span>          
             </body>
         </html>     
     </xsl:template>
     <xsl:template match="author">
-        <p id="byline">by <xsl:apply-templates select="persName"/></p>
+        <h2>by <xsl:apply-templates select="persName"/></h2>
             <p><span class="smaller"><xsl:apply-templates select="note"/></span></p>
         <xsl:apply-templates select="graphic"/>
     </xsl:template>
@@ -39,16 +42,17 @@
                 <xsl:if test="byline"><xsl:apply-templates select="byline"/><xsl:text>. </xsl:text></xsl:if>
                 <xsl:apply-templates select="note[bibl]"/><xsl:text>: </xsl:text><xsl:value-of select="descendant::date/@when"/></span>
        <xsl:apply-templates select="p | q | lg | l"/>
-        <hr/>
+        <hr class="article"/>
         </div>
     </xsl:template>
     <xsl:template match="head">
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
-   <!-- <xsl:template match="note[bibl]">
-        <xsl:apply-templates/>
-        <xsl:value-of select="descendant::date/@when"/>
-    </xsl:template>-->
+    <xsl:template match="note[@resp]">
+        <span class="anchor"><xsl:text>&#9880;</xsl:text>
+      <span class="note"><xsl:apply-templates/></span>  
+        </span>
+    </xsl:template>
 
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
