@@ -1,0 +1,3259 @@
+<TEI>
+<teiHeader>
+Lyrical Ballads, 1800 Volume I
+
+Authors: Samuel Taylor Coleridge and William Wordsworth
+Editors: Bruce Graver and Ronald Tetreault 
+Edition: Version 2.00 for Romantic Circles
+Responsibility: Ronald Tetreault and Bruce Graver, editors, compositors, and designers.
+
+Electronic hypertext © Cambridge University Press 2001
+
+Source:
+Edited by Bruce Graver from the copy of Lyrical Ballads (1800 vol. 1) in the Firestone Library, Princeton University; checked by Ronald Tetreault against the copy at Simon Fraser University. All digital images of this volume are from the Simon Fraser copy.
+
+Encoding:
+Encoded in TEI-conformant SGML by Bruce Graver and Ronald Tetreault, with significant help from Vivien Hannon of the ETC at Dalhousie University, and from colleagues at CETH, the STG, and others.
+</teiHeader><titlePage><pb xml:id="p_tpr"/>
+<docTitle><titlePart type="main">LYRICAL BALLADS,</titlePart>
+<titlePart type="main">WITH<lb/> 
+OTHER POEMS.<lb/>
+IN TWO VOLUMES.<lb/></docTitle> 
+
+<byline>By <docAuthor>W. WORDSWORTH</docAuthor>.</byline> 
+
+<epigraph>Quam nihil ad genium, Papiniane, tuum!</epigraph>
+
+<titlePart type="sub">VOL. I.</titlePart> 
+
+<docEdition>SECOND EDITION.</docEdition>
+
+<docImprint><pubPlace>LONDON</pubPlace>:<lb/> 
+PRINTED FOR <publisher>T. N. LONGMAN AND O. REES</publisher>, <placeName>PATERNOSTER-ROW</placeName>,<lb/> 
+BY <orgName type="printer">BIGGS AND CO</orgName>. <placeName>BRISTOL</placeName>.<lb/> 
+<docDate when="1800">1800</docDate>.</docImprint></titlePage><pb xml:id="p_tpv"/>
+<pb xml:id="p_tocr"/>
+
+<div type="contents"><head>CONTENTS.</head>
+<list><item>Expostulation and Reply - - - - - 1 </item>
+<item>The Tables turned; an Evening Scene, on the </item>
+<item>same subject - - - - - - 4 </item>
+<item>Animal Tranquillity and Decay, a Sketch - 7 </item>
+<item>The Complaint of a forsaken Indian Woman - 9 </item>
+<item>The Last of the Flock - - - - - 15 </item>
+<item>Lines left upon a Seat in a Yew-tree which stands </item>
+<item>near the Lake of Esthwaite - - - 21 </item>
+<item>The Foster-Mother’s Tale - - - - 25 </item>
+<item>Goody Blake and Harry Gill - - - - 29 </item>
+<item>The Thorn - - - - - - - 38 </item>
+<item>We are Seven - - - - - - - 54 </item>
+<item>Anecdote for Fathers - - - - - 59 </item>
+<item>Lines written at a small distance from my House, </item>
+<item>and sent by my little Boy to the Person to </item>
+<item>whom they are addressed - - - - 64 </item>
+<item>The Female Vagrant - - - - - - 67 </item>
+<item>The Dungeon - - - - - - - 83 </item>
+<item>Simon Lee, the old Huntsman - - - - 85 </item>
+<item>Lines written in early Spring - - - - 92 </item>
+<item>The Nightingale, written in April, 1798. - - 94 </item>
+<item>Lines written when sailing in a Boat at Evening - 101 </item>
+<item>Lines written near Richmond, upon the Thames 103 </item>
+<item>The Idiot Boy - - - - - - - 107 </item>
+<item>Love - - - - - - - - 138 </item>
+<item>The Mad Mother - - - - - - 145 </item>
+<item>The Ancient Mariner - - - - - 155 </item>
+<item>Lines written above Tintern Abbey - - - - - 201</item>
+</list><pb xml:id="p_tocv"/>
+<pb xml:id="p_v"/>
+
+PREFACE.
+
+<p>The First Volume of these Poems has already been submitted to general perusal. It was published, as an experiment which, I hoped, might be of some use to ascertain, how far, by fitting to metrical arrangement a selection of the real language of men in a state of vivid sensation, that sort of pleasure and that quantity of pleasure may be imparted, which a Poet may rationally endeavour to impart.</p>
+<p>I had formed no very inaccurate estimate of the probable effect of those Poems: I flattered myself <pb xml:id="p_vi"/> that they who should be pleased with them would read them with more than common pleasure: and on the other hand I was well aware that by those who should dislike them they would be read with more than common dislike. The result has differed from my expectation in this only, that I have pleased a greater number, than I ventured to hope I should please.</p>
+<p>For the sake of variety and from a consciousness of my own weakness I was induced to request the assistance of a Friend, who furnished me with the Poems of the ANCIENT MARINER, the FOSTER-MOTHER’S TALE, the NIGHTINGALE, the DUNGEON, and the Poem entitled LOVE. I should not, however, have requested this assistance, had I not believed that the poems of my Friend would in a great measure have the same tendency as my own, and that,<pb xml:id="p_vii"/> though there would be found a difference, there would be found no discordance in the colours of our style; as our opinions on the subject of poetry do almost entirely coincide.</p>
+<p>Several of my Friends are anxious for the success of these Poems from a belief, that if the views, with which they were composed, were indeed realized, a class of Poetry would be produced, well adapted to interest mankind permanently, and not unimportant in the multiplicity and in the quality of its moral relations: and on this account they have advised me to prefix a systematic defence of the theory, upon which the poems were written. But I was unwilling to undertake the task, because I knew that on this occasion the Reader would look coldly upon my arguments, since I might be suspected of having been principally influenced by the selfish and foolish hope of reasoning him into an approbation of these particular Poems:<pb xml:id="p_viii"/> and I was still more unwilling to undertake the task, because adequately to display my opinions and fully to enforce my arguments would require a space wholly disproportionate to the nature of a preface. For to treat the subject with the clearness and coherence, of which I believe it susceptible, it would be necessary to give a full account of the present state of the public taste in this country, and to determine how far this taste is healthy or depraved; which again could not be determined, without pointing out, in what manner language and the human mind act and react on each other, and without retracing the revolutions not of literature alone but likewise of society itself. I have therefore altogether declined to enter regularly upon this defence; yet I am sensible, that there would be some impropriety in abruptly obtruding upon the Public, without a few words of introduction, Poems so materially different from those, upon which general approbation is at present bestowed.<pb xml:id="p_ix"/></p>
+<p>It is supposed, that by the act of writing in verse an Author makes a formal engagement that he will gratify certain known habits of association, that he not only thus apprizes the Reader that certain classes of ideas and expressions will be found in his book, but that others will be carefully excluded. This exponent or symbol held forth by metrical language must in different æras of literature have excited very different expectations: for example, in the age of Catullus Terence and Lucretia, and that of Statius or Claudian, and in our own country, in the age of Shakespeare and Beaumont and Fletcher, and that of Donne and Cowley, or Dryden, or Pope. I will not take upon me to determine the exact import of the promise which by the act of writing in verse an Author in the present day makes to his Reader; but I am certain it will appear to many persons that I have not fulfilled the terms of an engagement thus voluntarily contracted. I hope there-<pb xml:id="p_x"/> fore the Reader will not censure me, if I attempt to state what I have proposed to myself to perform, and also, (as far as the limits of a preface will permit) to explain some of the chief reasons which have determined me in the choice of my purpose: that at least he may be spared any unpleasant feeling of disappointment, and that I myself may be protected from the most dishonorable accusation which can be brought against an Author, namely, that of an indolence which prevents him from endeavouring to ascertain what is his duty, or, when his duty is ascertained prevents him from performing it.</p>
+<p>The principal object then which I proposed to myself in these Poems was to make the incidents of common life interesting by tracing in them, truly though not ostentatiously, the primary laws of our nature: chiefly as far as regards the manner in which we associate ideas in a state of<pb xml:id="p_xi"/> excitement. Low and rustic life was generally chosen because in that situation the essential passions of the heart find a better soil in which they can attain their maturity, are less under restraint, and speak a plainer and more emphatic language; because in that situation our elementary feelings exist in a state of greater simplicity and consequently may be more accurately contemplated and more forcibly communicated; because the manners of rural life germinate from those elementary feelings; and from the necessary character of rural occupations are more easily comprehended; and are more durable; and lastly, because in that situation the passions of men are incorporated with the beautiful and permanent forms of nature. The language too of these men is adopted (purified indeed from what appear to be its real defects, from all lasting and rational causes of dislike or disgust) because such men hourly communicate with the best objects from<pb xml:id="p_xii"/> which the best part of language is originally derived; and because, from their rank in society and the sameness and narrow circle of their intercourse, being less under the action of social vanity they convey their feelings and notions in simple and unelaborated expressions. Accordingly such a language arising out of repeated experience and regular feelings is a more permanent and a far more philosophical language than that which is frequently substituted for it by Poets, who think that they are conferring honour upon themselves and their art in proportion as they separate themselves from the sympathies of men, and indulge in arbitrary and capricious habits of expression in order to furnish food for fickle tastes and fickle appetites of their own creation.*</p>
+<p>* It is worth while here to observe that the affecting parts of Chaucer are almost always expressed in language pure and universally intelligible even to this day.<pb xml:id="p_xiii"/></p>
+<p>I cannot be insensible of the present outcry against the triviality and meanness both of thought and language, which some of my contemporaries have occasionally introduced into their metrical compositions; and I acknowledge that this defect where it exists, is more dishonorable to the Writer’s own character than false refinement or arbitrary innovation, though I should contend at the same time that it is far less pernicious in the sum of its consequences. From such verses the Poems in these volumes will be found distinguished at least by one mark of difference, that each of them has a worthy purpose. Not that I mean to say, that I always began to write with a distinct purpose formally conceived; but I believe that my habits of meditation have so formed my feelings, as that my descriptions of such objects as strongly excite those feelings, will be found to carry along with them a purpose. If in this opinion I am mistaken I can have little right to the name of a<pb xml:id="p_xiv"/></p>
+<p>Poet. For all good poetry is the spontaneous overflow of powerful feelings; but though this be true, Poems to which any value can be attached, were never produced on any variety of subjects but by a man who being possessed of more than usual organic sensibility had also thought long and deeply. For our continued influxes of feeling are modified and directed by our thoughts, which are indeed the representatives of all our past feelings; and as by contemplating the relation of these general representatives to each other, we discover what is really important to men, so by the repetition and continuance of this act feelings connected with important subjects will be nourished, till at length, if we be originally possessed of much organic sensibility, such habits of mind will be produced that by obeying blindly and mechanically the impulses of those habits we shall describe objects and utter sentiments of such a nature and in such connection with each other,<pb xml:id="p_xv"/> that the understanding of the being to whom we address ourselves, if he be in a healthful state of association, must necessarily be in some degree enlightened, his taste exalted, and his affections ameliorated.</p>
+<p>I have said that each of these poems has a purpose. I have also informed my Reader what this purpose will be found principally to be: namely to illustrate the manner in which our feelings and ideas are associated in a state of excitement. But speaking in less general language, it is to follow the fluxes and refluxes of the mind when agitated by the great and simple affections of our nature. This object I have endeavoured in these short essays to attain by various means; by tracing the maternal passion through many of its more subtle windings, as in the poems of the IDIOT BOY and the MAD MOTHER; by accompanying the last struggles of a human being<pb xml:id="p_xvi"/> at the approach of death, cleaving in solitude to life and society, as in the Poem of the FORSAKEN INDIAN; by shewing, as in the Stanzas entitled WE ARE SEVEN, the perplexity and obscurity which in childhood attend our notion of death, or rather our utter inability to admit that notion; or by displaying the strength of fraternal, or to speak more philosophically, of moral attachment when early associated with the great and beautiful objects of nature, as in THE BROTHERS; or, as in the Incident of SIMON LEE, by placing my Reader in the way of receiving from ordinary moral sensations another and more salutary impression than we are accustomed to receive from them. It has also been part of my general purpose to attempt to sketch characters under the influence of less impassioned feelings, as in the OLD MAN TRAVELLING, THE TWO THIEVES, &amp;c. characters of which the elements are simple, belonging rather to nature than to manners, such<pb xml:id="p_xvii"/> as exist now and will probably always exist, and which from their constitution may be distinctly and profitably contemplated. I will not abuse the indulgence of my Reader by dwelling longer upon this subject; but it is proper that I should mention one other circumstance which distinguishes these Poems from the popular Poetry of the day; it is this, that the feeling therein developed gives importance to the action and situation and not the action and situation to the feeling. My meaning will be rendered perfectly intelligible by referring my Reader to the Poems entitled POOR SUSAN and the CHILDLESS FATHER, particularly to the last Stanza of the latter Poem.</p>
+<p>I will not suffer a sense of false modesty to prevent me from asserting, that I point my Reader’s attention to this mark of distinction far less for the sake of these particular Poems than from the general importance of the subject. The subject<pb xml:id="p_xviii"/> is indeed important! For the human mind is capable of excitement without the application of gross and violent stimulants; and he must have a very faint perception of its beauty and dignity who does not know this, and who does not further know that one being is elevated above another in proportion as he possesses this capability. It has therefore appeared to me that to endeavour to produce or enlarge this capability is one of the best services in which, at any period, a Writer can be engaged; but this service, excellent at all times, is especially so at the present day. For a multitude of causes unknown to former times are now acting with a combined force to blunt the discriminating powers of the mind, and unfitting it for all voluntary exertion to reduce it to a state of almost savage torpor. The most effective of these causes are the great national events which are daily taking place, and the encreasing accumulation of men in cities, where the<pb xml:id="p_xix"/> uniformity of their occupations produces a craving for extraordinary incident which the rapid communication of intelligence hourly gratifies. To this tendency of life and manners the literature and theatrical exhibitions of the country have conformed themselves. The invaluable works of our elder writers, I had almost said the works of Shakespear and Milton, are driven into neglect by frantic novels, sickly and stupid German Tragedies, and deluges of idle and extravagant stories in verse.—When I think upon this degrading thirst after outrageous stimulation I am almost ashamed to have spoken of the feeble effort with which I have endeavoured to counteract it; and reflecting upon the magnitude of the general evil, I should be oppressed with no dishonorable melancholy, had I not a deep impression of certain inherent and indestructible qualities of the human mind, and likewise of certain powers in the great and permanent objects that act upon it which are<pb xml:id="p_xx"/> equally inherent and indestructible; and did I not further add to this impression a belief that the time is approaching when the evil will be systematically opposed by men of greater powers and with far more distinguished success.</p>
+<p>Having dwelt thus long on the subjects and aim of these Poems, I shall request the Reader’s permission to apprize him of a few circumstances relating to their style, in order, among other reasons, that I may not be censured for not having performed what I never attempted. Except in a very few instances the Reader will find no personifications of abstract ideas in these volumes, not that I mean to censure such personifications: they may be well fitted for certain sorts of composition, but in these Poems I propose to myself to imitate, and, as far as is possible, to adopt the very language of men, and I do not find that such personifications make any regular or natural<pb xml:id="p_xxi"/> part of that language. I wish to keep my Reader in the company of flesh and blood, persuaded that by so doing I shall interest him. Not but that I believe that others who pursue a different track may interest him likewise: I do not interfere with their claim, I only wish to prefer a different claim of my own. There will also be found in these volumes little of what is usually called poetic diction; I have taken as much pains to avoid it as others ordinarily take to produce it; this I have done for the reason already alleged, to bring my language near to the language of men, and further, because the pleasure which I have proposed to myself to impart is of a kind very different from that which is supposed by many persons to be the proper object of poetry. I do not know how without being culpably particular I can give my Reader a more exact notion of the style in which I wished these poems to be written than by informing him that I have at all times<pb xml:id="p_xxii"/> endeavoured to look steadily at my subject, consequently I hope it will be found that there is in these Poems little falsehood of description, and that my ideas are expressed in language fitted to their respective importance. Something I must have gained by this practice, as it is friendly to one property of all good poetry, namely good sense; but it has necessarily cut me off from a large portion of phrases and figures of speech which from father to son have long been regarded as the common inheritance of Poets. I have also thought it expedient to restrict myself still further, having abstained from the use of many expressions, in themselves proper and beautiful, but which have been foolishly repeated by bad Poets till such feelings of disgust are connected with them as it is scarcely possible by any art of association to overpower.</p>
+<p>If in a Poem there should be found a series of lines,<pb xml:id="p_xxiii"/> or even a single line, in which the language, though naturally arranged and according to the strict laws of metre, does not differ from that of prose, there is a numerous class of critics who, when they stumble upon these prosaisms as they call them, imagine that they have made a notable discovery, and exult over the Poet as over a man ignorant of his own profession. Now these men would establish a canon of criticism which the Reader will conclude he must utterly reject if he wishes to be pleased with these volumes. And it would be a most easy task to prove to him that not only the language of a large portion of every good poem, even of the most elevated character, must necessarily, except with reference to the metre, in no respect differ from that of good prose, but likewise that some of the most interesting parts of the best poems will be found to be strictly the language of prose when prose is well written. The truth of this assertion might be<pb xml:id="p_xxiv"/> demonstrated by innumerable passages from almost all the poetical writings, even of Milton himself. I have not space for much quotation; but, to illustrate the subject in a general manner, I will here adduce a short composition of Gray, who was at the head of those who by their reasonings have attempted to widen the space of separation betwixt Prose and Metrical composition, and was more than any other man curiously elaborate in the structure of his own poetic diction.</p>
+<p>
+In vain to me the smiling mornings shine,</p>
+<p>And reddening Phœbus lifts his golden fire:</p>
+<p>The birds in vain their amorous descant join,</p>
+<p>Or chearful fields resume their green attire:</p>
+<p>These ears alas! for other notes repine;</p>
+<p>A different object do these eyes require;</p>
+<p>My lonely anguish melts no heart but mine;</p>
+<p>And in my breast the imperfect joys expire;</p>
+<p>Yet Morning smiles the busy race to cheer,</p>
+<p>And new-born pleasure brings to happier men;</p>
+<p>The fields to all their wonted tribute bear;</p>
+<p>To warm their little loves the birds complain.</p>
+<p>I fruitless mourn to him that cannot hear</p>
+<p>And weep the more because I weep in vain.<pb xml:id="p_xxv"/></p>
+<p>It will easily by perceived that the only part of this Sonnet which is of any value is the lines printed in Italics: it is equally obvious that except in the rhyme, and in the use of the single word “fruitless” for fruitlessly, which is so far a defect, the language of these lines does in no respect differ from that of prose.</p>
+<p>
+Is there then, it will be asked, no essential difference between the language of prose and metrical composition? I answer that there neither is nor can be any essential difference. We are fond of tracing the resemblance between Poetry and Painting, and, accordingly, we call them Sisters: but where shall we find bonds of connection sufficiently strict to typify the affinity betwixt metrical and prose composition? They both speak by and to the same organs; the bodies in which both of them are clothed may be said to be of the same substance, their affections are<pb xml:id="p_xxvi"/> kindred and almost identical, not necessarily differing even in degree; *Poetry sheds no tears “such as Angels weep,” but natural and human tears; she can boast of no celestial Ichor that distinguishes her vital juices from those of prose; the same human blood circulates through the veins of them both.</p>
+<p>If it be affirmed that rhyme and metrical arrangement of themselves constitute a distinction which overturns what I have been saying on the strict affinity of metrical language with that of prose, and paves the way for other distinctions which</p>
+<p>
+* I here use the word “Poetry” (though against my own judgment) as opposed to the word Prose, and synonomous with metrical composition. But much confusion has been introduced into criticism by this contradistinction of Poetry and Prose, instead of the more philosophical one of Poetry and Science. The only strict antithesis to Prose is Metre.<pb xml:id="p_xxvii"/> the mind voluntarily admits, I answer that the distinction of rhyme and metre is regular and uniform, and not, like that which is produced by what is usually called poetic diction, arbitrary and subject to infinite caprices upon which no calculation whatever can be made. In the one case the Reader is utterly at the mercy of the Poet respecting what imagery or diction he may choose to connect with the passion, whereas in the other the metre obeys certain laws, to which the Poet and Reader both willingly submit because they are certain, and because no interference is made by them with the passion but such as the concurring testimony of ages has shewn to heighten and improve the pleasure which co-exists with it.</p>
+<p>It will now be proper to answer an obvious question, namely, why, professing these opinions have I written in verse? To this in the first place I reply, because, however I may have restricted<pb xml:id="p_xxviii"/> myself, there is still left open to me what confessedly constitutes the most valuable object of all writing whether in prose or verse, the great and universal passions of men, the most general and interesting of their occupations, and the entire world of nature, from which I am at liberty to supply myself with endless combinations of forms and imagery. Now, granting for a moment that whatever is interesting in these objects may be as vividly described in prose, why am I to be condemned if to such description I have endeavoured to superadd the charm which by the consent of all nations is acknowledged to exist in metrical language? To this it will be answered, that a very small part of the pleasure given by Poetry depends upon the metre, and that it is injudicious to write in metre unless it be accompanied with the other artificial distinctions of style with which metre is usually accompanied, and that by such deviation more will be lost from the shock which<pb xml:id="p_xxix"/> will be thereby given to the Reader’s associations than will be counterbalanced by any pleasure which he can derive from the general power of numbers. In answer to those who thus contend for the necessity of accompanying metre with certain appropriate colours of style in order to the accomplishment of its appropriate end, and who also, in my opinion, greatly under-rate the power of metre in itself, it might perhaps be almost sufficient to observe that poems are extant, written upon more humble subjects, and in a more naked and simple style than what I have aimed at, which poems have continued to give pleasure from generation to generation. Now, if nakedness and simplicity be a defect, the fact here mentioned affords a strong presumption that poems somewhat less naked and simple are capable of affording pleasure at the present day; and all that I am now attempting is to justify myself for having written under the impression of this belief.<pb xml:id="p_xxx"/></p>
+<p>But I might point out various causes why, when the style is manly, and the subject of some importance, words metrically arranged will long continue to impart such a pleasure to mankind as he who is sensible of the extent of that pleasure will be desirous to impart. The end of Poetry is to produce excitement in coexistence with an overbalance of pleasure. Now, by the supposition, excitement is an unusual and irregular state of the mind; ideas and feelings do not in that state succeed each other in accustomed order. But if the words by which this excitement is produced are in themselves powerful, or the images and feelings have an undue proportion of pain connected with them, there is some danger that the excitement may be carried beyond its proper bounds. Now the co-presence of something regular, something to which the mind has been accustomed when in an unexcited or a less excited state, cannot but have great efficacy in tempering<pb xml:id="p_xxxi"/> and restraining the passion by an intertexture of ordinary feeling. This may be illustrated by appealing to the Reader’s own experience of the reluctance with which he comes to the re-perusal of the distressful parts of Clarissa Harlowe, or the Gamester. While Shakespeare’s writings, in the most pathetic scenes, never act upon us as pathetic beyond the bounds of pleasure—an effect which is in a great degree to be ascribed to small, but continual and regular impulses of pleasurable surprise from the metrical arrangement.—On the other hand (what it must be allowed will much more frequently happen) if the Poet’s words should be incommensurate with the passion, and inadequate to raise the Reader to a height of desirable excitement, then, (unless the Poet’s choice of his metre has been grossly injudicious) in the feelings of pleasure which the Reader has been accustomed to connect with metre in general, and in the feeling, whether chearful or melancholy, which he has<pb xml:id="p_xxxii"/> been accustomed to connect with that particular movement of metre, there will be found something which will greatly contribute to impart passion to the words, and to effect the complex end which the Poet proposes to himself.</p>
+<p>If I had undertaken a systematic defence of the theory upon which these poems are written, it would have been my duty to develope the various causes upon which the pleasure received from metrical language depends. Among the chief of these causes is to be reckoned a principle which must be well known to those who have made any of the Arts the object of accurate reflection; I mean the pleasure which the mind derives from the perception of similitude in dissimilitude. This principle is the great spring of the activity of our minds and their chief feeder. From this principle the direction of the sexual appetite, and all the passions connected with it take their origin:<pb xml:id="p_xxxiii"/></p>
+<p>It is the life of our ordinary conversation; and upon the accuracy with which similitude in dissimilitude, and dissimilitude in similitude are perceived, depend our taste and our moral feelings. It would not have been a useless employment to have applied this principle to the consideration of metre, and to have shewn that metre is hence enabled to afford much pleasure, and to have pointed out in what manner that pleasure is produced. But my limits will not permit me to enter upon this subject, and I must content myself with a general summary.</p>
+<p>I have said that Poetry is the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity: the emotion is contemplated till by a species of reaction the tranquillity gradually disappears, and an emotion, similar to that which was before the subject of contemplation, is gradually produced, and does<pb xml:id="p_xxxiv"/> itself actually exist in the mind. In this mood successful composition generally begins, and in a mood similar to this it is carried on; but the emotion, of whatever kind and in whatever degree, from various causes is qualified by various pleasures, so that in describing any passions whatsoever, which are voluntarily described, the mind will upon the whole be in a state of enjoyment. Now if Nature be thus cautious in preserving in a state of enjoyment a being thus employed, the Poet ought to profit by the lesson thus held forth to him, and ought especially to take care, that whatever passions he communicates to his Reader, those passions, if his Reader’s mind be sound and vigorous, should always be accompanied with an overbalance of pleasure. Now the music of harmonious metrical language, the sense of difficulty overcome, and the blind association of pleasure which has been previously received from works of rhyme or metre of the same or similar<pb xml:id="p_xxxv"/> construction, all these imperceptibly make up a complex feeling of delight, which is of the most important use in tempering the painful feeling which will always be found intermingled with powerful descriptions of the deeper passions. This effect is always produced in pathetic and impassioned poetry; while in lighter compositions the ease and gracefulness with which the Poet manages his numbers are themselves confessedly a principal source of the gratification of the Reader. I might perhaps include all which it is necessary to say upon this subject by affirming what few persons will deny, that of two descriptions either of passions, manners, or characters, each of them equally well executed, the one in prose and the other in verse, the verse will be read a hundred times where the prose is read once. We see that Pope by the power of verse alone, has contrived to render the plainest common sense interesting, and even frequently to<pb xml:id="p_xxxvi"/> invest it with the appearance of passion. In consequence of these convictions I related in metre the Tale of GOODY BLAKE and HARRY GILL, which is one of the rudest of this collection. I wished to draw attention to the truth that the power of the human imagination is sufficient to produce such changes even in our physical nature as might almost appear miraculous. The truth is an important one; the fact (for it is a fact) is a valuable illustration of it. And I have the satisfaction of knowing that it has been communicated to many hundreds of people who would never have heard of it, had it not been narrated as a Ballad, and in a more impressive metre than is usual in Ballads.</p>
+<p>Having thus adverted to a few of the reasons why I have written in verse, and why I have chosen subjects from common life, and endeavoured to bring my language near to the real language of<pb xml:id="p_xxxvii"/> men, if I have been too minute in pleading my own cause, I have at the same time been treating a subject of general interest; and it is for this reason that I request the Reader’s permission to add a few words with reference solely to these particular poems, and to some defects which will probably be found in them. I am sensible that my associations must have sometimes been particular instead of general, and that, consequently, giving to things a false importance, sometimes from diseased impulses I may have written upon unworthy subjects; but I am less apprehensive on this account, than that my language may frequently have suffered from those arbitrary connections of feelings and ideas with particular words, from which no man can altogether protect himself. Hence I have no doubt that in some instances feelings even of the ludicrous may be given to my Readers by expressions which appeared to me tender and pathetic. Such faulty<pb xml:id="p_xxxviii"/> expressions, were I convinced they were faulty at present, and that they must necessarily continue to be so, I would willingly take all reasonable pains to correct. But it is dangerous to make these alterations on the simple authority of a few individuals, or even of certain classes of men; for where the understanding of an Author is not convinced, or his feelings altered, this cannot be done without great injury to himself: for his own feelings are his stay and support, and if he sets them aside in one instance, he may be induced to repeat this act till his mind loses all confidence in itself and becomes utterly debilitated. To this it may be added, that the Reader ought never to forget that he is himself exposed to the same errors as the Poet, and perhaps in a much greater degree: for there can be no presumption in saying that it is not probable he will be so well acquainted with the various stages of meaning through which words have passed, or with the<pb xml:id="p_xxxix"/> fickleness or stability of the relations of particular ideas to each other; and above all, since he is so much less interested in the subject, he may decide lightly and carelessly.</p>
+<p>Long as I have detained my Reader, I hope he will permit me to caution him against a mode of false criticism which has been applied to Poetry in which the language closely resembles that of life and nature. Such verses have been triumphed over in parodies of which Dr. Johnson’s Stanza is a fair specimen.</p>
+<p>
+“ I put my hat upon my head,</p>
+<p>And walk’d into the Strand,</p>
+<p>And there I met another man</p>
+<p>Whose hat was in his hand.”</p>
+<p>
+Immediately under these lines I will place one of the most justly admired stanzas of the “ Babes in the Wood.”<pb xml:id="p_xl"/></p>
+<p>“ These pretty Babes with hand in hand</p>
+<p>Went wandering up and down;</p>
+<p>But never more they saw the Man</p>
+<p>Approaching from the Town.”</p>
+<p>
+In both of these stanzas the words, and the order of the words, in no respect differ from the most unimpassioned conversation. There are words in both, for example, “the Strand,” and “the Town,” connected with none but the most familiar ideas; yet the one stanza we admit as admirable, and the other as a fair example of the superlatively contemptible. Whence arises this difference? Not from the metre, not from the language, not from the order of the words; but the matter expressed in Dr. Johnson’s stanza is contemptible. The proper method of treating trivial and simple verses to which Dr. Johnson’s stanza would be a fair parallelism is not to say this is a bad kind of poetry, or this is not poetry, but this wants sense; it is neither interesting in itself, nor can lead to<pb xml:id="p_xli"/> any thing interesting; the images neither originate in that sane state of feeling which arises out of thought, nor can excite thought or feeling in the Reader. This is the only sensible manner of dealing with such verses: Why trouble yourself about the species till you have previously decided upon the genus? Why take pains to prove that an Ape is not a Newton when it is self-evident that he is not a man.</p>
+<p>I have one request to make of my Reader, which is, that in judging these Poems he would decide by his own feelings genuinely, and not by reflection upon what will probably be the judgment of others. How common is it to hear a person say, “ I myself do not object to this style of composition or this or that expression, but to such and such classes of people it will appear mean or ludicrous.” This mode of criticism so destructive of all sound unadulterated judgment is almost<pb xml:id="p_xlii"/> universal: I have therefore to request that the Reader would abide independently by his own feelings, and that if he finds himself affected he would not suffer such conjectures to interfere with his pleasure.</p>
+<p>If an Author by any single composition has impressed us with respect for his talents, it is useful to consider this as affording a presumption, that, on other occasions where we have been displeased, he nevertheless may not have written ill or absurdly; and, further, to give him so much credit for this one composition as may induce us to review what has displeased us with more care than we should otherwise have bestowed upon it. This is not only an act of justice, but in our decisions upon poetry especially, may conduce in a high degree to the improvement of our own taste: for an accurate taste in Poetry and in all the other arts, as Sir Joshua Reynolds has observed, is an<pb xml:id="p_xliii"/> acquired talent, which can only be produced by thought and a long continued intercourse with the best models of composition. This is mentioned not with so ridiculous a purpose as to prevent the most inexperienced Reader from judging for himself, (I have already said that I wish him to judge for himself;) but merely to temper the rashness of decision, and to suggest that if Poetry be a subject on which much time has not been bestowed, the judgment may be erroneous, and that in many cases it necessarily will be so.</p>
+<p>I know that nothing would have so effectually contributed to further the end which I have in view as to have shewn of what kind the pleasure is, and how the pleasure is produced which is confessedly produced by metrical composition essentially different from what I have here endeavoured to recommend; for the Reader will<pb xml:id="p_xliv"/> say that he has been pleased by such composition and what can I do more for him? The power of any art is limited and he will suspect that if I propose to furnish him with new friends it is only upon condition of his abandoning his old friends. Besides, as I have said, the Reader is himself conscious of the pleasure which he has received from such composition, composition to which he has peculiarly attached the endearing name of Poetry; and all men feel an habitual gratitude, and something of an honorable bigotry for the objects which have long continued to please them: we not only wish to be pleased, but to be pleased in that particular way in which we have been accustomed to be pleased. There is a host of arguments in these feelings; and I should be the less able to combat them successfully, as I am willing to allow, that, in order entirely to enjoy the Poetry which I am recommending, it would be necessary to give up much of what is ordinarily<pb xml:id="p_xlv"/> enjoyed. But would my limits have permitted me to point out how this pleasure is produced, I might have removed many obstacles, and assisted my Reader in perceiving that the powers of language are not so limited as he may suppose; and that it is possible that poetry may give other enjoyments, of a purer, more lasting, and more exquisite nature. But this part of my subject I have been obliged altogether to omit: as it has been less my present aim to prove that the interest excited by some other kinds of poetry is less vivid, and less worthy of the nobler powers of the mind, than to offer reasons for presuming, that, if the object which I have proposed to myself were adequately attained, a species of poetry would be produced, which is genuine poetry; in its nature well adapted to interest mankind permanently, and likewise important in the multiplicity and quality of its moral relations.<pb xml:id="p_xlvi"/></p>
+<p>From what has been said, and from a perusal of the Poems, the Reader will be able clearly to perceive the object which I have proposed to myself: he will determine how far I have attained this object; and, what is a much more important question, whether it be worth attaining; and upon the decision of these two questions will rest my claim to the approbation of the public.<pb xml:id="p_1"/></p>
+EXPOSTULATION 
+
+AND 
+
+REPLY.
+
+<l>“Why, William, on that old grey stone, </l>
+<l>“Thus for the length of half a day, </l>
+<l>“Why, William, sit you thus alone, </l>
+<l>“And dream your time away? </l>
+<l>
+“Where are your books? that light bequeath’d</l>
+<l>“To beings else forlorn and blind! </l>
+<l>“Up! Up! and drink the spirit breath’d </l>
+<l>“From dead men to their kind. <pb xml:id="p_2"/></l>
+<l>“You look round on your mother earth, </l>
+<l>“As if she for no purpose bore you; </l>
+<l>“As if you were her first-born birth, </l>
+<l>“And none had lived before you!”</l>
+<l>One morning thus, by Esthwaite lake, </l>
+<l>When life was sweet, I knew not why, </l>
+<l>To me my good friend Matthew spake, </l>
+<l>And thus I made reply. </l>
+<l>
+“The eye it cannot chuse but see, </l>
+<l>“We cannot bid the ear be still; </l>
+<l>“Our bodies feel, where’er they be, </l>
+<l>“Against, or with our will.</l>
+<l>
+“Nor less I deem that there are powers</l>
+<l>“Which of themselves our minds impress, </l>
+<l>“That we can feed this mind of ours</l>
+<l>“In a wise passiveness.<pb xml:id="p_3"/></l>
+<l>“Think you, mid all this mighty sum </l>
+<l>“Of things for ever speaking, </l>
+<l>“That nothing of itself will come, </l>
+<l>“But we must still be seeking? </l>
+<l>“—Then ask not wherefore, here, alone, </l>
+<l>“Conversing as I may, </l>
+<l>“I sit upon this old grey stone, </l>
+<l>“And dream my time away.”<pb xml:id="p_4"/></l>
+<l>THE TABLES TURNED; </l>
+<l>An Evening Scene, on the same Subject.</l>
+<l>Up! up! my friend, and clear your looks, </l>
+<l>Why all this toil and trouble? </l>
+<l>Up! up! my friend, and quit your books, </l>
+<l>Or surely you’ll grow double. </l>
+<l>The sun, above the mountain’s head, </l>
+<l>A freshening lustre mellow </l>
+<l>Through all the long green fields has spread,</l>
+<l>His first sweet evening yellow. <pb xml:id="p_5"/></l>
+<l>Books! ’tis a dull and endless strife, </l>
+<l>Come, here the woodland linnet, </l>
+<l>How sweet his music; on my life </l>
+<l>There’s more of wisdom in it. </l>
+<l>And hark! how blithe the throstle sings!</l>
+<l>And he is no mean preacher;</l>
+<l>Come forth into the light of things, </l>
+<l>Let Nature be your teacher.</l>
+<l>She has a world of ready wealth,</l>
+<l>Our minds and hearts to bless—</l>
+<l>Spontaneous wisdom breathed by health, </l>
+<l>Truth breathed by chearfulness. </l>
+<l>One impulse from a vernal wood </l>
+<l>May teach you more of man;</l>
+<l>Of moral evil and of good, </l>
+<l>Than all the sages can.<pb xml:id="p_6"/></l>
+<l>Sweet is the lore which nature brings; </l>
+<l>Our meddling intellect </l>
+<l>Mishapes the beauteous forms of things; </l>
+<l>—We murder to dissect. </l>
+<l>Enough of science and of art; </l>
+<l>Close up these barren leaves; </l>
+<l>Come forth, and bring with you a heart </l>
+<l>That watches and receives.<pb xml:id="p_7"/></l>
+<l>ANIMAL TRANQUILLITY &amp; DECAY. </l>
+<l>A SKETCH.</l>
+<l>
+                              The little hedge-row birds</l>
+<l>That peck along the road, regard him not. </l>
+<l>He travels on, and in his face, his step, </l>
+<l>His gait, is one expression; every limb, </l>
+<l>His look and bending figure, all bespeak </l>
+<l>A man who does not move with pain, but moves</l>
+<l>With thought—He is insensibly subdued</l>
+<l>To settled quiet: he is one by whom </l>
+<l>All effort seems forgotten, one to whom </l>
+<l>Long patience has such mild composure given,</l>
+<l>That patience now doth seem a thing, of which </l>
+<l>He hath no need. He is by nature led <pb xml:id="p_8"/></l>
+<l>To peace so perfect, that the young behold </l>
+<l>With envy, what the old man hardly feels.</l>
+<l>—I asked him whither he was bound, and what </l>
+<l>The object of his journey; he replied </l>
+<l>That he was going many miles to take </l>
+<l>A last leave of his son, a mariner, </l>
+<l>Who from a sea-fight had been brought to Falmouth, </l>
+<l>And there was lying in an hospital.<pb xml:id="p_9"/></l>
+<l>THE COMPLAINT </l>
+<l>OF A FORSAKEN </l>
+<l>INDIAN WOMAN.</l>
+<l>
+[When a Northern Indian, from sickness, is unable to continue his journey with his companions; he is left behind, covered over with Deer-skins, and is supplied with water, food, and fuel if the situation of the place will afford it. He is informed of the track which his companions intend to pursue, and if he is unable to follow, or overtake them, he perishes alone in the Desart; unless he should have the good fortune to fall in with some other Tribes of Indians. It is unnecessary to add that the females are equally, or still more, exposed to the same fate. See that very interesting work,<pb xml:id="p_10"/></l>
+<l>Hearne’s Journey from Hudson’s Bay to the Northern Ocean. In the high Northern Latitudes, as the same writer informs us, when the Northern Lights vary their position in the air, they make a rustling and a crackling noise. This circumstance is alluded to in the first stanza of the following poem.]<pb xml:id="p_11"/></l>
+<l>THE COMPLAINT, </l>
+<l>
+&amp;c.</l>
+<l>Before I see another day, </l>
+<l>Oh let my body die away! </l>
+<l>In sleep I heard the northern gleams; </l>
+<l>The stars they were among my dreams; </l>
+<l>In sleep did I behold the skies, </l>
+<l>I saw the crackling flashes drive;</l>
+<l>And yet they are upon my eyes, </l>
+<l>And yet I am alive.</l>
+<l>Before I see another day, </l>
+<l>Oh let my body die away! <pb xml:id="p_12"/></l>
+<l>My fire is dead: it knew no pain; </l>
+<l>Yet it is dead, and I remain. </l>
+<l>All stiff with ice the ashes lie; </l>
+<l>And they are dead, and I will die. </l>
+<l>When I was well, I wished to live,</l>
+<l>For clothes, for warmth, for food, and fire;</l>
+<l>But they to me no joy can give, </l>
+<l>No pleasure now, and no desire. </l>
+<l>Then here contented will I lie; </l>
+<l>Alone I cannot fear to die. </l>
+<l>Alas! you might have dragged me on</l>
+<l>Another day, a single one! </l>
+<l>Too soon despair o’er me prevailed;</l>
+<l>Too soon my heartless spirit failed; </l>
+<l>When you were gone my limbs were stronger,</l>
+<l>And Oh how grievously I rue,</l>
+<l>That, afterwards, a little longer,</l>
+<l>My friends, I did not follow you! </l>
+<l>For strong and without pain I lay, </l>
+<l>My friends, when you were gone away.<pb xml:id="p_13"/></l>
+<l>My child! they gave thee to another,</l>
+<l>A woman who was not thy mother. </l>
+<l>When from my arms my babe they took, </l>
+<l>On me how strangely did he look! </l>
+<l>Through his whole body something ran,</l>
+<l>A most strange something did I see;</l>
+<l>—As if he strove to be a man, </l>
+<l>That he might pull the sledge for me.</l>
+<l>And then he stretched his arms, how wild!</l>
+<l>Oh mercy! like a little child. </l>
+<l>My little joy! my little pride! </l>
+<l>In two days more I must have died. </l>
+<l>Then do not weep and grieve for me; </l>
+<l>I feel I must have died with thee. </l>
+<l>Oh wind that o’er my head art flying, </l>
+<l>The way my friends their course did bend,</l>
+<l>I should not feel the pain of dying,</l>
+<l>Could I with thee a message send.</l>
+<l>Too soon, my friends, you went away;</l>
+<l>For I had many things to say.<pb xml:id="p_14"/></l>
+<l>I’ll follow you across the snow,</l>
+<l>You travel heavily and slow: </l>
+<l>In spite of all my weary pain, </l>
+<l>I’ll look upon your tents again. </l>
+<l>My fire is dead, and snowy white </l>
+<l>The water which beside it stood; </l>
+<l>The wolf has come to me to-night,</l>
+<l>And he has stolen away my food. </l>
+<l>For ever left alone am I, </l>
+<l>Then wherefore should I fear to die? </l>
+<l>My journey will be shortly run, </l>
+<l>I shall not see another sun, </l>
+<l>I cannot lift my limbs to know </l>
+<l>If they have any life or no. </l>
+<l>My poor forsaken child! if I </l>
+<l>For once could have thee close to me, </l>
+<l>With happy heart I then should die, </l>
+<l>And my last thoughts would happy be. </l>
+<l>I feel my body die away, </l>
+<l>I shall not see another day.<pb xml:id="p_15"/></l>
+<l>THE </l>
+<l>LAST OF THE FLOCK.</l>
+<l>In distant countries I have been, </l>
+<l>And yet I have not often seen </l>
+<l>A healthy man, a man full grown, </l>
+<l>Weep in the public roads alone. </l>
+<l>But such a one, on English ground, </l>
+<l>And in the broad high-way, I met; </l>
+<l>Along the broad high-way he came, </l>
+<l>His cheeks with tears were wet. </l>
+<l>Sturdy he seemed, though he was sad; </l>
+<l>And in his arms a lamb he had. <pb xml:id="p_16"/></l>
+<l>He saw me, and he turned aside, </l>
+<l>As if he wished himself to hide: </l>
+<l>Then with his coat he made essay </l>
+<l>To wipe those briny tears away. </l>
+<l>I follow’d him, and said, “ My friend </l>
+<l>“What ails you? wherefore weep you so?”</l>
+<l>—“Shame on me, Sir! this lusty lamb, </l>
+<l>He makes my tears to flow. </l>
+<l>To-day I fetched him from the rock; </l>
+<l>He is the last of all my flock.</l>
+<l>When I was young, a single man, </l>
+<l>And after youthful follies ran, </l>
+<l>Though little given to care and thought, </l>
+<l>Yet, so it was, a ewe I bought; </l>
+<l>And other sheep from her I raised, </l>
+<l>As healthy sheep as you might see, </l>
+<l>And then I married, and was rich </l>
+<l>As I could wish to be; </l>
+<l>Of sheep I numbered a full score, </l>
+<l>And every year increas’d my store. <pb xml:id="p_17"/></l>
+<l>Year after year my stock it grew, </l>
+<l>And from this one, this single ewe, </l>
+<l>Full fifty comely sheep I raised, </l>
+<l>As sweet a flock as ever grazed!</l>
+<l>Upon the mountain did they feed; </l>
+<l>They throve, and we at home did thrive. </l>
+<l>—This lusty lamb of all my store </l>
+<l>Is all that is alive; </l>
+<l>And now I care not if we die, </l>
+<l>And perish all of poverty.</l>
+<l>Six children, Sir! had I to feed, </l>
+<l>Hard labour in a time of need! </l>
+<l>My pride was tamed, and in our grief, </l>
+<l>I of the parish ask’d relief. </l>
+<l>They said I was a wealthy man; </l>
+<l>My sheep upon the mountain fed, </l>
+<l>And it was fit that thence I took </l>
+<l>Whereof to buy us bread:”</l>
+<l>“Do this; how can we give to you,”</l>
+<l>They cried, “what to the poor is due?”<pb xml:id="p_18"/></l>
+<l>I sold a sheep as they had said, </l>
+<l>And bought my little children bread, </l>
+<l>And they were healthy with their food; </l>
+<l>For me it never did me good. </l>
+<l>A woeful time it was for me, </l>
+<l>To see the end of all my gains, </l>
+<l>The pretty flock which I had reared </l>
+<l>With all my care and pains, </l>
+<l>To see it melt like snow away! </l>
+<l>For me it was woeful day. </l>
+<l>Another still! and still another! </l>
+<l>A little lamb, and then its mother! </l>
+<l>It was a vein that never stopp’d, </l>
+<l>Like blood-drops from my heart they dropp’d.</l>
+<l>Till thirty were not left alive </l>
+<l>They dwindled, dwindled, one by one, </l>
+<l>And I may say that many a time </l>
+<l>I wished they all were gone: </l>
+<l>They dwindled one by one away; </l>
+<l>For me it was a woeful day. <pb xml:id="p_19"/></l>
+<l>To wicked deeds I was inclined, </l>
+<l>And wicked fancies cross’d my mind, </l>
+<l>And every man I chanc’d to see, </l>
+<l>I thought he knew some ill of me. </l>
+<l>No peace, no comfort could I find, </l>
+<l>No ease, within doors or without, </l>
+<l>And crazily, and wearily, </l>
+<l>I went my work about. </l>
+<l>Oft-times I thought to run away; </l>
+<l>For me it was a woeful day. </l>
+<l>Sir! ’twas a precious flock to me,</l>
+<l>As dear as my own children be; </l>
+<l>For daily with my growing store </l>
+<l>I loved my children more and more. </l>
+<l>Alas! it was an evil time; </l>
+<l>God cursed me in my sore distress, </l>
+<l>I prayed, yet every day I thought </l>
+<l>I loved my children less; </l>
+<l>And every week, and every day, </l>
+<l>My flock, it seemed to melt away. <pb xml:id="p_20"/></l>
+<l>They dwindled, Sir, sad sight to see!</l>
+<l>From ten to five, from five to three, </l>
+<l>A lamb, a weather, and a ewe; </l>
+<l>And then at last, from three to two; </l>
+<l>And of my fifty, yesterday </l>
+<l>I had but only one, </l>
+<l>And here it lies upon my arm, </l>
+<l>Alas! and I have none; </l>
+<l>To-day I fetched it from the rock; </l>
+<l>It is the last of all my flock.”<pb xml:id="p_21"/></l>
+<l>LINES </l>
+<l>Left upon a seat in a YEW-TREE, which stands near the </l>
+<l>Lake of ESTHWAITE, on a desolate part of the shore, </l>
+<l>yet commanding a beautiful prospect.</l>
+<l>
+—Nay, Traveller! rest. This lonely yew-tree stands</l>
+<l>Far from all human dwelling: what if here</l>
+<l>No sparkling rivulet spread the verdant herb;</l>
+<l>What if these barren boughs the bee not loves;</l>
+<l>Yet, if the wind breathe soft, the curling waves,</l>
+<l>That break against the shore, shall lull thy mind</l>
+<l>By one soft impulse saved from vacancy.</l>
+<l>
+————————Who he was </l>
+<l>That piled these stones, and with the mossy sod</l>
+<l>First covered o’er and taught this aged tree</l>
+<l>With its dark arms to form a circling bower,<pb xml:id="p_22"/></l>
+<l>I well remember.—He was one who owned</l>
+<l>No common soul. In youth by science nursed </l>
+<l>And led by nature into a wild scene</l>
+<l>Of lofty hopes, he to the world went forth,</l>
+<l>A favored being, knowing no desire </l>
+<l>Which genius did not hallow, ’gainst the taint</l>
+<l>Of dissolute tongues, and jealousy, and hate</l>
+<l>And scorn, against all enemies prepared, </l>
+<l>All but neglect. The world, for so it thought,</l>
+<l>Owed him no service: he was like a plant</l>
+<l>Fair to the sun, the darling of the winds,</l>
+<l>But hung with fruit which no one, that passed by,</l>
+<l>Regarded, and, his spirit damped at once,</l>
+<l>With indignation did he turn away </l>
+<l>And with the food of pride sustained his soul </l>
+<l>In solitude.—Stranger! these gloomy boughs </l>
+<l>Had charms for him; and here he loved to sit, </l>
+<l>His only visitants a straggling sheep, </l>
+<l>The stone-chat, or the glancing sand-piper; </l>
+<l>And on these barren rocks, with juniper, </l>
+<l>And heath, and thistle, thinly sprinkled o’er, <pb xml:id="p_23"/></l>
+<l>Fixing his downcast eye, he many an hour </l>
+<l>A morbid pleasure nourished, tracing here</l>
+<l>An emblem of his own unfruitful life: </l>
+<l>And lifting up his head, he then would gaze </l>
+<l>On the more distant scene; how lovely ’tis</l>
+<l>Thou seest, and he would gaze till it became </l>
+<l>Far lovelier, and his heart could not sustain </l>
+<l>The beauty still more beauteous. Nor, that time</l>
+<l>When Nature had subdued him to herself</l>
+<l>Would he forget those beings, to whose minds,</l>
+<l>Warm from the labours of benevolence, </l>
+<l>The world, and man himself, appeared a scene </l>
+<l>Of kindred loveliness: then he would sigh </l>
+<l>With mournful joy, to think that others felt </l>
+<l>What he must never feel: and so, lost man! </l>
+<l>On visionary views would fancy feed, </l>
+<l>Till his eye streamed with tears. In this deep vale</l>
+<l>He died, this seat his only monument. </l>
+<l>If thou be one whose heart the holy forms</l>
+<l>Of young imagination have kept pure,<pb xml:id="p_24"/></l>
+<l>Stranger! henceforth be warned; and know, that pride,</l>
+<l>Howe’er disguised in its own majesty, </l>
+<l>Is littleness; that he, who feels contempt </l>
+<l>For any living thing, hath faculties </l>
+<l>Which he has never used; that thought with him</l>
+<l>Is in its infancy. The man, whose eye </l>
+<l>Is ever on himself, doth look on one, </l>
+<l>The least of nature’s works, one who might move </l>
+<l>The wise man to that scorn which wisdom holds </l>
+<l>Unlawful, ever. O, be wiser thou! </l>
+<l>Instructed that true knowledge leads to love, </l>
+<l>True dignity abides with him alone </l>
+<l>Who, in the silent hour of inward thought, </l>
+<l>Can still suspect, and still revere himself, </l>
+<l>In lowliness of heart.<pb xml:id="p_25"/></l>
+<l>THE </l>
+<l>FOSTER-MOTHER’s TALE. </l>
+<l>A Narration in Dramatic Blank Verse.</l>
+<l>
+                              But that entrance, Mother!</l>
+<l>FOSTER-MOTHER.</l>
+<l>Can no one hear? It is a perilous tale!</l>
+<l>MARIA.</l>
+<l>No one.</l>
+<l>FOSTER-MOTHER.</l>
+<l>
+             My husband’s father told it me,</l>
+<l>Poor old Leoni!—Angels rest his soul!</l>
+<l>He was a woodman, and could fell and saw </l>
+<l>With lusty arm. You know that huge round beam </l>
+<l>Which props the hanging wall of the old chapel?<pb xml:id="p_26"/></l>
+<l>Beneath that tree, while yet it was a tree </l>
+<l>He found a baby wrapt in mosses, lined </l>
+<l>With thistle beards, and such small locks of wool </l>
+<l>As hang on brambles. Well, he brought him home,</l>
+<l>And reared him at the then Lord Velez’ cost. </l>
+<l>And so the babe grew up a pretty boy, </l>
+<l>A pretty boy, but most unteachable—</l>
+<l>And never learnt a prayer, nor told a bead, </l>
+<l>But knew the names of birds, and mocked their notes,</l>
+<l>And whistled, as he were a bird himself: </l>
+<l>And all the autumn ’twas his only play</l>
+<l>To get the seeds of wild flowers, and to plant them</l>
+<l>With earth and water, on the stumps of trees.</l>
+<l>A Friar, who gathered simples in the wood, </l>
+<l>A grey-haired man—he loved this little boy,</l>
+<l>The boy loved him—and, when the Friar taught him,</l>
+<l>He soon could write with the pen: and from that time,</l>
+<l>Lived chiefly at the Convent or the Castle.</l>
+<l>So he became a very learned youth. </l>
+<l>But Oh! poor wretch!—he read, and read, and read,</l>
+<l>’Till his brain turned—and ere his twentieth year,<pb xml:id="p_27"/></l>
+<l>He had unlawful thoughts of many things: </l>
+<l>And though he prayed, he never loved to pray </l>
+<l>With holy men, nor in a holy place—</l>
+<l>But yet his speech, it was so soft and sweet, </l>
+<l>The late Lord Velez ne’er was wearied with him. </l>
+<l>And once, as by the north side of the Chapel </l>
+<l>They stood together, chained in deep discourse, </l>
+<l>The earth heaved under them with such a groan, </l>
+<l>That the wall tottered, and had well-nigh fallen </l>
+<l>Right on their heads. My Lord was sorely frightened;</l>
+<l>A fever seized him, and he made confession </l>
+<l>Of all the heretical and lawless talk </l>
+<l>Which brought this judgment: so the youth was seized</l>
+<l>And cast into that cell. My husband’s father </l>
+<l>Sobbed like a child—it almost broke his heart: </l>
+<l>And once as he was working in the cellar,</l>
+<l>He heard a voice distinctly; ’twas the youth’s</l>
+<l>Who sang a doleful song about green fields, </l>
+<l>How sweet it were on lake or wild savannah,</l>
+<l>To hunt for food, and be a naked man, </l>
+<l>And wander up and down at liberty.<pb xml:id="p_28"/></l>
+<l>Leoni doted on the youth, and now </l>
+<l>His love grew desperate; and defying death, </l>
+<l>He made that cunning entrance I described: </l>
+<l>And the young man escaped. </l>
+<l>MARIA.</l>
+<l>
+                              ’Tis a sweet tale.</l>
+<l>And what became of him?</l>
+<l>FOSTER-MOTHER.</l>
+<l>
+                              He went on ship-board</l>
+<l>With those bold voyagers, who made discovery </l>
+<l>Of golden lands. Leoni’s younger brother </l>
+<l>Went likewise, and when he returned to Spain, </l>
+<l>He told Leoni, that the poor mad youth, </l>
+<l>Soon after they arrived in that new world, </l>
+<l>In spite of his dissuasion, seized a boat, </l>
+<l>And all alone, set sail by silent moonlight </l>
+<l>Up a great river, great as any sea, </l>
+<l>And ne’er was heard of more: but ’tis supposed,</l>
+<l>He lived and died among the savage men.<pb xml:id="p_29"/></l>
+<l>GOODY BLAKE &amp; HARRY GILL, </l>
+<l>A TRUE STORY.</l>
+<l>Oh! what’s the matter? what’s the matter? </l>
+<l>What is’t that ails young Harry Gill? </l>
+<l>That evermore his teeth they chatter, </l>
+<l>Chatter, chatter, chatter still. </l>
+<l>Of waistcoats Harry has no lack, </l>
+<l>Good duffle grey, and flannel fine;</l>
+<l>He has a blanket on his back, </l>
+<l>And coats enough to smother nine. <pb xml:id="p_30"/></l>
+<l>In March, December, and in July, </l>
+<l>’Tis all the same with Harry Gill; </l>
+<l>The neighbours tell, and tell you truly, </l>
+<l>His teeth they chatter, chatter still. </l>
+<l>At night, at morning, and at noon, </l>
+<l>’Tis all the same with Harry Gill;</l>
+<l>Beneath the sun, beneath the moon, </l>
+<l>His teeth they chatter, chatter still. </l>
+<l>Young Harry was a lusty drover, </l>
+<l>And who so stout of limb as he? </l>
+<l>His cheeks were red as ruddy clover, </l>
+<l>His voice was like the voice of three. </l>
+<l>Auld Goody Blake was old and poor,</l>
+<l>Ill fed she was, and thinly clad;</l>
+<l>And any man who pass’d her door, </l>
+<l>Might see how poor a hut she had. <pb xml:id="p_31"/></l>
+<l>All day she spun in her poor dwelling, </l>
+<l>And then her three hours’ work at night!</l>
+<l>Alas! ’twas hardly worth the telling,</l>
+<l>It would not pay for candle-light. </l>
+<l>—This woman dwelt in Dorsetshire, </l>
+<l>Her hut was on a cold hill-side, </l>
+<l>And in that country coals are dear, </l>
+<l>For they come far by wind and tide. </l>
+<l>By the same fire to boil their pottage, </l>
+<l>Two poor old dames, as I have known, </l>
+<l>Will often live in one small cottage, </l>
+<l>But she, poor woman, dwelt alone. </l>
+<l>’Twas well enough when summer came,</l>
+<l>The long, warm, lightsome summer-day, </l>
+<l>Then at her door the canty dame </l>
+<l>Would sit, as any linnet gay. <pb xml:id="p_32"/></l>
+<l>But when the ice our streams did fetter, </l>
+<l>Oh! then how her old bones would shake! </l>
+<l>You would have said, if you had met her,</l>
+<l>’Twas a hard time for Goody Blake.</l>
+<l>Her evenings then were dull and dead; </l>
+<l>Sad case it was, as you may think, </l>
+<l>For very cold to go to bed, </l>
+<l>And then for cold not sleep a wink. </l>
+<l>Oh joy for her! whene’er in winter </l>
+<l>The winds at night had made a rout, </l>
+<l>And scatter’d many a lusty splinter, </l>
+<l>And many a rotten bough about. </l>
+<l>Yet never had she, well or sick, </l>
+<l>As every man who knew her says, </l>
+<l>A pile before hand, wood or stick, </l>
+<l>Enough to warm her for three days. <pb xml:id="p_33"/></l>
+<l>Now when the frost was past enduring,</l>
+<l>And made her poor old bones to ache, </l>
+<l>Could any thing be more alluring, </l>
+<l>Than an old hedge to Goody Blake? </l>
+<l>And now and then, it must be said, </l>
+<l>When her old bones were cold and chill, </l>
+<l>She left her fire, or left her bed, </l>
+<l>To seek the hedge of Harry Gill.</l>
+<l>Now Harry he had long suspected </l>
+<l>This trespass of old Goody Blake, </l>
+<l>And vow’d that she should be detected, </l>
+<l>And he on her would vengeance take. </l>
+<l>And oft from his warm fire he’d go, </l>
+<l>And to the fields his road would take, </l>
+<l>And there, at night, in frost and snow, </l>
+<l>He watch’d to seize old Goody Blake.<pb xml:id="p_34"/></l>
+<l>And once, behind a rick of barley, </l>
+<l>Thus looking out did Harry stand; </l>
+<l>The moon was full and shining clearly, </l>
+<l>And crisp with frost the stubble land.</l>
+<l>—He hears a noise—he’s all awake— </l>
+<l>Again?—on tip-toe down the hill </l>
+<l>He softly creeps—’Tis Goody Blake, </l>
+<l>She’s at the hedge of Harry Gill. </l>
+<l>Right glad was he when he beheld her; </l>
+<l>Stick after stick did Goody pull, </l>
+<l>He stood behind a bush of elder, </l>
+<l>Till she had filled her apron full. </l>
+<l>When with her load she turned about, </l>
+<l>The bye-road back again to take, </l>
+<l>He started forward with a shout, </l>
+<l>And sprang upon poor Goody Blake. <pb xml:id="p_35"/></l>
+<l>And fiercely by the arm he took her, </l>
+<l>And by the arm he held her fast, </l>
+<l>And fiercely by the arm he shook her, </l>
+<l>And cried, “ I’ve caught you then at last!”</l>
+<l>Then Goody, who had nothing said, </l>
+<l>Her bundle from her lap let fall; </l>
+<l>And kneeling on the sticks, she pray’d </l>
+<l>To God that is the judge of all. </l>
+<l>She pray’d, her wither’d hand uprearing, </l>
+<l>While Harry held her by the arm— </l>
+<l>“God! who art never out of hearing, </l>
+<l>“O may he never more be warm!”</l>
+<l>The cold, cold moon above her head, </l>
+<l>Thus on her knees did Goody pray, </l>
+<l>Young Harry heard what she had said, </l>
+<l>And icy-cold he turned away. <pb xml:id="p_36"/></l>
+<l>He went complaining all the morrow </l>
+<l>That he was cold and very chill: </l>
+<l>His face was gloom, his heart was sorrow,</l>
+<l>Alas! that day for Harry Gill! </l>
+<l>That day he wore a riding-coat, </l>
+<l>But not a whit the warmer he: </l>
+<l>Another was on Thursday brought, </l>
+<l>And ere the Sabbath he had three. </l>
+<l>’Twas all in vain, a useless matter,</l>
+<l>And blankets were about him pinn’d; </l>
+<l>Yet still his jaws and teeth they clatter, </l>
+<l>Like a loose casement in the wind. </l>
+<l>And Harry’s flesh it fell away; </l>
+<l>And all who see him say ’tis plain,</l>
+<l>That, live as long as live he may, </l>
+<l>He never will be warm again. <pb xml:id="p_37"/></l>
+<l>No word to any man he utters, </l>
+<l>A-bed or up, to young or old; </l>
+<l>But ever to himself he mutters, </l>
+<l>“ Poor Harry Gill is very cold.”</l>
+<l>A-bed or up, by night or day; </l>
+<l>His teeth they chatter, chatter still. </l>
+<l>Now think, ye farmers all, I pray, </l>
+<l>Of Goody Blake and Harry Gill.<pb xml:id="p_38"/></l>
+<l>THE THORN.</l>
+<l>I.</l>
+<l>There is a thorn; it looks so old,</l>
+<l>In truth you’d find it hard to say,</l>
+<l>How it could ever have been young,</l>
+<l>It looks so old and grey.</l>
+<l>Not higher than a two years’ child</l>
+<l>It stands erect this aged thorn;</l>
+<l>No leaves it has, no thorny points;</l>
+<l>It is a mass of knotted joints,</l>
+<l>A wretched thing forlorn.</l>
+<l>It stands erect, and like a stone</l>
+<l>With lichens it is overgrown.<pb xml:id="p_39"/></l>
+<l>II.</l>
+<l>Like rock or stone, it is o’ergrown</l>
+<l>With lichens to the very top,</l>
+<l>And hung with heavy tufts of moss,</l>
+<l>A melancholy crop:</l>
+<l>Up from the earth these mosses creep,</l>
+<l>And this poor thorn they clasp it round</l>
+<l>So close, you’d say that they were bent</l>
+<l>With plain and manifest intent,</l>
+<l>To drag it to the ground;</l>
+<l>And all had join’d in one endeavour</l>
+<l>To bury this poor thorn for ever.</l>
+<l>III.</l>
+<l>High on a mountain’s highest ridge,</l>
+<l>Where oft the stormy winter gale</l>
+<l>Cuts like a scythe, while through the clouds</l>
+<l>It sweeps from vale to vale;</l>
+<l>Not five yards from the mountain-path,<pb xml:id="p_40"/></l>
+<l>This thorn you on your left espy;</l>
+<l>And to the left, three yards beyond,</l>
+<l>You see a little muddy pond</l>
+<l>Of water, never dry;</l>
+<l>I’ve measured it from side to side:</l>
+<l>’Tis three feet long, and two feet wide.</l>
+<l>IV.</l>
+<l>And close beside this aged thorn,</l>
+<l>There is a fresh and lovely sight,</l>
+<l>A beauteous heap, a hill of moss,</l>
+<l>Just half a foot in height.</l>
+<l>All lovely colours there you see,</l>
+<l>All colours that were ever seen,</l>
+<l>And mossy network too is there,</l>
+<l>As if by hand of lady fair</l>
+<l>The work had woven been,</l>
+<l>And cups, the darlings of the eye,</l>
+<l>So deep is their vermilion dye.<pb xml:id="p_41"/></l>
+<l>V.</l>
+<l>Ah me! what lovely tints are there!</l>
+<l>Of olive green and scarlet bright,</l>
+<l>In spikes, in branches, and in stars,</l>
+<l>Green, red, and pearly white.</l>
+<l>This heap of earth o’ergrown with moss,</l>
+<l>Which close beside the thorn you see,</l>
+<l>So fresh in all its beauteous dyes,</l>
+<l>Is like an infant’s grave in size</l>
+<l>As like as like can be:</l>
+<l>But never, never any where,</l>
+<l>An infant’s grave was half so fair.</l>
+<l>VI.</l>
+<l>Now would you see this aged thorn,</l>
+<l>This pond and beauteous hill of moss,</l>
+<l>You must take care and chuse your time</l>
+<l>The mountain when to cross.</l>
+<l>For oft there sits, between the heap<pb xml:id="p_42"/></l>
+<l>That’s like an infant’s grave in size</l>
+<l>And that same pond of which I spoke,</l>
+<l>A woman in a scarlet cloak,</l>
+<l>And to herself she cries,</l>
+<l>“ Oh misery! oh misery!</l>
+<l>“ Oh woe is me! oh misery!”</l>
+<l>VII.</l>
+<l>At all times of the day and night</l>
+<l>This wretched woman thither goes,</l>
+<l>And she is known to every star,</l>
+<l>And every wind that blows;</l>
+<l>And there beside the thorn she sits</l>
+<l>When the blue day-light’s in the skies,</l>
+<l>And when the whirlwind’s on the hill,</l>
+<l>Or frosty air is keen and still,</l>
+<l>And to herself she cries,</l>
+<l>“ Oh misery! oh misery!</l>
+<l>“ Oh woe is me! oh misery;”<pb xml:id="p_43"/></l>
+<l>VIII.</l>
+<l>
+“Now wherefore thus, by day and night,</l>
+<l>“In rain, in tempest, and in snow</l>
+<l>“Thus to the dreary mountain-top</l>
+<l>“Does this poor woman go?</l>
+<l>“And why sits she beside the thorn</l>
+<l>“When the blue day-light’s in the sky,</l>
+<l>“Or when the whirlwind’s on the hill,</l>
+<l>“Or frosty air is keen and still,</l>
+<l>“And wherefore does she cry?—</l>
+<l>“Oh wherefore? wherefore? tell me why</l>
+<l>“Does she repeat that doleful cry?”</l>
+<l>IX.</l>
+<l>I cannot tell; I wish I could;</l>
+<l>For the true reason no one knows,</l>
+<l>But if you’d gladly view the spot,</l>
+<l>The spot to which she goes;</l>
+<l>The heap that’s like an infant’s grave,<pb xml:id="p_44"/></l>
+<l>The pond—and thorn, so old and grey,</l>
+<l>Pass by her door—tis seldom shut—</l>
+<l>And if you see her in her hut,</l>
+<l>Then to the spot away!—</l>
+<l>I never heard of such as dare</l>
+<l>Approach the spot when she is there.</l>
+<l>X.</l>
+<l>
+“But wherefore to the mountain-top,</l>
+<l>“Can this unhappy woman go,</l>
+<l>“Whatever star is in the skies,</l>
+<l>“Whatever wind may blow?”</l>
+<l>Nay rack your brain—’tis all in vain,</l>
+<l>I’ll tell you every thing I know;</l>
+<l>But to the thorn and to the pond</l>
+<l>Which is a little step beyond,</l>
+<l>I wish that you would go:</l>
+<l>Perhaps when you are at the place</l>
+<l>You something of her tale may trace.<pb xml:id="p_45"/></l>
+<l>XI.</l>
+<l>I’ll give you the best help I can:</l>
+<l>Before you up the mountain go,</l>
+<l>Up to the dreary mountain-top,</l>
+<l>I’ll tell you all I know.</l>
+<l>’Tis now some two and twenty years,</l>
+<l>Since she (her name is Martha Ray)</l>
+<l>Gave with a maiden’s true good will</l>
+<l>Her company to Stephen Hill;</l>
+<l>And she was blithe and gay,</l>
+<l>And she was happy, happy still</l>
+<l>Whene’er she thought of Stephen Hill.</l>
+<l>XII.</l>
+<l>And they had fix’d the wedding-day,</l>
+<l>The morning that must wed them both;</l>
+<l>But Stephen to another maid</l>
+<l>Had sworn another oath;</l>
+<l>And with this other maid to church<pb xml:id="p_46"/></l>
+<l>Unthinking Stephen went—</l>
+<l>Poor Martha! on that woful day</l>
+<l>A cruel, cruel fire, they say,</l>
+<l>Into her bones was sent:</l>
+<l>It dried her body like a cinder,</l>
+<l>And almost turn’d her brain to tinder.</l>
+<l>XIII.</l>
+<l>They say, full six months after this,</l>
+<l>While yet the summer leaves were green,</l>
+<l>She to the mountain-top would go,</l>
+<l>And there was often seen.</l>
+<l>’Tis said, a child was in her womb,</l>
+<l>As now to any eye was plain;</l>
+<l>She was with child, and she was mad,</l>
+<l>Yet often she was sober sad</l>
+<l>From her exceeding pain.</l>
+<l>Oh me! ten thousand times I’d rather</l>
+<l>That he had died, that cruel father!<pb xml:id="p_47"/></l>
+<l>XIV.</l>
+<l>Sad case for such a brain to hold</l>
+<l>Communion with a stirring child!</l>
+<l>Sad case, as you may think, for one</l>
+<l>Who had a brain so wild!</l>
+<l>Last Christmas when we talked of this,</l>
+<l>Old Farmer Simpson did maintain,</l>
+<l>That in her womb the infant wrought</l>
+<l>About its mother’s heart, and brought</l>
+<l>Her senses back again:</l>
+<l>And when at last her time drew near,</l>
+<l>Her looks were calm, her senses clear.</l>
+<l>XV.</l>
+<l>No more I know, I wish I did,</l>
+<l>And I would tell it all to you;</l>
+<l>For what became of this poor child</l>
+<l>There’s none that ever knew:</l>
+<l>And if a child was born or no,<pb xml:id="p_48"/></l>
+<l>There’s no one that could ever tell</l>
+<l>And if ’twas born alive or dead,</l>
+<l>There’s no one knows, as I have said,</l>
+<l>But some remember well,</l>
+<l>That Martha Ray about this time</l>
+<l>Would up the mountain often climb.</l>
+<l>XVI.</l>
+<l>And all that winter, when at night</l>
+<l>The wind blew from the mountain-peak,</l>
+<l>’Twas worth your while, though in the dark,</l>
+<l>The church-yard path to seek:</l>
+<l>For many a time and oft were heard</l>
+<l>Cries coming from the mountain-head,</l>
+<l>Some plainly living voices were,</l>
+<l>And others, I’ve heard many swear,</l>
+<l>Were voices of the dead:</l>
+<l>I cannot think, whate’er they say,</l>
+<l>They had to do with Martha Ray.<pb xml:id="p_49"/></l>
+<l>XVII.</l>
+<l>But that she goes to this old thorn,</l>
+<l>The thorn which I’ve described to you,</l>
+<l>And there sits in a scarlet cloak,</l>
+<l>I will be sworn is true.</l>
+<l>For one day with my telescope,</l>
+<l>To view the ocean wide and bright,</l>
+<l>When to this country first I came,</l>
+<l>Ere I had heard of Martha’s name,</l>
+<l>I climbed the mountain’s height:</l>
+<l>A storm came on, and I could see</l>
+<l>No object higher than my knee.</l>
+<l>XVIII.</l>
+<l>
+’Twas mist and rain, and storm and rain,</l>
+<l>No screen, no fence could I discover,</l>
+<l>And then the wind! in faith, it was</l>
+<l>A wind full ten times over.</l>
+<l>I looked around, I thought I saw<pb xml:id="p_50"/></l>
+<l>A jutting crag, and off I ran,</l>
+<l>Head-foremost, through the driving rain,</l>
+<l>The shelter of the crag to gain,</l>
+<l>And, as I am a man,</l>
+<l>Instead of jutting crag, I found</l>
+<l>A woman seated on the ground.</l>
+<l>XIX.</l>
+<l>I did not speak—I saw her face,</l>
+<l>In truth it was enough for me;</l>
+<l>I turned about and heard her cry,</l>
+<l>“O misery! O misery!”</l>
+<l>And there she sits, until the moon</l>
+<l>Through half the clear blue sky will go,</l>
+<l>And when the little breezes make</l>
+<l>The waters of the pond to shake,</l>
+<l>As all the country know,</l>
+<l>She shudders, and you hear her cry,</l>
+<l>“ Oh misery! oh misery!<pb xml:id="p_51"/></l>
+<l>XX.</l>
+<l>
+“But what’s the thorn? and what’s the pond?</l>
+<l>“And what’s the hill of moss to her?</l>
+<l>“And what’s the creeping breeze that comes</l>
+<l>“The little pond to stir?”</l>
+<l>I cannot tell; but some will say</l>
+<l>She hanged her baby on the tree,</l>
+<l>Some say she drowned it in the pond,</l>
+<l>Which is a little step beyond,</l>
+<l>But all and each agree,</l>
+<l>The little babe was buried there,</l>
+<l>Beneath that hill of moss so fair.</l>
+<l>XXI.</l>
+<l>I’ve heard, the moss is spotted red</l>
+<l>With drops of that poor infant’s blood;</l>
+<l>But kill a new-born infant thus!</l>
+<l>I do not think she could.</l>
+<l>Some say, if to the pond you go,<pb xml:id="p_52"/></l>
+<l>And fix on it a steady view,</l>
+<l>The shadow of a babe you trace,</l>
+<l>A baby and a baby’s face,</l>
+<l>And that it looks at you;</l>
+<l>Whene’er you look on it, ’tis plain</l>
+<l>The baby looks at you again.</l>
+<l>XXII.</l>
+<l>And some had sworn an oath that she</l>
+<l>Should be to public justice brought;</l>
+<l>And for the little infant’s bones</l>
+<l>With spades they would have sought.</l>
+<l>But then the beauteous hill of moss</l>
+<l>Before their eyes began to stir;</l>
+<l>And for full fifty yards around,</l>
+<l>The grass it shook upon the ground;</l>
+<l>But all do still aver</l>
+<l>The little babe is buried there.</l>
+<l>Beneath that hill of moss so fair.<pb xml:id="p_53"/></l>
+<l>XXIII.</l>
+<l>I cannot tell how this may be,</l>
+<l>But plain it is, the thorn is bound</l>
+<l>With heavy tufts of moss, that strive</l>
+<l>To drag it to the ground.</l>
+<l>And this I know, full many a time,</l>
+<l>When she was on the mountain high,</l>
+<l>By day, and in the silent night,</l>
+<l>When all the stars shone clear and bright,</l>
+<l>That I have heard her cry,</l>
+<l>“ Oh misery! oh misery!</l>
+<l>“ O woe is me! oh misery!”<pb xml:id="p_54"/></l>
+<l>WE ARE SEVEN.</l>
+<l>A simple child, dear brother Jim,</l>
+<l>That lightly draws its breath, </l>
+<l>And feels its life in every limb, </l>
+<l>What should it know of death? </l>
+<l>I met a little cottage girl,</l>
+<l>She was eight years old, she said;</l>
+<l>Her hair was thick with many a curl</l>
+<l>That cluster’d round her head.</l>
+<l>She had a rustic, woodland air, </l>
+<l>And she was wildly clad; </l>
+<l>Her eyes were fair, and very fair, </l>
+<l>—Her beauty made me glad. <pb xml:id="p_55"/></l>
+<l>“Sisters and brothers, little maid, </l>
+<l>“How many may you be?”</l>
+<l>“How many? seven in all,” she said,</l>
+<l>And wondering looked at me. </l>
+<l>“And where are they, I pray you tell?”</l>
+<l>She answered, “ Seven are we, </l>
+<l>“And two of us at Conway dwell, </l>
+<l>“And two are gone to sea.</l>
+<l>
+“Two of us in the church-yard lie, </l>
+<l>“My sister and my brother, </l>
+<l>“And in the church-yard cottage, I </l>
+<l>“Dwell near them with my mother.”</l>
+<l>
+“You say that two at Conway dwell,</l>
+<l>“And two are gone to sea, </l>
+<l>“Yet you are seven; I pray you tell </l>
+<l>“Sweet Maid, how this may be?”<pb xml:id="p_56"/></l>
+<l>Then did the little Maid reply, </l>
+<l>“Seven boys and girls are we; </l>
+<l>“Two of us in the church-yard lie, </l>
+<l>“Beneath the church-yard tree.”</l>
+<l>“You run about, my little maid, </l>
+<l>“Your limbs they are alive; </l>
+<l>“If two are in the church-yard laid, </l>
+<l>“Then ye are only five.”</l>
+<l>
+“Their graves are green, they may be seen,”</l>
+<l>The little Maid replied, </l>
+<l>“Twelve steps or more from my mother’s door,</l>
+<l>“And they are side by side. </l>
+<l>
+“My stockings there I often knit,</l>
+<l>“My ’kerchief there I hem;</l>
+<l>“And there upon the ground I sit— </l>
+<l>“I sit and sing to them. <pb xml:id="p_57"/></l>
+<l>“And often after sunset, Sir, </l>
+<l>“When it is light and fair, </l>
+<l>“I take my little porringer, </l>
+<l>“And eat my supper there. </l>
+<l>“The first that died was little Jane;</l>
+<l>“In bed she moaning lay, </l>
+<l>“Till God released her of her pain, </l>
+<l>“And then she went away.</l>
+<l>
+“So in the church-yard she was laid, </l>
+<l>“And all the summer dry,</l>
+<l>“Together round her grave we played, </l>
+<l>“My brother John and I.</l>
+<l>
+“And when the ground was white with snow,</l>
+<l>“And I could run and slide, </l>
+<l>“My brother John was forced to go,</l>
+<l>“And he lies by her side.”<pb xml:id="p_58"/></l>
+<l>“How many are you then,” said I,</l>
+<l>“If they two are in Heaven?”</l>
+<l>The little Maiden did reply, </l>
+<l>“O Master! we are seven.”</l>
+<l>“But they are dead; those two are dead! </l>
+<l>“Their spirits are in heaven!”</l>
+<l>’Twas throwing words away; for still</l>
+<l>The little Maid would have her will,</l>
+<l>And said, “Nay, we are seven!”<pb xml:id="p_59"/></l>
+<l>ANECDOTE for FATHERS, </l>
+<l>Shewing how the practice of Lying may be taught.</l>
+<l>I have a boy of five years old,</l>
+<l>His face is fair and fresh to see;</l>
+<l>His limbs are cast in beauty’s mould, </l>
+<l>And dearly he loves me.</l>
+<l>One morn we stroll’d on our dry walk, </l>
+<l>Our quiet house all full in view,</l>
+<l>And held such intermitted talk</l>
+<l>As we are wont to do.<pb xml:id="p_60"/></l>
+<l>My thoughts on former pleasures ran; </l>
+<l>I thought of Kilve’s delightful shore,</l>
+<l>My pleasant home, when Spring began, </l>
+<l>A long, long year before. </l>
+<l>A day it was when I could bear</l>
+<l>To think, and think, and think again;</l>
+<l>With so much happiness to spare,</l>
+<l>I could not feel a pain.</l>
+<l>My boy was by my side, so slim</l>
+<l>And graceful in his rustic dress!</l>
+<l>And oftentimes I talked to him</l>
+<l>In very idleness.</l>
+<l>The young lambs ran a pretty race;</l>
+<l>The morning sun shone bright and warm;</l>
+<l>“Kilve,” said I, “was a pleasant place,</l>
+<l>“And so is Liswyn farm.<pb xml:id="p_61"/></l>
+<l>“My little boy, which like you more,”</l>
+<l>I said and took him by the arm—</l>
+<l>“Our home by Kilve’s delightful shore,</l>
+<l>“Or here at Liswyn farm?”</l>
+<l>“And tell me, had you rather be,”</l>
+<l>I said and held him by the arm,</l>
+<l>“At Kilve’s smooth shore by the green sea,</l>
+<l>“Or here at Liswyn farm?</l>
+<l>In careless mood he looked at me, </l>
+<l>While still I held him by the arm,</l>
+<l>And said, “At Kilve I’d rather be </l>
+<l>“Than here at Liswyn farm.”</l>
+<l>
+“Now, little Edward, say why so;</l>
+<l>My little Edward, tell me why;”</l>
+<l>“I cannot tell, I do not know.”</l>
+<l>“Why this is strange,” said I.<pb xml:id="p_62"/></l>
+<l>“For, here are woods and green hills warm:</l>
+<l>“There surely must some reason be</l>
+<l>“Why you would change sweet Liswyn farm</l>
+<l>“For Kilve by the green sea.”</l>
+<l>At this, my boy hung down his head,</l>
+<l>He blush’d with shame, nor made reply;</l>
+<l>And five times to the child I said,</l>
+<l>“Why, Edward, tell me, why?”</l>
+<l>His head he raised—there was in sight,</l>
+<l>It caught his eye, he saw it plain—</l>
+<l>Upon the house-top, glittering bright,</l>
+<l>A broad and gilded vane.</l>
+<l>Then did the boy his tongue unlock,</l>
+<l>And thus to me he made reply; </l>
+<l>“At Kilve there was no weather-cock,</l>
+<l>“And that’s the reason why.”<pb xml:id="p_63"/></l>
+<l>Oh dearest, dearest boy! my heart</l>
+<l>For better lore would seldom yearn</l>
+<l>Could I but teach the hundredth part</l>
+<l>Of what from thee I learn.<pb xml:id="p_64"/></l>
+<l>LINES </l>
+<l>Written at a small distance from my House, and sent by </l>
+<l>my little boy to the person to whom they are addressed.</l>
+<l>It is the first mild day of March:</l>
+<l>Each minute sweeter than before,</l>
+<l>The red-breast sings from the tall larch</l>
+<l>That stands beside our door.</l>
+<l>There is a blessing in the air,</l>
+<l>Which seems a sense of joy to yield </l>
+<l>To the bare trees, and mountains bare,</l>
+<l>And grass in the green field.</l>
+<l>My Sister! (’tis a wish of mine)</l>
+<l>Now that our morning meal is done,</l>
+<l>Make haste, your morning task resign;</l>
+<l>Come forth and feel the sun.<pb xml:id="p_65"/></l>
+<l>Edward will come with you, and pray,</l>
+<l>Put on with speed your woodland dress, </l>
+<l>And bring no book, for this one day</l>
+<l>We’ll give to idleness.</l>
+<l>No joyless forms shall regulate</l>
+<l>Our living Calendar:</l>
+<l>We from to-day, my friend, will date</l>
+<l>The opening of the year.</l>
+<l>Love, now an universal birth,</l>
+<l>From heart to heart is stealing,</l>
+<l>From earth to man, from man to earth,</l>
+<l>—It is the hour of feeling.</l>
+<l>One moment now may give us more </l>
+<l>Than fifty years of reason;</l>
+<l>Our minds shall drink at every pore</l>
+<l>The spirit of the season.<pb xml:id="p_66"/></l>
+<l>Some silent laws our hearts may make,</l>
+<l>Which they shall long obey;</l>
+<l>We for the year to come may take</l>
+<l>Our temper from to-day.</l>
+<l>And from the blessed power that rolls</l>
+<l>About, below, above;</l>
+<l>We’ll frame the measure of our souls,</l>
+<l>They shall be tuned to love.</l>
+<l>Then come, my sister! come, I pray, </l>
+<l>With speed put on your woodland dress,</l>
+<l>And bring no book; for this one day</l>
+<l>We’ll give to idleness.<pb xml:id="p_67"/></l>
+<l>The FEMALE VAGRANT.</l>
+<l>By Derwent’s side my Father’s cottage stood,</l>
+<l>(The Woman thus her artless story told)</l>
+<l>One field, a flock, and what the neighbouring flood</l>
+<l>Supplied, to him were more than mines of gold.</l>
+<l>Light was my sleep; my days in transport roll’d:</l>
+<l>With thoughtless joy I stretch’d along the shore</l>
+<l>My father’s nets, or from the mountain fold</l>
+<l>Saw on the distant lake his twinkling oar</l>
+<l>Or watch’d his lazy boat still less’ning more and more.<pb xml:id="p_68"/></l>
+<l>My father was a good and pious man,</l>
+<l>An honest man by honest parents bred, </l>
+<l>And I believe that, soon as I began</l>
+<l>To lisp, he made me kneel beside my bed,</l>
+<l>And in his hearing there my prayers I said:</l>
+<l>And afterwards, by my good father taught,</l>
+<l>I read, and loved the books in which I read;</l>
+<l>For books in every neighbouring house I sought,</l>
+<l>And nothing to my mind a sweeter pleasure brought.</l>
+<l>Can I forget what charms did once adorn</l>
+<l>My garden, stored with pease, and mint, and thyme,</l>
+<l>And rose and lily for the sabbath morn?</l>
+<l>The sabbath bells, and the delightful chime;</l>
+<l>The gambols and wild freaks at shearing time;</l>
+<l>My hen’s rich nest through long grass scarce espied;</l>
+<l>The cowslip-gathering at May’s dewy prime;</l>
+<l>The swans, that, when I sought the water-side,</l>
+<l>From far to meet me came, spreading their snowy pride.<pb xml:id="p_69"/></l>
+<l>The staff I yet remember which upbore </l>
+<l>The bending body of my active sire; </l>
+<l>His seat beneath the honeyed sycamore </l>
+<l>When the bees hummed, and chair by winter fire;</l>
+<l>When market-morning came, the neat attire</l>
+<l>With which, though bent on haste, myself I deck’d;</l>
+<l>My watchful dog, whose starts of furious ire,</l>
+<l>When stranger passed, so often I have check’d;</l>
+<l>The red-breast known for years, which at my casement peck’d.</l>
+<l>The suns of twenty summers danced along,—</l>
+<l>Ah! little marked, how fast they rolled away:</l>
+<l>Then rose a stately hall our woods among,</l>
+<l>And cottage after cottage owned its sway.</l>
+<l>No joy to see a neighbouring house, or stray</l>
+<l>Through pastures not his own, the master took;</l>
+<l>My Father dared his greedy wish gainsay;</l>
+<l>He loved his old hereditary nook,</l>
+<l>And ill could I the thought of such sad parting brook.<pb xml:id="p_70"/></l>
+<l>But when he had refused the proffered gold,</l>
+<l>To cruel injuries he became a prey,</l>
+<l>Sore traversed in whate’er he bought and sold:</l>
+<l>His troubles grew upon him day by day, </l>
+<l>Till all his substance fell into decay.</l>
+<l>His little range of water was denied;*</l>
+<l>All but the bed where his old body lay,</l>
+<l>All, all was seized, and weeping, side by side,</l>
+<l>We sought a home where we uninjured might abide.</l>
+<l>Can I forget that miserable hour,</l>
+<l>When from the last hill-top, my sire surveyed,</l>
+<l>Peering above the trees, the steeple tower</l>
+<l>That on his marriage-day sweet music made?</l>
+<l>Till then he hoped his bones might there be laid,</l>
+<l>Close by my mother in their native bowers:</l>
+<l>Bidding me trust in God, he stood and prayed,—</l>
+<l>I could not pray:—through tears that fell in showers,</l>
+<l>Glimmer’d our dear-loved home, alas! no longer ours!</l>
+<l>
+* Several of the Lakes in the north of England are let out to different Fishermen, in parcels marked out by imaginary lines drawn from rock to rock.<pb xml:id="p_71"/></l>
+<l>There was a youth whom I had loved so long,</l>
+<l>That when I loved him not I cannot say. </l>
+<l>’Mid the green mountains many and many a song </l>
+<l>We two had sung, like gladsome birds in May.</l>
+<l>When we began to tire of childish play</l>
+<l>We seemed still more and more to prize each other;</l>
+<l>We talked of marriage and our marriage day;</l>
+<l>And I in truth did love him like a brother, </l>
+<l>For never could I hope to meet with such another.</l>
+<l>His father said, that to a distant town </l>
+<l>He must repair, to ply the artist’s trade. </l>
+<l>What tears of bitter grief till then unknown?</l>
+<l>What tender vows our last sad kiss delayed!</l>
+<l>To him we turned:—we had no other aid. </l>
+<l>Like one revived, upon his neck I wept, </l>
+<l>And her whom he had loved in joy, he said </l>
+<l>He well could love in grief: his faith he kept;</l>
+<l>And in a quiet home once more my father slept.<pb xml:id="p_72"/></l>
+<l>Four years each day with daily bread was blest,</l>
+<l>By constant toil and constant prayer supplied.</l>
+<l>Three lovely infants lay upon my breast; </l>
+<l>And often, viewing their sweet smiles, I sighed, </l>
+<l>And knew not why. My happy father died </l>
+<l>When sad distress reduced the childrens’ meal:</l>
+<l>Thrice happy! that from him the grave did hide</l>
+<l>The empty loom, cold hearth, and silent wheel,</l>
+<l>And tears that flowed for ills which patience could not heal.</l>
+<l>’Twas a hard change, an evil time was come;</l>
+<l>We had no hope, and no relief could gain.</l>
+<l>But soon, with proud parade, the noisy drum</l>
+<l>Beat round, to sweep the streets of want and pain.</l>
+<l>My husband’s arms now only served to strain</l>
+<l>Me and his children hungering in his view:</l>
+<l>In such dismay my prayers and tears were vain:</l>
+<l>To join those miserable men he flew;</l>
+<l>And now to the sea-coast, with numbers more, we drew.<pb xml:id="p_73"/></l>
+<l>There foul neglect for months and months we bore,</l>
+<l>Nor yet the crowded fleet its anchor stirred.</l>
+<l>Green fields before us and our native shore,</l>
+<l>By fever, from polluted air incurred,</l>
+<l>Ravage was made, for which no knell was heard.</l>
+<l>Fondly we wished, and wished away, nor knew,</l>
+<l>’Mid that long sickness, and those hopes deferr’d,</l>
+<l>That happier days we never more must view:</l>
+<l>The parting signal streamed, at last the land withdrew. </l>
+<l>But from delay the summer calms were past.</l>
+<l>On as we drove, the equinoctial deep </l>
+<l>Ran mountains-high before the howling blast.</l>
+<l>We gazed with terror on the gloomy sleep</l>
+<l>Of them that perished in the whirlwind’s sweep,</l>
+<l>Untaught that soon such anguish must ensue,</l>
+<l>Our hopes such harvest of affliction reap,</l>
+<l>That we the mercy of the waves should rue.</l>
+<l>We reached the western world, a poor, devoted crew.<pb xml:id="p_74"/></l>
+<l>Oh! dreadful price of being to resign </l>
+<l>All that is dear in being! better far</l>
+<l>In Want’s most lonely cave till death to pine,</l>
+<l>Unseen, unheard, unwatched by any star; </l>
+<l>Or in the streets and walks where proud men are,</l>
+<l>Better our dying bodies to obtrude,</l>
+<l>Than dog-like, wading at the heels of war, </l>
+<l>Protract a curst existence, with the brood </l>
+<l>That lap (their very nourishment!) their brother’s blood.</l>
+<l>The pains and plagues that on our heads came down,</l>
+<l>Disease and famine, agony and fear, </l>
+<l>In wood or wilderness, in camp or town, </l>
+<l>It would thy brain unsettle even to hear.</l>
+<l>All perished—all, in one remorseless year,</l>
+<l>Husband and children! one by one, by sword</l>
+<l>And ravenous plague, all perished: every tear </l>
+<l>Dried up, despairing, desolate, on board </l>
+<l>A British ship I waked, as from a trance restored.<pb xml:id="p_75"/></l>
+<l>Peaceful as some immeasurable plain </l>
+<l>By the first beams of dawning light impress’d,</l>
+<l>In the calm sunshine slept the glittering main. </l>
+<l>The very ocean has its hour of rest,</l>
+<l>That comes not to the human mourner’s breast.</l>
+<l>Remote from man, and storms of mortal care,</l>
+<l>A heavenly silence did the waves invest: </l>
+<l>I looked and looked along the silent air, </l>
+<l>Until it seemed to bring a joy to my despair.</l>
+<l>Ah! how unlike those late terrific sleeps!</l>
+<l>And groans, that rage of racking famine spoke:</l>
+<l>The unburied dead that lay in festering heaps!</l>
+<l>The breathing pestilence that rose like smoke!</l>
+<l>The shriek that from the distant battle broke!</l>
+<l>The mine’s dire earthquake, and the pallid host</l>
+<l>Driven by the bomb’s incessant thunder-stroke</l>
+<l>To loathsome vaults, where heart-sick anguish toss’d,</l>
+<l>Hope died, and fear itself in agony was lost!<pb xml:id="p_76"/></l>
+<l>Yet does that burst of woe congeal my frame,</l>
+<l>When the dark streets appeared to heave and gape,</l>
+<l>While like a sea the storming army came, </l>
+<l>And Fire from hell reared his gigantic shape, </l>
+<l>And Murder, by the ghastly gleam, and Rape</l>
+<l>Seized their joint prey, the mother and the child!</l>
+<l>But from these crazing thoughts my brain, escape!</l>
+<l>—For weeks the balmy air breathed soft and mild,</l>
+<l>And on the gliding vessel Heaven and Ocean smiled.</l>
+<l>Some mighty gulph of separation past, </l>
+<l>I seemed transported to another world:—</l>
+<l>A thought resigned with pain, when from the mast</l>
+<l>The impatient mariner the sail unfurl’d, </l>
+<l>And whistling, called the wind that hardly curled</l>
+<l>The silent sea. From the sweet thoughts of home,</l>
+<l>And from all hope I was forever hurled. </l>
+<l>For me—farthest from earthly port to roam </l>
+<l>Was best, could I but shun the spot where man might come.<pb xml:id="p_77"/></l>
+<l>And oft, robb’d of my perfect mind, I thought</l>
+<l>At last my feet a resting-place had found:</l>
+<l>Here will I weep in peace, (so fancy wrought,) </l>
+<l>Roaming the illimitable waters round; </l>
+<l>Here watch, of every human friend disowned,</l>
+<l>All day, my ready tomb the ocean-flood—</l>
+<l>To break my dream the vessel reached its bound:</l>
+<l>And homeless near a thousand homes I stood,</l>
+<l>And near a thousand tables pined, and wanted food.</l>
+<l>By grief enfeebled was I turned adrift, </l>
+<l>Helpless as sailor cast on desart rock; </l>
+<l>Nor morsel to my mouth that day did lift,</l>
+<l>Nor dared my hand at any door to knock. </l>
+<l>I lay, where with his drowsy mates, the cock</l>
+<l>From the cross timber of an out-house hung;</l>
+<l>How dismal tolled, that night, the city clock! </l>
+<l>At morn my sick heart hunger scarcely stung, </l>
+<l>Nor to the beggar’s language could I frame my tongue.<pb xml:id="p_78"/></l>
+<l>So passed another day, and so the third: </l>
+<l>Then did I try, in vain, the crowd’s resort, </l>
+<l>In deep despair by frightful wishes stirr’d, </l>
+<l>Near the sea-side I reached a ruined fort: </l>
+<l>There, pains which nature could no more support,</l>
+<l>With blindness linked, did on my vitals fall; </l>
+<l>Dizzy my brain, with interruption short</l>
+<l>Of hideous sense; I sunk, nor step could crawl,</l>
+<l>And thence was borne away to neighbouring hospital.</l>
+<l>Recovery came with food: but still, my brain</l>
+<l>Was weak, nor of the past had memory.</l>
+<l>I heard my neighbours, in their beds, complain</l>
+<l>Of many things which never troubled me; </l>
+<l>Of feet still bustling round with busy glee, </l>
+<l>Of looks where common kindness had no part,</l>
+<l>Of service done with careless cruelty, </l>
+<l>Fretting the fever round the languid heart, </l>
+<l>And groans, which, as they said, would make a dead man start.<pb xml:id="p_79"/></l>
+<l>These things just served to stir the torpid sense,</l>
+<l>Nor pain nor pity in my bosom raised. </l>
+<l>Memory, though slow, returned with strength; and thence</l>
+<l>Dismissed, again on open day I gazed,</l>
+<l>At houses, men, and common light, amazed.</l>
+<l>The lanes I sought, and as the sun retired, </l>
+<l>Came, where beneath the trees a faggot blazed;</l>
+<l>The wild brood saw me weep, my fate enquired,</l>
+<l>And gave me food, and rest, more welcome, more desired.</l>
+<l>My heart is touched to think that men like these,</l>
+<l>The rude earth’s tenants, were my first relief:</l>
+<l>How kindly did they paint their vagrant ease! </l>
+<l>And their long holiday that feared not grief, </l>
+<l>For all belonged to all, and each was chief. </l>
+<l>No plough their sinews strained; on grating road</l>
+<l>No wain they drove, and yet, the yellow sheaf</l>
+<l>In every vale for their delight was stowed:</l>
+<l>For them, in nature’s meads, the milky udder flowed.<pb xml:id="p_80"/></l>
+<l>Semblance, with straw and panniered ass, they made</l>
+<l>Of potters wandering on from door to door:</l>
+<l>But life of happier sort to me pourtrayed,</l>
+<l>And other joys my fancy to allure;</l>
+<l>The bag-pipe dinning on the midnight moor</l>
+<l>In barn uplighted, and companions boon</l>
+<l>Well met from far with revelry secure,</l>
+<l>In depth of forest glade, when jocund June</l>
+<l>Rolled fast along the sky his warm and genial moon.</l>
+<l>But ill it suited me, in journey dark</l>
+<l>O’er moor and mountain, midnight theft to hatch;</l>
+<l>To charm the surly house-dog’s faithful bark,</l>
+<l>Or hang on tiptoe at the lifted latch;</l>
+<l>The gloomy lantern, and the dim blue match,</l>
+<l>The black disguise, the warning whistle shrill,</l>
+<l>And ear still busy on its nightly watch,</l>
+<l>Were not for me, brought up in nothing ill;</l>
+<l>Besides, on griefs so fresh my thoughts were brooding still.<pb xml:id="p_81"/></l>
+<l>What could I do, unaided and unblest?</l>
+<l>Poor Father! gone was every friend of thine:</l>
+<l>And kindred of dead husband are at best </l>
+<l>Small help, and, after marriage such as mine,</l>
+<l>With little kindness would to me incline.</l>
+<l>Ill was I then for toil or service fit:</l>
+<l>With tears whose course no effort could confine,</l>
+<l>By high-way side forgetful would I sit</l>
+<l>Whole hours, my idle arms in moping sorrow knit.</l>
+<l>I lived upon the mercy of the fields, </l>
+<l>And oft of cruelty the sky accused; </l>
+<l>On hazard, or what general bounty yields, </l>
+<l>Now coldly given, now utterly refused. </l>
+<l>The fields I for my bed have often used: </l>
+<l>But, what afflicts my peace with keenest ruth</l>
+<l>Is, that I have my inner self abused, </l>
+<l>Foregone the home delight of constant truth,</l>
+<l>And clear and open soul, so prized in fearless youth.<pb xml:id="p_82"/></l>
+<l>Three years a wanderer, often have I view’d, </l>
+<l>In tears, the sun towards that country tend </l>
+<l>Where my poor heart lost all its fortitude: </l>
+<l>And now across this moor my steps I bend—</l>
+<l>Oh! tell me whither——for no earthly friend </l>
+<l>Have I.——She ceased, and weeping turned away,</l>
+<l>As if because her tale was at an end </l>
+<l>She wept;—because she had no more to say</l>
+<l>Of that perpetual weight which on her spirit lay.<pb xml:id="p_83"/></l>
+<l>THE DUNGEON.</l>
+<l>And this place our forefathers made for man!</l>
+<l>This is the process of our love and wisdom</l>
+<l>To each poor brother who offends against us—</l>
+<l>Most innocent, perhaps—and what if guilty?</l>
+<l>Is this the only cure? Merciful God! </l>
+<l>Each pore and natural outlet shrivell’d up </l>
+<l>By ignorance and parching poverty, </l>
+<l>His energies roll back upon his heart, </l>
+<l>And stagnate and corrupt; till changed to poison,</l>
+<l>They break out on him, like a loathsome plague spot.</l>
+<l>Then we call in our pamper’d mountebanks—</l>
+<l>And this is their best cure! uncomforted<pb xml:id="p_84"/></l>
+<l>And friendless solitude, groaning and tears,</l>
+<l>And savage faces, at the clanking hour,</l>
+<l>Seen through the steams and vapour of his dungeon,</l>
+<l>By the lamp’s dismal twilight! So he lies</l>
+<l>Circled with evil, till his very soul</l>
+<l>Unmoulds its essence, hopelessly deformed </l>
+<l>By sights of ever more deformity!</l>
+<l>With other ministrations thou, O nature!</l>
+<l>Healest thy wandering and distempered child:</l>
+<l>Thou pourest on him thy soft influences,</l>
+<l>Thy sunny hues, fair forms, and breathing sweets, </l>
+<l>Thy melodies of woods, and winds, and waters, </l>
+<l>Till he relent, and can no more endure </l>
+<l>To be a jarring and a dissonant thing, </l>
+<l>Amid this general dance and minstrelsy; </l>
+<l>But, bursting into tears, wins back his way,</l>
+<l>His angry spirit healed and harmonized </l>
+<l>By the benignant touch of love and beauty.<pb xml:id="p_85"/></l>
+<l>SIMON LEE, </l>
+<l>THE OLD HUNTSMAN, </l>
+<l>With an incident in which he was concerned.</l>
+<l>In the sweet shire of Cardigan, </l>
+<l>Not far from pleasant Ivor-hall, </l>
+<l>An old man dwells, a little man, </l>
+<l>I’ve heard he once was tall. </l>
+<l>Of years he has upon his back, </l>
+<l>No doubt, a burthen weighty; </l>
+<l>He says he is three score and ten, </l>
+<l>But others say he’s eighty.<pb xml:id="p_86"/></l>
+<l>A long blue livery-coat has he, </l>
+<l>That’s fair behind, and fair before; </l>
+<l>Yet, meet him where you will, you see </l>
+<l>At once that he is poor. </l>
+<l>Full five and twenty years he lived </l>
+<l>A running huntsman merry; </l>
+<l>And, though he has but one eye left,</l>
+<l>His cheek is like a cherry. </l>
+<l>No man like him the horn could sound,</l>
+<l>And no man was so full of glee;</l>
+<l>To say the least, four counties round</l>
+<l>Had heard of Simon Lee;</l>
+<l>His master’s dead, and no one now</l>
+<l>Dwells in the hall of Ivor;</l>
+<l>Men, dogs, and horses, all are dead;</l>
+<l>He is the sole survivor.<pb xml:id="p_87"/></l>
+<l>His hunting feats have him bereft</l>
+<l>Of his right eye, as you may see:</l>
+<l>And then, what limbs those feats have left </l>
+<l>To poor old Simon Lee!</l>
+<l>He has no son, he has no child,</l>
+<l>His wife, an aged woman,</l>
+<l>Lives with him, near the waterfall, </l>
+<l>Upon the village common. </l>
+<l>And he is lean and he is sick,</l>
+<l>His dwindled body’s half awry,</l>
+<l>His ancles they are swoln and thick;</l>
+<l>His legs are thin and dry.</l>
+<l>When he was young he little knew </l>
+<l>Of husbandry or tillage;</l>
+<l>And now he’s forced to work, though weak,</l>
+<l>—The weakest in the village.<pb xml:id="p_88"/></l>
+<l>He all the country could outrun,</l>
+<l>Could leave both man and horse behind;</l>
+<l>And often, ere the race was done,</l>
+<l>He reeled and was stone-blind.</l>
+<l>And still there’s something in the world</l>
+<l>At which his heart rejoices;</l>
+<l>For when the chiming hounds are out,</l>
+<l>He dearly loves their voices!</l>
+<l>Old Ruth works out of doors with him,</l>
+<l>And does what Simon cannot do;</l>
+<l>For she, not over stout of limb,</l>
+<l>Is stouter of the two.</l>
+<l>And though you with your utmost skill</l>
+<l>From labour could not wean them,</l>
+<l>Alas! ’tis very little, all</l>
+<l>Which they can do between them.<pb xml:id="p_89"/></l>
+<l>Beside their moss-grown hut of clay,</l>
+<l>Not twenty paces from the door,</l>
+<l>A scrap of land they have, but they</l>
+<l>Are poorest of the poor.</l>
+<l>This scrap of land he from the heath </l>
+<l>Enclosed when he was stronger;</l>
+<l>But what avails the land to them, </l>
+<l>Which they can till no longer?</l>
+<l>Few months of life has he in store, </l>
+<l>As he to you will tell,</l>
+<l>For still, the more he works, the more</l>
+<l>His poor old ancles swell.</l>
+<l>My gentle reader, I perceive</l>
+<l>How patiently you’ve waited,</l>
+<l>And I’m afraid that you expect</l>
+<l>Some tale will be related.<pb xml:id="p_90"/></l>
+<l>O reader! had you in your mind </l>
+<l>Such stores as silent thought can bring, </l>
+<l>O gentle reader! you would find </l>
+<l>A tale in every thing.</l>
+<l>What more I have to say is short, </l>
+<l>I hope you’ll kindly take it;</l>
+<l>It is no tale; but should you think,</l>
+<l>Perhaps a tale you’ll make it.</l>
+<l>One summer-day I chanced to see</l>
+<l>This old man doing all he could </l>
+<l>About the root of an old tree, </l>
+<l>A stump of rotten wood.</l>
+<l>The mattock totter’d in his hand;</l>
+<l>So vain was his endeavour </l>
+<l>That at the root of the old tree </l>
+<l>He might have worked for ever.<pb xml:id="p_91"/></l>
+<l>“You’re overtasked, good Simon Lee,</l>
+<l>Give me your tool” to him I said;</l>
+<l>And at the word right gladly he </l>
+<l>Received my proffer’d aid. </l>
+<l>I struck, and with a single blow</l>
+<l>The tangled root I sever’d,</l>
+<l>At which the poor old man so long</l>
+<l>And vainly had endeavoured.</l>
+<l>The tears into his eyes were brought,</l>
+<l>And thanks and praises seemed to run</l>
+<l>So fast out of his heart, I thought</l>
+<l>They never would have done.</l>
+<l>—I’ve heard of hearts unkind, kind deeds</l>
+<l>With coldness still returning. </l>
+<l>Alas! the gratitude of men</l>
+<l>Has oftner left me mourning.<pb xml:id="p_92"/></l>
+<l>LINES </l>
+<l>Written in early Spring.</l>
+<l>I heard a thousand blended notes, </l>
+<l>While in a grove I sate reclined,</l>
+<l>In that sweet mood when pleasant thoughts</l>
+<l>Bring sad thoughts to the mind.</l>
+<l>To her fair works did nature link</l>
+<l>The human soul that through me ran;</l>
+<l>And much it griev’d my heart to think</l>
+<l>What man has made of man.<pb xml:id="p_93"/></l>
+<l>Through primrose tufts, in that sweet bower,</l>
+<l>The periwinkle trail’d its wreathes;</l>
+<l>And ’tis my faith that every flower</l>
+<l>Enjoys the air it breathes.</l>
+<l>The birds around me hopp’d and play’d:</l>
+<l>Their thoughts I cannot measure,</l>
+<l>But the least motion which they made,</l>
+<l>It seem’d a thrill of pleasure.</l>
+<l>The budding twigs spread out their fan,</l>
+<l>To catch the breezy air;</l>
+<l>And I must think, do all I can, </l>
+<l>That there was pleasure there.</l>
+<l>If I these thoughts may not prevent,</l>
+<l>If such be of my creed the plan,</l>
+<l>Have I not reason to lament</l>
+<l>What man has made of man?<pb xml:id="p_94"/></l>
+<l>The NIGHTINGALE. </l>
+<l>Written in April, 1798.</l>
+<l>No cloud, no relique of the sunken day </l>
+<l>Distinguishes the West, no long thin slip</l>
+<l>Of sullen Light, no obscure trembling hues.</l>
+<l>Come, we will rest on this old mossy Bridge!</l>
+<l>You see the glimmer of the stream beneath, </l>
+<l>But hear no murmuring: it flows silently</l>
+<l>O’er its soft bed of verdure. All is still,</l>
+<l>A balmy night! and tho’ the stars be dim,</l>
+<l>Yet let us think upon the vernal showers </l>
+<l>That gladden the green earth, and we shall find</l>
+<l>A pleasure in the dimness of the stars.<pb xml:id="p_95"/></l>
+<l>And hark! the Nightingale begins its song,</l>
+<l>“Most musical, most melancholy”* Bird!</l>
+<l>A melancholy Bird? O idle thought! </l>
+<l>In nature there is nothing melancholy.</l>
+<l>—But some night-wandering Man, whose heart was pierc’d</l>
+<l>With the remembrance of a grievous wrong, </l>
+<l>Or slow distemper or neglected love,</l>
+<l>(And so, poor Wretch! fill’d all things with himself</l>
+<l>And made all gentle sounds tell back the tale</l>
+<l>Of his own sorrows) he and such as he</l>
+<l>First named these notes a melancholy strain:</l>
+<l>And many a poet echoes the conceit;</l>
+<l>Poet, who hath been building up the rhyme</l>
+<l>* “ Most musical, most melancholy.” This passage in Milton possesses an excellence far superior to that of mere description: it is spoken in the character of the melancholy Man, and has therefore a dramatic propriety. The Author makes this remark, to rescue himself from the charge of having alluded with levity to a line in Milton: a charge than which none could be more painful to him, except perhaps that of having ridiculed his Bible.<pb xml:id="p_96"/></l>
+<l>When he had better far have stretch’d his limbs</l>
+<l>Beside a brook in mossy forest-dell </l>
+<l>By sun or moonlight, to the influxes</l>
+<l>Of shapes and sounds and shifting elements</l>
+<l>Surrendering his whole spirit, of his song</l>
+<l>And of his fame forgetful! so his fame</l>
+<l>Should share in nature’s immortality,</l>
+<l>A venerable thing! and so his song </l>
+<l>Should make all nature lovelier, and itself</l>
+<l>Be lov’d, like nature!—But ’twill not be so;</l>
+<l>And youths and maidens most poetical</l>
+<l>Who lose the deep’ning twilights of the spring</l>
+<l>In ball-rooms and hot theatres, they still </l>
+<l>Full of meek sympathy must heave their sighs</l>
+<l>O’er Philomela’s pity-pleading strains.</l>
+<l>My Friend, and my Friend’s Sister! we have learnt</l>
+<l>A different lore: we may not thus profane</l>
+<l>Nature’s sweet voices always full of love </l>
+<l>And joyance! ’Tis the merry Nightingale<pb xml:id="p_97"/></l>
+<l>That crowds, and hurries, and precipitates</l>
+<l>With fast thick warble his delicious notes,</l>
+<l>As he were fearful, that an April night</l>
+<l>Would be too short for him to utter forth</l>
+<l>His love-chant, and disburthen his full soul</l>
+<l>Of all its music! And I know a grove</l>
+<l>Of large extent, hard by a castle huge</l>
+<l>Which the great lord inhabits not: and so</l>
+<l>This grove is wild with tangling underwood,</l>
+<l>And the trim walks are broken up, and grass,</l>
+<l>Thin grass and king-cups grow within the paths.</l>
+<l>But never elsewhere in one place I knew </l>
+<l>So many Nightingales: and far and near </l>
+<l>In wood and thicket over the wide grove </l>
+<l>They answer and provoke each other’s songs—</l>
+<l>With skirmish and capricious passagings,</l>
+<l>And murmurs musical and swift jug jug</l>
+<l>And one low piping sound more sweet than all—</l>
+<l>Stirring the air with such an harmony,<pb xml:id="p_98"/></l>
+<l>That should you close your eyes, you might almost</l>
+<l>Forget it was not day! </l>
+<l>                              A most gentle maid</l>
+<l>Who dwelleth in her hospitable home </l>
+<l>Hard by the Castle, and at latest eve, </l>
+<l>(Even like a Lady vow’d and dedicate</l>
+<l>To something more than nature in the grove)</l>
+<l>Glides thro’ the pathways; she knows all their notes,</l>
+<l>That gentle Maid! and oft, a moment’s space,</l>
+<l>What time the moon was lost behind a cloud,</l>
+<l>Hath heard a pause of silence: till the Moon</l>
+<l>Emerging, hath awaken’d earth and sky</l>
+<l>With one sensation, and those wakeful Birds</l>
+<l>Have all burst forth in choral minstrelsy, </l>
+<l>As if one quick and sudden Gale had swept</l>
+<l>An hundred airy harps! And she hath watch’d</l>
+<l>Many a Nightingale perch giddily </l>
+<l>On blosmy twig still swinging from the breeze,<pb xml:id="p_99"/></l>
+<l>And to that motion tune his wanton song,</l>
+<l>Like tipsy Joy that reels with tossing head. </l>
+<l>Farewell, O Warbler! till to-morrow eve, </l>
+<l>And you, my friends! farewell, a short farewell!</l>
+<l>We have been loitering long and pleasantly, </l>
+<l>And now for our dear homes.—That strain again!</l>
+<l>Full fain would it delay me!—My dear Babe,</l>
+<l>Who, capable of no articulate sound, </l>
+<l>Mars all things with his imitative lisp, </l>
+<l>How he would place his hand beside his ear,</l>
+<l>His little hand, the small forefinger up,</l>
+<l>And bid us listen! And I deem it wise</l>
+<l>To make him Nature’s playmate. He knows well</l>
+<l>The evening star: and once when he awoke</l>
+<l>In most distressful mood (some inward pain</l>
+<l>Had made up that strange thing, an infant’s dream)</l>
+<l>I hurried with him to our orchard plot,</l>
+<l>And he beholds the moon, and hush’d at once<pb xml:id="p_100"/></l>
+<l>Suspends his sobs, and laughs most silently, </l>
+<l>While his fair eyes that swam with undropt tears</l>
+<l>Did glitter in the yellow moon-beam! Well—</l>
+<l>It is a father’s tale. But if that Heaven </l>
+<l>Should give me life, his childhood shall grow up</l>
+<l>Familiar with these songs, that with the night</l>
+<l>He may associate Joy! Once more farewell, </l>
+<l>Sweet Nightingale! once more, my friends! farewell.<pb xml:id="p_101"/></l>
+<l>LINES </l>
+<l>Written when sailing in a Boat </l>
+<l>At EVENING.</l>
+<l>How rich the wave, in front, imprest </l>
+<l>With evening twilight’s summer hues, </l>
+<l>While, facing thus the crimson west, </l>
+<l>The boat her silent course pursues! </l>
+<l>And see how dark the backward stream! </l>
+<l>A little moment past, so smiling! </l>
+<l>And still, perhaps, with faithless gleam, </l>
+<l>Some other loiterer beguiling. <pb xml:id="p_102"/></l>
+<l>Such views the youthful bard allure,</l>
+<l>But, heedless of the following gloom, </l>
+<l>He deems their colours shall endure </l>
+<l>’Till peace go with him to the tomb.</l>
+<l>—And let him nurse his fond deceit, </l>
+<l>And what if he must die in sorrow!</l>
+<l>Who would not cherish dreams so sweet,</l>
+<l>Though grief and pain may come to-morrow?<pb xml:id="p_103"/></l>
+<l>LINES </l>
+<l>Written near Richmond upon the Thames.</l>
+<l>Glide gently, thus for ever glide,</l>
+<l>O Thames! that other bards may see, </l>
+<l>As lovely visions by thy side </l>
+<l>As now, fair river! come to me. </l>
+<l>Oh glide, fair stream! for ever so; </l>
+<l>Thy quiet soul on all bestowing, </l>
+<l>’Till all our minds for ever flow,</l>
+<l>As thy deep waters now are flowing. </l>
+<l>Vain thought! yet be as now thou art,</l>
+<l>That in thy waters may be seen</l>
+<l>The image of a poet’s heart,</l>
+<l>How bright, how solemn, how serene! <pb xml:id="p_104"/></l>
+<l>Such as did once the poet bless,</l>
+<l>Who, pouring here a * later ditty,</l>
+<l>Could find no refuge from distress, </l>
+<l>But in the milder grief of pity. </l>
+<l>Remembrance! as we float along, </l>
+<l>For him suspend the dashing oar,</l>
+<l>And pray that never child of Song</l>
+<l>May know his freezing sorrows more.</l>
+<l>How calm! how still! the only sound,</l>
+<l>The dripping of the oar suspended!</l>
+<l>—The evening darkness gathers round</l>
+<l>By virtue’s holiest powers attended.</l>
+<l>
+* Collins’s Ode on the death of Thomson, the last written, I believe, of the poems which were published during his life-time. This Ode is also alluded to in the next stanza.<pb xml:id="p_105"/></l>
+<l>THE</l>
+<l>IDIOT BOY.<pb xml:id="p_106"/></l>
+<l><pb xml:id="p_107"/></l>
+<l>The IDIOT BOY.</l>
+<l>
+’Tis eight o’clock,—a clear March night, </l>
+<l>The moon is up—the sky is blue, </l>
+<l>The owlet in the moonlight air, </l>
+<l>He shouts from nobody knows where;</l>
+<l>He lengthens out his lonely shout,</l>
+<l>Halloo! halloo! a long halloo!</l>
+<l>
+—Why bustle thus about your door, </l>
+<l>What means this bustle, Betty Foy?</l>
+<l>Why are you in this mighty fret?</l>
+<l>And why on horseback have you set </l>
+<l>Him whom you love, your idiot boy? <pb xml:id="p_108"/></l>
+<l>Beneath the moon that shines so bright,</l>
+<l>Till she is tired, let Betty Foy </l>
+<l>With girt and stirrup fiddle-faddle;</l>
+<l>But wherefore set upon a saddle </l>
+<l>Him whom she loves, her idiot boy? </l>
+<l>There’s scarce a soul that’s out of bed; </l>
+<l>Good Betty put him down again;</l>
+<l>His lips with joy they burr at you, </l>
+<l>But, Betty! what has he to do</l>
+<l>With stirrup, saddle, or with rein? </l>
+<l>The world will say ’tis very idle,</l>
+<l>Bethink you of the time of night;</l>
+<l>There’s not a mother, no not one,</l>
+<l>But when she hears what you have done, </l>
+<l>Oh! Betty she’ll be in a fright. <pb xml:id="p_109"/></l>
+<l>But Betty’s bent on her intent,</l>
+<l>For her good neighbour, Susan Gale, </l>
+<l>Old Susan, she who dwells alone, </l>
+<l>Is sick, and makes a piteous moan, </l>
+<l>As if her very life would fail. </l>
+<l>There’s not a house within a mile, </l>
+<l>No hand to help them in distress:</l>
+<l>Old Susan lies a bed in pain,</l>
+<l>And sorely puzzled are the twain, </l>
+<l>For what she ails they cannot guess. </l>
+<l>And Betty’s husband’s at the wood, </l>
+<l>Where by the week he doth abide, </l>
+<l>A woodman in the distant vale; </l>
+<l>There’s none to help poor Susan Gale, </l>
+<l>What must be done? what will betide? <pb xml:id="p_110"/></l>
+<l>And Betty from the lane has fetched</l>
+<l>Her pony, that is mild and good, </l>
+<l>Whether he be in joy or pain, </l>
+<l>Feeding at will along the lane, </l>
+<l>Or bringing faggots from the wood. </l>
+<l>And he is all in travelling trim, </l>
+<l>And by the moonlight, Betty Foy </l>
+<l>Has up upon the saddle set,</l>
+<l>The like was never heard of yet, </l>
+<l>Him whom she loves, her idiot boy. </l>
+<l>And he must post without delay </l>
+<l>Across the bridge that’s in the dale, </l>
+<l>And by the church, and o’er the down, </l>
+<l>To bring a doctor from the town, </l>
+<l>Or she will die, old Susan Gale. <pb xml:id="p_111"/></l>
+<l>There is no need of boot or spur, </l>
+<l>There is no need of whip or wand, </l>
+<l>For Johnny has his holly-bough, </l>
+<l>And with a hurly-burly now</l>
+<l>He shakes the green bough in his hand. </l>
+<l>And Betty o’er and o’er has told </l>
+<l>The boy who is her best delight, </l>
+<l>Both what to follow, what to shun, </l>
+<l>What do, and what to leave undone, </l>
+<l>How turn to left, and how to right. </l>
+<l>And Betty’s most especial charge,</l>
+<l>Was, “ Johnny! Johnny! mind that you </l>
+<l>“Come home again, nor stop at all,</l>
+<l>“Come home again, whate’er befal, </l>
+<l>“My Johnny do, I pray you do.”<pb xml:id="p_112"/></l>
+<l>To this did Johnny answer make,</l>
+<l>Both with his head, and with his hand, </l>
+<l>And proudly shook the bridle too,</l>
+<l>And then! his words were not a few, </l>
+<l>Which Betty well could understand. </l>
+<l>And now that Johnny is just going,</l>
+<l>Though Betty’s in a mighty flurry,</l>
+<l>She gently pats the pony’s side, </l>
+<l>On which her idiot boy must ride, </l>
+<l>And seems no longer in a hurry. </l>
+<l>But when the pony moved his legs, </l>
+<l>Oh! then for the poor idiot boy! </l>
+<l>For joy he cannot hold the bridle,</l>
+<l>For joy his head and heels are idle, </l>
+<l>He’s idle all for very joy. <pb xml:id="p_113"/></l>
+<l>And while the pony moves his legs, </l>
+<l>In Johnny’s left hand you may see, </l>
+<l>The green bough’s motionless and dead:</l>
+<l>The moon that shines above his head</l>
+<l>Is not more still and mute than he.</l>
+<l>His heart it was so full of glee, </l>
+<l>That till full fifty yards were gone,</l>
+<l>He quite forgot his holly whip,</l>
+<l>And all his skill in horsemanship,</l>
+<l>Oh! happy, happy, happy John.</l>
+<l>And Betty’s standing at the door,</l>
+<l>And Betty’s face with joy o’erflows, </l>
+<l>Proud of herself, and proud of him, </l>
+<l>She sees him in his travelling trim; </l>
+<l>How quietly her Johnny goes. <pb xml:id="p_114"/></l>
+<l>The silence of her idiot boy, </l>
+<l>What hopes it sends to Betty’s heart!</l>
+<l>He’s at the guide-post—he turns right, </l>
+<l>She watches till he’s out of sight,</l>
+<l>And Betty will not then depart.</l>
+<l>Burr, burr—now Johnny’s lips they burr,</l>
+<l>As loud as any mill, or near it, </l>
+<l>Meek as a lamb the pony moves, </l>
+<l>And Johnny makes the noise he loves,</l>
+<l>And Betty listens, glad to hear it.</l>
+<l>Away she hies to Susan Gale: </l>
+<l>And Johnny’s in a merry tune, </l>
+<l>The owlets hoot, the owlets curr,</l>
+<l>And Johnny’s lips they burr, burr, burr, </l>
+<l>And on he goes beneath the moon.<pb xml:id="p_115"/></l>
+<l>His steed and he right well agree, </l>
+<l>For of this pony there’s a rumour,</l>
+<l>That should he lose his eyes and ears, </l>
+<l>And should he live a thousand years, </l>
+<l>He never will be out of humour.</l>
+<l>But then he is a horse that thinks! </l>
+<l>And when he thinks his pace is slack; </l>
+<l>Now, though he knows poor Johnny well, </l>
+<l>Yet for his life he cannot tell </l>
+<l>What he has got upon his back.</l>
+<l>So through the moonlight lanes they go, </l>
+<l>And far into the moonlight dale,</l>
+<l>And by the church, and o’er the down, </l>
+<l>To bring a doctor from the town, </l>
+<l>To comfort poor old Susan Gale. <pb xml:id="p_116"/></l>
+<l>And Betty, now at Susan’s side,</l>
+<l>Is in the middle of her story, </l>
+<l>What comfort Johnny soon will bring,</l>
+<l>With many a most diverting thing,</l>
+<l>Of Johnny’s wit and Johnny’s glory. </l>
+<l>And Betty’s still at Susan’s side:</l>
+<l>By this time she’s not quite so flurried;</l>
+<l>Demure with porringer and plate</l>
+<l>She sits, as if in Susan’s fate </l>
+<l>Her life and soul were buried.</l>
+<l>But Betty, poor good woman! she, </l>
+<l>You plainly in her face may read it, </l>
+<l>Could lend out of that moment’s store </l>
+<l>Five years of happiness or more, </l>
+<l>To any that might need it. <pb xml:id="p_117"/></l>
+<l>But yet I guess that now and then </l>
+<l>With Betty all was not so well, </l>
+<l>And to the road she turns her ears, </l>
+<l>And thence full many a sound she hears, </l>
+<l>Which she to Susan will not tell.</l>
+<l>Poor Susan moans, poor Susan groans,</l>
+<l>“As sure as there’s a moon in heaven,”</l>
+<l>Cries Betty, “ he’ll be back again; </l>
+<l>“They’ll both be here, ’tis almost ten, </l>
+<l>“They’ll both be here before eleven.”</l>
+<l>Poor Susan moans, poor Susan groans, </l>
+<l>The clock gives warning for eleven; </l>
+<l>’Tis on the stroke—“ If Johnny’s near,”</l>
+<l>Quoth Betty “ he will soon be here, </l>
+<l>“As sure as there’s a moon in heaven.”<pb xml:id="p_118"/></l>
+<l>The clock is on the stroke of twelve, </l>
+<l>And Johnny is not yet in sight, </l>
+<l>The moon’s in heaven, as Betty sees, </l>
+<l>But Betty is not quite at ease; </l>
+<l>And Susan has a dreadful night.</l>
+<l>And Betty, half an hour ago, </l>
+<l>On Johnny vile reflections cast: </l>
+<l>“A little idle sauntering thing!”</l>
+<l>With other names, an endless string, </l>
+<l>But now that time is gone and past.</l>
+<l>And Betty’s drooping at the heart,</l>
+<l>That happy time all past and gone, </l>
+<l>“How can it be he is so late? </l>
+<l>“The Doctor he has made him wait, </l>
+<l>“Susan! they’ll both be here anon.”<pb xml:id="p_119"/></l>
+<l>And Susan’s growing worse and worse, </l>
+<l>And Betty’s in a sad quandary; </l>
+<l>And then there’s nobody to say </l>
+<l>If she must go or she must stay: </l>
+<l>—She’s in a sad quandary. </l>
+<l>The clock is on the stroke of one; </l>
+<l>But neither Doctor nor his guide </l>
+<l>Appear along the moonlight road,</l>
+<l>There’s neither horse nor man abroad, </l>
+<l>And Betty’s still at Susan’s side. </l>
+<l>And Susan she begins to fear </l>
+<l>Of sad mischances not a few, </l>
+<l>That Johnny may perhaps be drown’d, </l>
+<l>Or lost perhaps, and never found; </l>
+<l>Which they must both for ever rue. <pb xml:id="p_120"/></l>
+<l>She prefaced half a hint of this </l>
+<l>With, “ God forbid it should be true!”</l>
+<l>At the first word that Susan said </l>
+<l>Cried Betty, rising from the bed, </l>
+<l>“Susan, I’d gladly stay with you. </l>
+<l>“I must be gone, I must away, </l>
+<l>“Consider, Johnny’s but half-wise; </l>
+<l>“Susan, we must take care of him, </l>
+<l>“If he is hurt in life or limb”—</l>
+<l>“Oh God forbid!” poor Susan cries.</l>
+<l>
+“What can I do?” says Betty, going, </l>
+<l>“What can I do to ease your pain? </l>
+<l>“Good Susan tell me, and I’ll stay; </l>
+<l>“I fear you’re in a dreadful way, </l>
+<l>“But I shall soon be back again.”<pb xml:id="p_121"/></l>
+<l>“Nay, Betty, go! good Betty, go! </l>
+<l>“There’s nothing that can ease my pain.”</l>
+<l>Then off she hies, but with a prayer </l>
+<l>That God poor Susan’s life would spare, </l>
+<l>Till she comes back again. </l>
+<l>So, through the moonlight lane she goes, </l>
+<l>And far into the moonlight dale; </l>
+<l>And how she ran, and how she walked, </l>
+<l>And all that to herself she talked, </l>
+<l>Would surely be a tedious tale. </l>
+<l>In high and low, above, below, </l>
+<l>In great and small, in round and square, </l>
+<l>In tree and tower was Johnny seen, </l>
+<l>In bush and brake, in black and green, </l>
+<l>’Twas Johnny, Johnny, every where.<pb xml:id="p_122"/></l>
+<l>She’s past the bridge that’s in the dale,</l>
+<l>And now the thought torments her sore,</l>
+<l>Johnny perhaps his horse forsook, </l>
+<l>To hunt the moon that’s in the brook, </l>
+<l>And never will be heard of more. </l>
+<l>And now she’s high upon the down, </l>
+<l>Alone amid a prospect wide; </l>
+<l>There’s neither Johnny nor his horse, </l>
+<l>Among the fern or in the gorse; </l>
+<l>There’s neither doctor nor his guide. </l>
+<l>
+“Oh saints! what is become of him? </l>
+<l>“Perhaps he’s climbed into an oak, </l>
+<l>“Where he will stay till he is dead; </l>
+<l>“Or sadly he has been misled, </l>
+<l>“And joined the wandering gypsey-folk. <pb xml:id="p_123"/></l>
+<l>“Or him that wicked pony’s carried </l>
+<l>“To the dark cave, the goblins’ hall, </l>
+<l>“Or in the castle he’s pursuing, </l>
+<l>“Among the ghosts, his own undoing; </l>
+<l>“Or playing with the waterfall.”</l>
+<l>At poor old Susan then she railed, </l>
+<l>While to the town she posts away; </l>
+<l>“If Susan had not been so ill, </l>
+<l>“Alas! I should have had him still, </l>
+<l>“My Johnny, till my dying day.”</l>
+<l>Poor Betty! in this sad distemper, </l>
+<l>The doctor’s self would hardly spare, </l>
+<l>Unworthy things she talked and wild, </l>
+<l>Even he, of cattle the most mild, </l>
+<l>The pony had his share.<pb xml:id="p_124"/></l>
+<l>And now she’s got into the town, </l>
+<l>And to the doctor’s door she hies; </l>
+<l>’Tis silence all on every side; </l>
+<l>The town so long, the town so wide, </l>
+<l>Is silent as the skies. </l>
+<l>And now she’s at the doctor’s door, </l>
+<l>She lifts the knocker, rap, rap, rap,</l>
+<l>The doctor at the casement shews,</l>
+<l>His glimmering eyes that peep and doze;</l>
+<l>And one hand rubs his old night-cap. </l>
+<l>
+“Oh Doctor! Doctor! where’s my Johnny?”</l>
+<l>“I’m here, what is’t you want with me?”</l>
+<l>“Oh Sir! you know I’m betty Foy,</l>
+<l>“And I have lost my poor dear boy, </l>
+<l>“You know him—him you often see; <pb xml:id="p_125"/></l>
+<l>“He’s not so wise as some folks be,”</l>
+<l>“The devil take his wisdom!” said</l>
+<l>The Doctor, looking somewhat grim, </l>
+<l>“What, woman! should I know of him?”</l>
+<l>And, grumbling, he went back to bed. </l>
+<l>“O woe is me! O woe is me! </l>
+<l>“Here will I die; here will I die; </l>
+<l>“I thought to find my Johnny here, </l>
+<l>“But he is neither far nor near, </l>
+<l>“Oh! what a wretched mother I!”</l>
+<l>She stops, she stands, she looks about, </l>
+<l>Which way to turn she cannot tell. </l>
+<l>Poor Betty! it would ease her pain </l>
+<l>If she had heart to knock again; </l>
+<l>—The clock strikes three—a dismal knell!<pb xml:id="p_126"/></l>
+<l>Then up along the town she hies,</l>
+<l>No wonder if her senses fail,</l>
+<l>This piteous news so much it shock’d her,</l>
+<l>She quite forgot to send the Doctor, </l>
+<l>To comfort poor old Susan Gale. </l>
+<l>And now she’s high upon the down,</l>
+<l>And she can see a mile of road,</l>
+<l>“Oh cruel! I’m almost three score; </l>
+<l>“Such night as this was ne’er before,</l>
+<l>“There’s not a single soul abroad.”</l>
+<l>She listens, but she cannot hear </l>
+<l>The foot of horse, the voice of man; </l>
+<l>The streams with softest sound are flowing,</l>
+<l>The grass you almost hear it growing,</l>
+<l>You hear it now if e’er you can. <pb xml:id="p_127"/></l>
+<l>The owlets through the long blue night</l>
+<l>Are shouting to each other still: </l>
+<l>Fond lovers, yet not quite hob nob, </l>
+<l>They lengthen out the tremulous sob, </l>
+<l>That echoes far from hill to hill.</l>
+<l>Poor Betty now has lost all hope, </l>
+<l>Her thoughts are bent on deadly sin; </l>
+<l>A green-grown pond she just has pass’d, </l>
+<l>And from the brink she hurries fast, </l>
+<l>Lest she should drown herself therein. </l>
+<l>And now she sits her down and weeps; </l>
+<l>Such tears she never shed before; </l>
+<l>“Oh dear, dear pony! my sweet joy!</l>
+<l>“Oh carry back my idiot boy! </l>
+<l>“And we will ne’er o’erload thee more.”<pb xml:id="p_128"/></l>
+<l>A thought it come into her head;</l>
+<l>“The pony he is mild and good,</l>
+<l>“And we have always used him well;</l>
+<l>“Perhaps he’s gone along the dell,</l>
+<l>“And carried Johnny to the wood.”</l>
+<l>Then up she springs as if on wings; </l>
+<l>She thinks no more of deadly sin; </l>
+<l>If Betty fifty ponds should see, </l>
+<l>The last of all her thoughts would be,</l>
+<l>To drown herself therein.</l>
+<l>Oh reader! now that I might tell </l>
+<l>What Johnny and his horse are doing! </l>
+<l>What they’ve been doing all this time, </l>
+<l>Oh could I put it into rhyme, </l>
+<l>A most delightful tale pursuing!<pb xml:id="p_129"/></l>
+<l>Perhaps, and no unlikely thought! </l>
+<l>He with his pony now doth roam </l>
+<l>The cliffs and peaks so high that are, </l>
+<l>To lay his hands upon a star, </l>
+<l>And in his pocket bring it home. </l>
+<l>Perhaps he’s turned himself about, </l>
+<l>His face unto his horse’s tail,</l>
+<l>And still and mute, in wonder lost, </l>
+<l>All like a silent horseman-ghost, </l>
+<l>He travels on along the vale. </l>
+<l>And now, perhaps, he’s hunting sheep, </l>
+<l>A fierce and dreadful hunter he! </l>
+<l>Yon valley, that’s so trim and green, </l>
+<l>In five months’ time, should he be seen, </l>
+<l>A desart wilderness will be. <pb xml:id="p_130"/></l>
+<l>Perhaps, with head and heels on fire, </l>
+<l>And like the very soul of evil, </l>
+<l>He’s galloping away, away, </l>
+<l>And so he’ll gallop on for aye, </l>
+<l>The bane of all that dread the devil. </l>
+<l>I to the muses have been bound </l>
+<l>These fourteen years, by strong indentures:</l>
+<l>Oh gentle muses! let me tell </l>
+<l>But half of what to him befel,</l>
+<l>For sure he met with strange adventures.</l>
+<l>Oh gentle muses! is this kind</l>
+<l>Why will ye thus my suit repel? </l>
+<l>Why of your further aid bereave me? </l>
+<l>And can ye thus unfriended leave me? </l>
+<l>Ye muses! whom I love so well. <pb xml:id="p_131"/></l>
+<l>Who’s yon, that, near the waterfall, </l>
+<l>Which thunders down with headlong force,</l>
+<l>Beneath the moon, yet shining fair, </l>
+<l>As careless as if nothing were, </l>
+<l>Sits upright on a feeding horse? </l>
+<l>Unto his horse, that’s feeding free,</l>
+<l>He seems, I think, the rein to give;</l>
+<l>Of moon or stars he takes no heed; </l>
+<l>Of such we in romances read,</l>
+<l>—’Tis Johnny! Johnny! as I live.</l>
+<l>And that’s the very pony too. </l>
+<l>Where is she, where is Betty Foy? </l>
+<l>She hardly can sustain her fears;</l>
+<l>The roaring water-fall she hears, </l>
+<l>And cannot find her idiot boy.<pb xml:id="p_132"/></l>
+<l>Your pony’s worth his weight in gold, </l>
+<l>Then calm your terrors, Betty Foy! </l>
+<l>She’s coming from among the trees, </l>
+<l>And now all full in view she sees </l>
+<l>Him whom she loves, her idiot boy. </l>
+<l>And Betty sees the pony too: </l>
+<l>Why stand you thus Good Betty Foy? </l>
+<l>It is no goblin, ’tis no ghost, </l>
+<l>’Tis he whom you so long have lost, </l>
+<l>He whom you love, your idiot boy. </l>
+<l>She looks again—her arms are up— </l>
+<l>She screams—she cannot move for joy;</l>
+<l>She darts as with a torrent’s force,</l>
+<l>She almost has o’erturned the horse,</l>
+<l>And fast she holds her idiot boy. <pb xml:id="p_133"/></l>
+<l>And Johnny burrs, and laughs aloud, </l>
+<l>Whether in cunning or in joy,</l>
+<l>I cannot tell; but while he laughs,</l>
+<l>Betty a drunken pleasure quaffs,</l>
+<l>To hear again her idiot boy. </l>
+<l>And now she’s at the pony’s tail, </l>
+<l>And now she’s at the pony’s head, </l>
+<l>On that side now, and now on this, </l>
+<l>And almost stifled with her bliss, </l>
+<l>A few sad tears does Betty shed. </l>
+<l>She kisses o’er and o’er again, </l>
+<l>Him whom she loves, her idiot boy, </l>
+<l>She’s happy here, she’s happy there, </l>
+<l>She is uneasy every where; </l>
+<l>Her limbs are all alive with joy. <pb xml:id="p_134"/></l>
+<l>She pats the pony, where or when </l>
+<l>She knows not, happy Betty Foy! </l>
+<l>The little pony glad may be, </l>
+<l>But he is milder far than she, </l>
+<l>You hardly can perceive his joy. </l>
+<l>“Oh! Johnny, never mind the Doctor; </l>
+<l>“You’ve done your best, and that is all.”</l>
+<l>She took the reins, when this was said, </l>
+<l>And gently turned the pony’s head</l>
+<l>From the loud water-fall.</l>
+<l>By this the stars were almost gone,</l>
+<l>The moon was setting on the hill, </l>
+<l>So pale you scarcely looked at her: </l>
+<l>The little birds began to stir,</l>
+<l>Though yet their tongues were still.<pb xml:id="p_135"/></l>
+<l>The pony, Betty, and her boy,</l>
+<l>Wind slowly through the woody dale; </l>
+<l>And who is she, be-times abroad,</l>
+<l>That hobbles up the steep rough road?</l>
+<l>Who is it, but old Susan Gale?</l>
+<l>Long Susan lay deep lost in thought,</l>
+<l>And many dreadful fears beset her,</l>
+<l>Both for her messenger and nurse;</l>
+<l>And as her mind grew worse and worse,</l>
+<l>Her body it grew better.</l>
+<l>She turned, she toss’d herself in bed, </l>
+<l>On all sides doubts and terrors met her;</l>
+<l>Point after point did she discuss;</l>
+<l>And while her mind was fighting thus,</l>
+<l>Her body still grew better.<pb xml:id="p_136"/></l>
+<l>“Alas! what is become of them? </l>
+<l>“These fears can never be endured, </l>
+<l>“I’ll to the wood.”—The word scarce said,</l>
+<l>Did Susan rise up from her bed,</l>
+<l>As if by magic cured.</l>
+<l>Away she posts up hill and down, </l>
+<l>And to the wood at length is come, </l>
+<l>She spies her friends, she shouts a greeting;</l>
+<l>Oh me! it is a merry meeting,</l>
+<l>As ever was in Christendom.</l>
+<l>The owls have hardly sung their last,</l>
+<l>While our four travellers homeward wend;</l>
+<l>The owls have hooted all night long,</l>
+<l>And with the owls began my song,</l>
+<l>And with the owls must end.<pb xml:id="p_137"/></l>
+<l>For while they all were travelling home, </l>
+<l>Cried Betty, “Tell us Johnny, do,</l>
+<l>“Where all this long night you have been,</l>
+<l>“What you have heard, what you have seen,</l>
+<l>“And Johnny, mind you tell us true.”</l>
+<l>Now Johnny all night long had heard </l>
+<l>The owls in tuneful concert strive; </l>
+<l>No doubt too he the moon had seen;</l>
+<l>For in the moonlight he had becn</l>
+<l>From eight o’clock till five.</l>
+<l>And thus to Betty’s question, he,</l>
+<l>Made answer, like a traveller bold,</l>
+<l>(His very words I give te you,) </l>
+<l>“The cocks did crow to-whoo, to-whoo,</l>
+<l>“And the sun did shine so cold.”</l>
+<l>—Thus answered Johnny in his glory,</l>
+<l>And that was all his travel’s story.<pb xml:id="p_138"/></l>
+<l>LOVE.</l>
+<l>All Thoughts, all Passions, all Delights, </l>
+<l>Whatever stirs this mortal Frame,</l>
+<l>All are but Ministers of Love,</l>
+<l>      And feed his sacred flame.</l>
+<l>Oft in my waking dreams do I</l>
+<l>Live o’er again that happy hour,</l>
+<l>When midway on the Mount I lay</l>
+<l>      Beside the Ruin’d Tower.</l>
+<l>The Moonshine stealing o’er the scene</l>
+<l>Had blended with the Lights of Eve;</l>
+<l>And she was there, my Hope, my Joy,</l>
+<l>      My own dear Genevieve!<pb xml:id="p_139"/></l>
+<l>She lean’d against the Armed Man,</l>
+<l>The Statue of the Armed Knight:</l>
+<l>She stood and listen’d to my Harp</l>
+<l>      Amid the ling’ring Light.</l>
+<l>Few Sorrows hath she of her own,</l>
+<l>My Hope, my Joy, my Genevieve!</l>
+<l>She loves me best, whene’er I sing</l>
+<l>      The Songs, that make her grieve.</l>
+<l>I play’d a soft and doleful Air,</l>
+<l>I sang an old and moving Story— </l>
+<l>An old rude Song that fitted well</l>
+<l>      The Ruin wild and hoary.</l>
+<l>She listen’d with a flitting Blush,</l>
+<l>With downcast Eyes and modest Grace;</l>
+<l>For well she knew, I could not choose</l>
+<l>      But gaze upon her Face.<pb xml:id="p_140"/></l>
+<l>I told her of the Knight, that wore</l>
+<l>Upon his Shield a burning Brand;</l>
+<l>And that for ten long Years he woo’d</l>
+<l>      The Lady of the Land.</l>
+<l>I told her, how he pin’d: and, ah! </l>
+<l>The low, the deep, the pleading tone,</l>
+<l>With which I sang another’s Love,</l>
+<l>      Interpreted my own.</l>
+<l>She listen’d with a flitting Blush,</l>
+<l>With downcast Eyes and modest Grace;</l>
+<l>And she forgave me, that I gaz’d</l>
+<l>      Too fondly on her Face!</l>
+<l>But when I told the cruel scorn</l>
+<l>Which craz’d this bold and lovely Knight,</l>
+<l>And that he cross’d the mountain woods</l>
+<l>      Nor rested day nor night;<pb xml:id="p_141"/></l>
+<l>That sometimes from the savage Den,</l>
+<l>And sometimes from the darksome Shade,</l>
+<l>And sometimes starting up at once</l>
+<l>      In green and sunny Glade,</l>
+<l>There came, and look’d him in the face,</l>
+<l>An Angel beautiful and bright;</l>
+<l>And that he knew, it was a Fiend,</l>
+<l>      This miserable Knight!</l>
+<l>And that, unknowing what he did,</l>
+<l>He leapt amid a murd’rous Band,</l>
+<l>And sav’d from Outrage worse than Death</l>
+<l>      The Lady of the Land;</l>
+<l>And how she wept and clasp’d his knees</l>
+<l>And how she tended him in vain—</l>
+<l>And ever strove to expiate</l>
+<l>      The Scorn, that craz’d his Brain<pb xml:id="p_142"/></l>
+<l>And that she nurs’d him in a Cave;</l>
+<l>And how his Madness went away</l>
+<l>When on the yellow forest leaves</l>
+<l>      A dying Man he lay;</l>
+<l>His dying words—but when I reach’d</l>
+<l>That tenderest strain of all the Ditty,</l>
+<l>My falt’ring Voice and pausing Harp</l>
+<l>      Disturb’d her Soul with Pity!</l>
+<l>All Impulses of Soul and Sense</l>
+<l>Had thrill’d my guileless Genevieve,</l>
+<l>The Music, and the doleful Tale,</l>
+<l>      The rich and balmy Eve;</l>
+<l>And Hopes, and Fears that kindle Hope,</l>
+<l>An undistinguishable Throng!</l>
+<l>And gentle Wishes long subdued,</l>
+<l>      Subdued and cherish’d long!<pb xml:id="p_143"/></l>
+<l>She wept with pity and delight,</l>
+<l>She blush’d with love and maiden shame;</l>
+<l>And, like the murmur of a dream,</l>
+<l>      I heard her breathe my name.</l>
+<l>Her Bosom heav’d—she stepp’d aside;</l>
+<l>As conscious of my Look, she stepp’d—</l>
+<l>Then suddenly with timorous eye</l>
+<l>      She fled to me and wept.</l>
+<l>She half inclosed me with her arms,</l>
+<l>She press’d me with a meek embrace;</l>
+<l>And bending back her head look’d up,</l>
+<l>      And gaz’d upon my face.</l>
+<l>
+’Twas partly Love, and partly Fear,</l>
+<l>And partly ’twas a bashful Art</l>
+<l>That I might rather feel than see</l>
+<l>      The Swelling of her Heart.<pb xml:id="p_144"/></l>
+<l>I calm’d her fears; and she was calm,</l>
+<l>And told her love with virgin Pride.</l>
+<l>And so I won my Genevieve,</l>
+<l>      My bright and beauteous Bride!<pb xml:id="p_145"/></l>
+<l>The MAD MOTHER.</l>
+<l>Her eyes are wild, her head is bare, </l>
+<l>The sun has burnt her coal-black hair, </l>
+<l>Her eye-brows have a rusty stain, </l>
+<l>And she came far from over the main. </l>
+<l>She has a baby on her arm, </l>
+<l>Or else she were alone; </l>
+<l>And underneath the hay-stack warm, </l>
+<l>And on the green-wood stone, </l>
+<l>She talked and sung the woods among; </l>
+<l>And it was in the English tongue. <pb xml:id="p_146"/></l>
+<l>“Sweet babe! they say that I am mad, </l>
+<l>But nay, my heart is far too glad; </l>
+<l>And I am happy when I sing </l>
+<l>Full many a sad and doleful thing: </l>
+<l>Then, lovely baby, do not fear! </l>
+<l>I pray thee have no fear of me, </l>
+<l>But, safe as in a cradle, here</l>
+<l>My lovely baby! thou shalt be, </l>
+<l>To thee I know too much I owe; </l>
+<l>I cannot work thee any woe. </l>
+<l>A fire was once within my brain;</l>
+<l>And in my head a dull, dull pain; </l>
+<l>And fiendish faces one, two, three, </l>
+<l>Hung at my breasts, and pulled at me. </l>
+<l>But then there came a sight of joy; </l>
+<l>It came at once to do me good; </l>
+<l>I waked, and saw my little boy, </l>
+<l>My little boy of flesh and blood; </l>
+<l>Oh joy for me that sight to see! </l>
+<l>For he was here, and only he. <pb xml:id="p_147"/></l>
+<l>Suck, little babe, oh suck again! </l>
+<l>It cools my blood; it cools my brain; </l>
+<l>Thy lips I feel them, baby! they </l>
+<l>Draw from my heart the pain away. </l>
+<l>Oh! press me with thy little hand; </l>
+<l>It loosens something at my chest; </l>
+<l>About that tight and deadly band </l>
+<l>I feel thy little fingers press’d. </l>
+<l>The breeze I see is in the tree;</l>
+<l>It comes to cool my babe and me.</l>
+<l>Oh! love me, love me, little boy! </l>
+<l>Thou art thy mother’s only joy; </l>
+<l>And do not dread the waves below, </l>
+<l>When o’er the sea-rock’s edge we go; </l>
+<l>The high crag cannot work me harm, </l>
+<l>Nor leaping torrents when they howl; </l>
+<l>The babe I carry on my arm,</l>
+<l>He saves for me my precious soul;</l>
+<l>Then happy lie, for blest am I;</l>
+<l>Without me my sweet babe would die.<pb xml:id="p_148"/></l>
+<l>Then do not fear, my boy! for thee </l>
+<l>Bold as a lion I will be; </l>
+<l>And I will always be thy guide,</l>
+<l>Through hollow snows and rivers wide.</l>
+<l>I’ll build an Indian bower; I know </l>
+<l>The leaves that make the softest bed: </l>
+<l>And if from me thou wilt not go, </l>
+<l>But still be true ’till I am dead, </l>
+<l>My pretty thing! then thou shalt sing, </l>
+<l>As merry as the birds in spring. </l>
+<l>Thy father cares not for my breast,</l>
+<l>’Tis thine, sweet baby, there to rest:</l>
+<l>’Tis all thine own! and if its hue </l>
+<l>Be changed, that was so fair to view, </l>
+<l>’Tis fair enough for thee, my dove! </l>
+<l>My beauty, little child, is flown;</l>
+<l>But thou wilt live with me in love,</l>
+<l>And what if my poor cheek be brown? </l>
+<l>’Tis well for me, thou canst not see </l>
+<l>How pale and wan it else would be. <pb xml:id="p_149"/></l>
+<l>Dread not their taunts, my little life! </l>
+<l>I am thy father’s wedded wife; </l>
+<l>And underneath the spreading tree </l>
+<l>We two will live in honesty.</l>
+<l>If his sweet boy he could forsake, </l>
+<l>With me he never would have stay’d: </l>
+<l>From him no harm my babe can take,</l>
+<l>But he, poor man! is wretched made, </l>
+<l>And every day we two will pray</l>
+<l>For him that’s gone and far away.</l>
+<l>I’ll teaah my boy the sweetest things;</l>
+<l>I’ll teach him how the owlet sings. </l>
+<l>My little babe! thy lips are still,</l>
+<l>And thou hast almost suck’d thy fill. </l>
+<l>—Where art thou gone my own dear child?</l>
+<l>What wicked looks are those I see? </l>
+<l>Alas! alas! that look so wild, </l>
+<l>It never, never came from me: </l>
+<l>If thou art mad, my pretty lad, </l>
+<l>Then I must be for ever sad. <pb xml:id="p_150"/></l>
+<l>Oh! smile on me, my little lamb! </l>
+<l>For I thy own dear mother am. </l>
+<l>My love for thee has well been tried:</l>
+<l>I’ve sought thy father far and wide. </l>
+<l>I know the poisons of the shade, </l>
+<l>I know the earth-nuts fit for food; </l>
+<l>Then, pretty dear, be not afraid;</l>
+<l>We’ll find thy father in the wood.</l>
+<l>Now laugh and be gay, to the woods away!</l>
+<l>And there, my babe; we’ll live for aye.<pb xml:id="p_151"/></l>
+<l>THE </l>
+<l>ANCIENT MARINER, </l>
+<l>A POET’S REVERIE.<pb xml:id="p_152"/></l>
+<l><pb xml:id="p_153"/></l>
+<l>ARGUMENT.</l>
+<l>How a Ship, having first sailed to the Equator, was driven by Storms, to the cold Country towards the South Pole; how the Ancient Mariner cruelly, and in contempt of the laws of hospitality, killed a Sea-bird; and how he was followed by many and strange Judgements; and in what manner he came back to his own Country.<pb xml:id="p_154"/></l>
+<l><pb xml:id="p_155"/></l>
+<l>The ANCIENT MARINER.</l>
+<l>A POET’s REVERIE. </l>
+<l>I.</l>
+<l>It is an ancient Mariner, </l>
+<l>      And he stoppeth one of three: </l>
+<l>“By thy long grey beard and thy glittering eye</l>
+<l>      “Now wherefore stoppest me? </l>
+<l>
+“The Bridegroom’s doors are open’d wide</l>
+<l>      “And I am next of kin; </l>
+<l>“The Guests are met, the Feast is set,— </l>
+<l>      “May’st hear the merry din. <pb xml:id="p_156"/></l>
+<l>But still he holds the wedding guest— </l>
+<l>      There was a Ship, quoth he— </l>
+<l>“Nay, if thou’st got a laughsome tale, </l>
+<l>      “Mariner! come with me.”</l>
+<l>He holds him with his skinny hand, </l>
+<l>      Quoth he, there was a Ship—</l>
+<l>“Now get thee hence, thou grey-beard Loon!</l>
+<l>      “Or my Staff shall make thee skip. </l>
+<l>He holds him with his glittering eye—</l>
+<l>      The wedding guest stood still </l>
+<l>And listens like a three year’s child;</l>
+<l>      The Mariner hath his will. </l>
+<l>The wedding-guest sate on a stone,</l>
+<l>      He cannot chuse but hear: </l>
+<l>And thus spake on that ancient man, </l>
+<l>      The bright-eyed Mariner. <pb xml:id="p_157"/></l>
+<l>The Ship was cheer’d, the Harbour clear’d—</l>
+<l>      Merrily did we drop </l>
+<l>Below the Kirk, below the Hill, </l>
+<l>      Below the Light-house top. </l>
+<l>The Sun came up upon the left,</l>
+<l>      Out of the Sea came he: </l>
+<l>And he shone bright, and on the right </l>
+<l>      Went down into the Sea.</l>
+<l>Higher and higher every day, </l>
+<l>      Till over the mast at noon—</l>
+<l>The wedding-guest here beat his breast,</l>
+<l>      For he heard the loud bassoon. </l>
+<l>The Bride hath pac’d into the Hall,</l>
+<l>      Red as a rose is she; </l>
+<l>Nodding their heads before her goes</l>
+<l>      The merry Minstralsy.<pb xml:id="p_158"/></l>
+<l>The wedding-guest he beat his breast,</l>
+<l>      Yet he cannot chuse but hear:</l>
+<l>And thus spake on that ancient Man,</l>
+<l>      The bright-eyed Mariner.</l>
+<l>But now the Northwind came more fierce,</l>
+<l>      There came a Tempest strong! </l>
+<l>And Southward still for days and weeks</l>
+<l>      Like Chaff we drove along.</l>
+<l>And now there came both Mist and Snow,</l>
+<l>      And it grew wond’rous cold;</l>
+<l>And Ice mast-high came floating by </l>
+<l>      As green as Emerald. </l>
+<l>And thro’ the drifts the snowy clifts </l>
+<l>      Did send a dismal sheen; </l>
+<l>Nor shapes of men nor beasts we ken—</l>
+<l>      The Ice was all between. <pb xml:id="p_159"/></l>
+<l>The Ice was here, the Ice was there, </l>
+<l>      The Ice was all around: </l>
+<l>It crack’d and growl’d, and roar’d and howl’d—</l>
+<l>      A wild and ceaseless sound.</l>
+<l>At length did cross an Albatross, </l>
+<l>      Thorough the Fog it came; </l>
+<l>As if it had been a Christian Soul,</l>
+<l>      We hail’d it in God’s name. </l>
+<l>The Mariners gave it biscuit-worms, </l>
+<l>      And round and round it flew: </l>
+<l>The Ice did split with a Thunder-fit; </l>
+<l>      The Helmsman steer’d us thro’.</l>
+<l>And a good south wind sprung up behind.</l>
+<l>      The Albatross did follow;</l>
+<l>And every day for food or play</l>
+<l>      Came to the Mariner’s hollo!<pb xml:id="p_160"/></l>
+<l>In mist or cloud on mast or shroud</l>
+<l>      It perch’d for vespers nine,</l>
+<l>Whiles all the night thro’ fog-smoke white</l>
+<l>      Glimmer’d the white moon-shine.</l>
+<l>“God save thee, ancient Mariner! </l>
+<l>      “From the fiends that plague thee thus— </l>
+<l>“Why look’st thou so?”—with my cross bow</l>
+<l>      I shot the Albatross.<pb xml:id="p_161"/></l>
+<l>II.</l>
+<l>The Sun now rose upon the right, </l>
+<l>      Out of the Sea came he; </l>
+<l>Still hid in mist; and on the left </l>
+<l>      Went down into the Sea. </l>
+<l>And the good south wind still blew behind,</l>
+<l>      But no sweet Bird did follow</l>
+<l>Nor any day for food or play</l>
+<l>      Came to the Mariner’s hollo!</l>
+<l>And I had done an hellish thing</l>
+<l>      And it would work e’m woe:</l>
+<l>For all averr’d, I had kill’d the Bird </l>
+<l>      That made the Breeze to blow. <pb xml:id="p_162"/></l>
+<l>Nor dim nor red, like an Angel’s head, </l>
+<l>      The glorious Sun uprist:</l>
+<l>Then all averr’d, I had kill’d the Bird </l>
+<l>      That brought the fog and mist. </l>
+<l>’Twas right, said they, such birds to slay</l>
+<l>      That bring the fog and mist.</l>
+<l>The breezes blew, the white foam flew,</l>
+<l>      The furrow follow’d free: </l>
+<l>We were the first that ever burst </l>
+<l>      Into that silent Sea. </l>
+<l>Down dropt the breeze, the Sails dropt down,</l>
+<l>      ’Twas sad as sad could be </l>
+<l>And we did speak only to break </l>
+<l>      The silence of the Sea. <pb xml:id="p_163"/></l>
+<l>All in a hot and copper sky </l>
+<l>      The bloody sun at noon, </l>
+<l>Right up above the mast did stand,</l>
+<l>      No bigger than the moon. </l>
+<l>Day after day, day after day, </l>
+<l>      We stuck, nor breath nor motion, </l>
+<l>As idle as a painted Ship</l>
+<l>      Upon a painted Ocean.</l>
+<l>Water, water, every where </l>
+<l>      And all the boards did shrink;</l>
+<l>Water, water, every where,</l>
+<l>      Nor any drop to drink.</l>
+<l>The very deeps did rot: O Christ!</l>
+<l>      That ever this should be!</l>
+<l>Yea, slimy things did crawl with legs</l>
+<l>      Upon the slimy Sea. <pb xml:id="p_164"/></l>
+<l>About, about, in reel and rout</l>
+<l>      The Death-fires danc’d at night; </l>
+<l>The water, like a witch’s oils, </l>
+<l>      Burnt green and blue and white. </l>
+<l>And some in dreams assured were</l>
+<l>      Of the Spirit that plagued us so:</l>
+<l>Nine fathom deep he had follow’d us</l>
+<l>      From the Land of Mist and Snow.</l>
+<l>And every tongue thro’ utter drouth </l>
+<l>      Was wither’d at the root;</l>
+<l>We could not speak no more than if </l>
+<l>      We had been choked with soot. </l>
+<l>Ah wel-a-day! what evil looks </l>
+<l>      Had I from old and young; </l>
+<l>Instead of the Cross the Albatross </l>
+<l>      About my neck was hung.<pb xml:id="p_165"/></l>
+<l>III.</l>
+<l>So past a weary time; each throat</l>
+<l>Was parch’d, and glaz’d each eye,</l>
+<l>When, looking westward, I beheld</l>
+<l>      A something in the sky.</l>
+<l>At first it seem’d a little speck </l>
+<l>      And then it seem’d a mist:</l>
+<l>It mov’d and mov’d, and took at last </l>
+<l>      A certain shape, I wist.</l>
+<l>A speck, a mist, a shape, I wist!</l>
+<l>      And still it ner’d and ner’d; </l>
+<l>And, as if it dodg’d a water-sprite, </l>
+<l>      It plung’d and tack’d and veer’d. <pb xml:id="p_166"/></l>
+<l>With throat unslack’d, with black lips bak’d</l>
+<l>      We could nor laugh nor wail; </l>
+<l>Thro’ utter drouth all dumb we stood </l>
+<l>Till I bit my arm and suck’d the blood, </l>
+<l>      And cry’d, A sail! a sail! </l>
+<l>With throat unslack’d, with black lips bak’d</l>
+<l>      Agape they heard me call:</l>
+<l>Gramercy! they for joy did grin</l>
+<l>And all at once their breath drew in</l>
+<l>      As they were drinking all.</l>
+<l>See! See! (I cry’d) she tacks no more!</l>
+<l>      Hither to work us weal</l>
+<l>Without a breeze, without a tide </l>
+<l>      She steddies with upright keel! <pb xml:id="p_167"/></l>
+<l>The western wave was all a flame,</l>
+<l>      The day was well nigh done!</l>
+<l>Almost upon the western wave </l>
+<l>      Rested the broad bright Sun; </l>
+<l>When that strange shape drove suddenly</l>
+<l>      Betwixt us and the Sun.</l>
+<l>And strait the Sun was fleck’d with bars</l>
+<l>      (Heaven’s mother send us grace)</l>
+<l>As if thro’ a dungeon grate he peer’d </l>
+<l>      With broad and burning face.</l>
+<l>Alas! (thought I, and my heart beat loud) </l>
+<l>      How fast she neres and neres!</l>
+<l>Are those her Sails that glance in the Sun </l>
+<l>      Like restless gossameres? <pb xml:id="p_168"/></l>
+<l>Are those her Ribs, thro’ which the Sun</l>
+<l>      Did peer, as thro’ a grate?</l>
+<l>And are those two all, all her crew,</l>
+<l>      That Woman, and her Mate? </l>
+<l>His bones were black with many a crack,</l>
+<l>      All black and bare, I ween; </l>
+<l>Jet-black and bare, save where with rust</l>
+<l>Of mouldy damps and charnel crust </l>
+<l>      They were patch’d with purple and green.</l>
+<l>Her lips were red, her looks were free,</l>
+<l>      Her locks were yellow as gold: </l>
+<l>Her skin was white as leprosy,</l>
+<l>And she was far liker Death than he;</l>
+<l>      Her flesh made the still air cold.<pb xml:id="p_169"/></l>
+<l>The naked Hulk alongside came </l>
+<l>      And the Twain were playing dice; </l>
+<l>      “The Game is done! I’ve won, I’ve won!”</l>
+<l>Quoth she, and whistled thrice. </l>
+<l>A gust of wind sterte up behind </l>
+<l>      And whistled thro’ his bones; </l>
+<l>Thro’ the holes of his eyes and the hole of his mouth</l>
+<l>      Half-whistles and half-groans. </l>
+<l>With never a whisper in the Sea </l>
+<l>      Off darts the Spectre-ship;</l>
+<l>While clombe above the Eastern bar </l>
+<l>The horned Moon, with one bright Star</l>
+<l>      Almost between the tips.<pb xml:id="p_170"/></l>
+<l>One after one by the horned Moon</l>
+<l>      (Listen, O Stranger! to me)</l>
+<l>Each turn’d his face with a ghastly pang</l>
+<l>      And curs’d me with his ee.</l>
+<l>Four times fifty living men,</l>
+<l>      With never a sigh or groan,</l>
+<l>With heavy thump, a lifeless lump</l>
+<l>      They dropp’d down one by one.</l>
+<l>Their souls did from their bodies fly,—</l>
+<l>      They fled to bliss or woe;</l>
+<l>And every soul it pass’d me by,</l>
+<l>      Like the whiz of my Cross-bow.<pb xml:id="p_171"/></l>
+<l>IV.</l>
+<l>
+“I fear thee, ancient Mariner! </l>
+<l>      “I fear thy skinny hand;</l>
+<l>“And thou art long and lank and brown</l>
+<l>      “As is the ribb’d Sea-sand.</l>
+<l>
+“I fear thee and thy glittering eye </l>
+<l>      “And thy skinny hand so brown—</l>
+<l>Fear not, fear not, thou wedding guest!</l>
+<l>      This body dropt not down.</l>
+<l>Alone, alone, all all alone, </l>
+<l>      Alone on the wide wide Sea;</l>
+<l>And Christ would take no pity on</l>
+<l>      My soul in agony.<pb xml:id="p_172"/></l>
+<l>The many men so beautiful,</l>
+<l>      And they all dead did lie! </l>
+<l>And a million million slimy things </l>
+<l>      Liv’d on—and so did I.</l>
+<l>I look’d upon the rotting Sea, </l>
+<l>      And drew my eyes away;</l>
+<l>I look’d upon the ghastly deck,</l>
+<l>      And there the dead men lay.</l>
+<l>I look’d to Heaven, and try’d to pray;</l>
+<l>      But or ever a prayer had gusht, </l>
+<l>A wicked whisper came and made</l>
+<l>      My heart as dry as dust.</l>
+<l>I clos’d my lids and kept them close,</l>
+<l>      Till the balls like pulses beat; </l>
+<l>For the sky and the sea, and the sea and the sky</l>
+<l>Lay like a load on my weary eye,</l>
+<l>      And the dead were at my feet.<pb xml:id="p_173"/></l>
+<l>The cold sweat melted from their limbs,</l>
+<l>      Nor rot, nor reek did they;</l>
+<l>The look with which they look’d on me,</l>
+<l>      Had never pass’d away. </l>
+<l>An orphan’s curse would drag to Hell</l>
+<l>      A spirit from on high:</l>
+<l>But O! more horrible than that </l>
+<l>      Is the curse in a dead man’s eye!</l>
+<l>Seven days, seven nights I saw that curse,</l>
+<l>      And yet I could not die. </l>
+<l>The moving Moon went up the sky</l>
+<l>      And no where did abide:</l>
+<l>Softly she was going up</l>
+<l>      And a star or two beside—<pb xml:id="p_174"/></l>
+<l>Her beams bemock’d the sultry main </l>
+<l>      Like April hoar-frost spread; </l>
+<l>But where the ship’s huge shadow lay,</l>
+<l>The charmed water burnt alway </l>
+<l>      A still and awful red. </l>
+<l>Beyond the shadow of the ship </l>
+<l>      I watch’d the water-snakes: </l>
+<l>They mov’d in tracks of shining white;</l>
+<l>And when they rear’d, the elfish light</l>
+<l>      Fell off in hoary flakes.</l>
+<l>Within the shadow of the ship </l>
+<l>      I watch’d their rich attire: </l>
+<l>Blue, glossy green, and velvet black</l>
+<l>They coil’d and swam; and every track</l>
+<l>      Was a flash of golden fire.<pb xml:id="p_175"/></l>
+<l>O happy living things! no tongue</l>
+<l>      Their beauty might declare:</l>
+<l>A spring of love gusht from my heart, </l>
+<l>      And I bless’d them unaware! </l>
+<l>Sure my kind saint took pity on me,</l>
+<l>      And I bless’d them unaware.</l>
+<l>The self-same moment I could pray;</l>
+<l>      And from my neck so free </l>
+<l>The Albatross fell off, and sank</l>
+<l>      Like lead into the sea.<pb xml:id="p_176"/></l>
+<l>V.</l>
+<l>O sleep, it is a gentle thing </l>
+<l>      Belov’d from pole to pole! </l>
+<l>To Mary-queen the praise be given </l>
+<l>She sent the gentle sleep from heaven </l>
+<l>      That slid into my soul. </l>
+<l>The silly buckets on the deck </l>
+<l>      That had so long remain’d, </l>
+<l>I dreamt that they were fill’d with dew</l>
+<l>      And when I awoke it rain’d. </l>
+<l>My lips were wet, my throat was cold,</l>
+<l>      My garments all were dank;</l>
+<l>Sure I had drunken in my dreams </l>
+<l>      And still my body drank.<pb xml:id="p_177"/></l>
+<l>I mov’d and could not feel my limbs;</l>
+<l>      I was so light, almost </l>
+<l>I thought that I had died in sleep,</l>
+<l>      And was a blessed Ghost. </l>
+<l>And soon I heard a roaring wind,</l>
+<l>      It did not come anear; </l>
+<l>But with its sound it shook the sails</l>
+<l>      That were so thin and sere. </l>
+<l>The upper air burst into life </l>
+<l>      And a hundred fire-flags sheen </l>
+<l>To and fro they were hurried about; </l>
+<l>And to and fro, and in and out </l>
+<l>      The wan stars danc’d between. </l>
+<l>And the coming wind did roar more loud;</l>
+<l>      And the sails did sigh like sedge: </l>
+<l>And the rain pour’d down from one black cloud</l>
+<l>      The moon was at its edge. <pb xml:id="p_178"/></l>
+<l>The thick black cloud was cleft, and still</l>
+<l>      The Moon was at its side:</l>
+<l>Like waters shot from some high crag,</l>
+<l>The lightning fell with never a jag </l>
+<l>      A river steep and wide. </l>
+<l>The loud wind never reach’d the Ship,</l>
+<l>      Yet now the Ship mov’d on!</l>
+<l>Beneath the lightning and the moon </l>
+<l>      The dead men gave a groan. </l>
+<l>They groan’d, they stirr’d, they all uprose,</l>
+<l>      Nor spake, nor mov’d their eyes:</l>
+<l>It had been strange, even in a dream</l>
+<l>      To have seen those dead men rise.</l>
+<l>The helmsman steerd, the ship mov’d on;</l>
+<l>      Yet never a breeze up-blew;</l>
+<l>The Mariners all ’gan work the ropes,</l>
+<l>      Where they were wont to do:</l>
+<l>They rais’d their limbs like lifeless tools—</l>
+<l>      We were a ghastly crew. <pb xml:id="p_179"/></l>
+<l>The body of my brother’s son </l>
+<l>      Stood by me knee to knee: </l>
+<l>The body and I pull’d at one rope,</l>
+<l>      But he said nought to me.</l>
+<l>“I fear thee, ancient Mariner!</l>
+<l>      Be calm, thou wedding guest!</l>
+<l>’Twas not those souls, that fled in pain,</l>
+<l>Which to their corses came again,</l>
+<l>      But a troop of Spirits blest:</l>
+<l>For when it dawn’d—they dropp’d their arms,</l>
+<l>      And cluster’d round the mast: </l>
+<l>Sweet sounds rose slowly thro’ their mouths</l>
+<l>      And from their bodies pass’d.</l>
+<l>Around, around, flew each sweet sound,</l>
+<l>      Then darted to the sun:</l>
+<l>Slowly the sounds came back again</l>
+<l>      Now mix’d, now one by one. <pb xml:id="p_180"/></l>
+<l>Sometimes a dropping from the sky</l>
+<l>      I heard the Sky-lark sing;</l>
+<l>Sometimes all little birds that are</l>
+<l>How they seem’d to fill the sea and air</l>
+<l>      With their sweet jargoning.</l>
+<l>And now ’twas like all instruments,</l>
+<l>      Now like a lonely flute;</l>
+<l>And now it is an angel’s song </l>
+<l>      That makes the heavens be mute. </l>
+<l>It ceas’d: yet still the sails made on </l>
+<l>      A pleasant noise till noon, </l>
+<l>A noise like of a hidden brook </l>
+<l>      In the leafy month of June, </l>
+<l>That to the sleeping woods all night</l>
+<l>      Singeth a quiet tune.<pb xml:id="p_181"/></l>
+<l>Till noon we silently sail’d on </l>
+<l>      Yet never a breeze did breathe:</l>
+<l>Slowly and smoothly went the Ship</l>
+<l>      Mov’d onward from beneath.</l>
+<l>Under the keel nine fathom deep </l>
+<l>      From the land of mist and snow </l>
+<l>The spirit slid: and it was He </l>
+<l>      That made the Ship to go. </l>
+<l>The sails at noon left off their tune </l>
+<l>      And the Ship stood still also. </l>
+<l>The sun right up above the mast </l>
+<l>      Had fix’d her to the ocean: </l>
+<l>But in a minute she ’gan stir</l>
+<l>      With a short uneasy motion—</l>
+<l>Backwards and forwards half her length</l>
+<l>      With a short uneasy motion. <pb xml:id="p_182"/></l>
+<l>Then, like a pawing horse let go, </l>
+<l>      She made a sudden bound:</l>
+<l>It flung the blood into my head, </l>
+<l>      And I fell into a swound. </l>
+<l>How long in that same fit I lay, </l>
+<l>      I have not to declare;</l>
+<l>But ere my living life return’d, </l>
+<l>I heard and in my soul discern’d</l>
+<l>      Two voices in the air. </l>
+<l>
+“Is it he? quoth one, “ Is this the man?</l>
+<l>      “By him who died on cross, </l>
+<l>“With his cruel bow he lay’d full low </l>
+<l>      “The harmless Albatross.</l>
+<l>
+“The spirit who ’bideth by himself</l>
+<l>      “In the land of mist and snow,</l>
+<l>“He lov’d the bird that lov’d the man </l>
+<l>      “Who shot him with his bow.<pb xml:id="p_183"/></l>
+<l>The other was a softer voice, </l>
+<l>      As soft as honey-dew:</l>
+<l>Quoth he the man hath penance done,</l>
+<l>      And penance more will do.<pb xml:id="p_184"/></l>
+<l>VI.</l>
+<l>FIRST VOICE.</l>
+<l>
+“But tell me, tell me! speak again, </l>
+<l>      “Thy soft response renewing—</l>
+<l>“What makes that ship drive on so fast? </l>
+<l>      “What is the Ocean doing?</l>
+<l>SECOND VOICE.</l>
+<l>
+“Still as a Slave before his Lord, </l>
+<l>      “The Ocean hath no blast: </l>
+<l>“His great bright eye most silently </l>
+<l>      “Up to the moon is cast—<pb xml:id="p_185"/></l>
+<l>“If he may know which way to go, </l>
+<l>      “For she guides him smooth or grim. </l>
+<l>“See, brother, see! how graciously </l>
+<l>      “She looketh down on him. </l>
+<l>FIRST VOICE.</l>
+<l>
+“But why drives on that ship so fast </l>
+<l>      “Without or wave or wind? </l>
+<l>SECOND VOICE.</l>
+<l>
+“The air is cut away before, </l>
+<l>      “And closes from behind.</l>
+<l>
+“Fly, brother, fly! more high, more high, </l>
+<l>      “Or we shall be belated:</l>
+<l>“For slow and slow that ship will go, </l>
+<l>      “When the Mariner’s trance is abated.”<pb xml:id="p_186"/></l>
+<l>I woke, and we were sailing on </l>
+<l>      As in a gentle weather: </l>
+<l>’Twas night, calm night, the moon was high;</l>
+<l>      The dead men stood together. </l>
+<l>All stood together on the deck,</l>
+<l>      For a charnel-dungeon fitter: </l>
+<l>All fix’d on me their stony eyes </l>
+<l>      That in the moon did glitter. </l>
+<l>The pang, the curse, with which they died,</l>
+<l>      Had never pass’d away; </l>
+<l>I could not draw my eyes from theirs </l>
+<l>      Nor turn them up to pray. </l>
+<l>And now this spell was snapt: once more</l>
+<l>      I view’d the ocean green,</l>
+<l>And look’d far forth, yet little saw </l>
+<l>      Of what had else been seen. <pb xml:id="p_187"/></l>
+<l>Like one, that on a lonesome road </l>
+<l>      Doth walk in fear and dread, </l>
+<l>And having once turn’d round, walks on</l>
+<l>      And turns no more his head:</l>
+<l>Because he knows, a frightful fiend </l>
+<l>      Doth close behind him tread. </l>
+<l>But soon there breath’d a wind on me,</l>
+<l>      Nor sound nor motion made:</l>
+<l>Its path was not upon the sea</l>
+<l>      In ripple or in shade.</l>
+<l>It rais’d my hair, it fann’d my cheek,</l>
+<l>      Like a meadow-gale of spring—</l>
+<l>It mingled strangely with my fears,</l>
+<l>      Yet it felt like a welcoming.<pb xml:id="p_188"/></l>
+<l>Swiftly, swiftly flew the ship</l>
+<l>      Yet she sail’d softly too:</l>
+<l>Sweetly, sweetly blew the breeze—</l>
+<l>      On me alone it blew.</l>
+<l>O dream of joy! is this indeed </l>
+<l>      The light-house top I see? </l>
+<l>Is this the Hill? Is this the Kirk?</l>
+<l>      Is this mine own countrée? </l>
+<l>We drifted o’er the Harbour-bar, </l>
+<l>      And I with sobs did pray—</l>
+<l>“O let me be awake, my God! </l>
+<l>      “Or let me sleep alway!”</l>
+<l>The harbour-bay was clear as glass,</l>
+<l>      So smoothly it was strewn!</l>
+<l>And on the bay the moonlight lay,</l>
+<l>      And the shadow of the moon.<pb xml:id="p_189"/></l>
+<l>The rock shone bright, the kirk no less</l>
+<l>      That stands above the rock:</l>
+<l>The moonlight steep’d in silentness</l>
+<l>      The steady weathercock.</l>
+<l>And the bay was white with silent light,</l>
+<l>      Till rising from the same</l>
+<l>Full many shapes, that shadows were,</l>
+<l>      In crimson colours came.</l>
+<l>A little distance from the prow</l>
+<l>      Those crimson shadows were:</l>
+<l>I turn’d my eyes upon the deck—</l>
+<l>      O Christ! what saw I there?</l>
+<l>Each corse lay flat, lifeless and flat;</l>
+<l>      And by the Holy rood</l>
+<l>A man all light, a seraph-man,</l>
+<l>      On every corse there stood.<pb xml:id="p_190"/></l>
+<l>This seraph-band, each wav’d his hand:</l>
+<l>      It was a heavenly sight:</l>
+<l>They stood as signals to the land,</l>
+<l>      Each one a lovely light:</l>
+<l>This seraph-band, each wav’d his hand,</l>
+<l>      No voice did they impart—</l>
+<l>No voice; but O! the silence sank,</l>
+<l>      Like music on my heart.</l>
+<l>But soon I heard the dash of oars,</l>
+<l>      I heard the pilot’s cheer:</l>
+<l>My head was turn’d perforce away</l>
+<l>      And I saw a boat appear.</l>
+<l>The pilot, and the pilot’s boy </l>
+<l>      I heard them coming fast: </l>
+<l>Dear Lord in Heaven! it was a joy, </l>
+<l>      The dead men could not blast. <pb xml:id="p_191"/></l>
+<l>I saw a third—I heard his voice:</l>
+<l>      It is the Hermit good!</l>
+<l>He singeth loud his godly hymns </l>
+<l>      That he makes in the wood.</l>
+<l>He’ll shrieve my soul, he’ll wash away</l>
+<l>      The Albatross’s blood.<pb xml:id="p_192"/></l>
+<l>VII.</l>
+<l>This Hermit good lives in that wood </l>
+<l>      Which slopes down to the Sea. </l>
+<l>How loudly his sweet voice he rears!</l>
+<l>He loves to talk with Mariners</l>
+<l>      That come from a far countreé.</l>
+<l>He kneels at morn and noon and eve—</l>
+<l>      He hath a cushion plump:</l>
+<l>It is the moss, that wholly hides </l>
+<l>      The rotted old Oak-stump.<pb xml:id="p_193"/></l>
+<l>The Skiff-boat ner’d: I heard them talk,</l>
+<l>      “Why, this is strange, I trow! </l>
+<l>“Where are those lights so many and fair</l>
+<l>      “That signal made but now?</l>
+<l>“Strange, by my faith! the Hermit said—</l>
+<l>      “And they answer’d not our cheer.</l>
+<l>“The planks look warp’d, and see those sails</l>
+<l>      “How thin they are and sere!</l>
+<l>“I never saw aught like to them </l>
+<l>      “Unless perchance it were</l>
+<l>
+“The skeletons of leaves that lag</l>
+<l>      “My forest brook along:</l>
+<l>“When the Ivy-tod is heavy with snow,</l>
+<l>“And the Owlet whoops to the wolf below</l>
+<l>      “That eats the she-wolf’s young.<pb xml:id="p_194"/></l>
+<l>“Dear Lord! it has a fiendish look—</l>
+<l>      (The Pilot made reply) </l>
+<l>“I am a-fear’d.—“ Push on, push on! </l>
+<l>      “Said the Hermit cheerily. </l>
+<l>The Boat came closer to the Ship, </l>
+<l>      But I nor spake nor stirr’d!</l>
+<l>The Boat came close beneath the Ship,</l>
+<l>      And strait a sound was heard! </l>
+<l>Under the water it rumbled on, </l>
+<l>      Still louder and more dread: </l>
+<l>It reach’d the Ship, it split the bay; </l>
+<l>      The Ship went down like lead. </l>
+<l>Stunn’d by that loud and dreadful sound,</l>
+<l>      Which sky and ocean smote:</l>
+<l>Like one that hath been seven days drown’d</l>
+<l>      My body lay afloat:<pb xml:id="p_195"/></l>
+<l>But, swift as dreams, myself I found</l>
+<l>      Within the Pilot’s boat.</l>
+<l>Upon the whirl, where sank the Ship,</l>
+<l>      The boat spun round and round:</l>
+<l>And all was still, save that the hill </l>
+<l>      Was telling of the sound.</l>
+<l>I mov’d my lips: the Pilot shriek’d </l>
+<l>      And fell down in a fit. </l>
+<l>The Holy Hermit rais’d his eyes </l>
+<l>      And pray’d where he did sit.</l>
+<l>I took the oars: the Pilot’s boy, </l>
+<l>      Who now doth crazy go,</l>
+<l>Laugh’d loud and long, and all the while</l>
+<l>      His eyes went to and fro, </l>
+<l>“Ha! ha!” quoth he—“ full plain I see,</l>
+<l>      “The devil knows how to row.”<pb xml:id="p_196"/></l>
+<l>And now all in mine own Countrée </l>
+<l>      I stood on the firm land! </l>
+<l>The Hermit stepp’d forth from the boat,</l>
+<l>      And scarcely he could stand. </l>
+<l>“O shrieve me, shrieve me, holy Man!”</l>
+<l>      The Hermit cross’d his brow—</l>
+<l>“Say quick,” quoth he, I bid thee say</l>
+<l>      “What manner man art thou? </l>
+<l>Forthwith this frame of mind was wrench’d</l>
+<l>      With a woeful agony, </l>
+<l>Which forc’d me to begin my tale </l>
+<l>      And then it left me free. </l>
+<l>Since then at an uncertain hour, </l>
+<l>      That agency returns; </l>
+<l>And till my ghastly tale is told</l>
+<l>      This heart within me burns.<pb xml:id="p_197"/></l>
+<l>I pass, like night, from land to land; </l>
+<l>      I have strange power of speech; </l>
+<l>The moment that his face I see </l>
+<l>I know the man that must hear me; </l>
+<l>      To him my tale I teach. </l>
+<l>What loud uproar bursts from that door!</l>
+<l>      The Wedding-guests are there;</l>
+<l>But in the Garden-bower the Bride </l>
+<l>      And Bride-maids singing are: </l>
+<l>And hark the little Vesper-bell </l>
+<l>      Which biddeth me to prayer.</l>
+<l>O Wedding-guest! this soul hath been</l>
+<l>      Alone on a wide wide sea: </l>
+<l>So lonely ’twas, that God himself</l>
+<l>      Scarce seemed there to be. <pb xml:id="p_198"/></l>
+<l>O sweeter than the Marriage-feast, </l>
+<l>      ’Tis sweeter far to me</l>
+<l>To walk together to the Kirk </l>
+<l>      With a goodly company. </l>
+<l>To walk together to the Kirk </l>
+<l>      And all together pray, </l>
+<l>While each to his great father bends, </l>
+<l>Old men, and babes, and loving friends,</l>
+<l>      And Youths, and Maidens gay. </l>
+<l>Farewell, farewell! but this I tell </l>
+<l>      To thee, thou wedding-guest! </l>
+<l>He prayeth well who loveth well</l>
+<l>      Both man and bird and beast. </l>
+<l>He prayeth best who loveth best</l>
+<l>      All things both great and small: </l>
+<l>For the dear God, who loveth us, </l>
+<l>      He made and loveth all. <pb xml:id="p_199"/></l>
+<l>The Mariner, whose eye is bright, </l>
+<l>      Whose beard with age is hoar, </l>
+<l>Is gone; and now the wedding-guest </l>
+<l>      Turn’d from the bridegroom’s door. </l>
+<l>He went, like one that hath been stunn’d</l>
+<l>      And is of sense forlorn:</l>
+<l>A sadder and a wiser man </l>
+<l>      He rose the morrow morn.<pb xml:id="p_200"/></l>
+<l><pb xml:id="p_201"/></l>
+<l>LINES </l>
+<l>Written a few miles above TINTERN ABBEY, on revisiting </l>
+<l>the banks of the WYE during a Tour. </l>
+<l>July 13, 1798.</l>
+<l>Five years have passed; five summers, with the length</l>
+<l>Of five long winters! and again I hear</l>
+<l>These waters, rolling from their mountain-springs</l>
+<l>With a sweet inland murmur.*—Once again</l>
+<l>Do I behold these steep and lofty cliffs,</l>
+<l>Which on a wild secluded scene impress</l>
+<l>Thoughts of more deep seclusion; and connect</l>
+<l>The landscape with the quiet of the sky.</l>
+<l>The day is come when I again repose</l>
+<l>Here, under this dark sycamore, and view</l>
+<l>These plots of cottage-ground, these orchard-tufts,</l>
+<l>
+* The river is not affected by the tides a few miles above Tintern.<pb xml:id="p_202"/></l>
+<l>Which, at this season, with their unripe fruits,</l>
+<l>Among the woods and copses lose themselves,</l>
+<l>Nor, with their green and simple hue, disturb</l>
+<l>The wild green landscape. Once again I see</l>
+<l>These hedge-rows, hardly hedge-rows, little lines</l>
+<l>Of sportive wood run wild; these pastoral farms</l>
+<l>Green to the very door; and wreathes of smoke</l>
+<l>Sent up, in silence, from among the trees,</l>
+<l>With some uncertain notice, as might seem,</l>
+<l>Of vagrant dwellers in the houseless woods,</l>
+<l>Or of some hermit’s cave, where by his fire</l>
+<l>The hermit sits alone.</l>
+<l>                              Though absent long,</l>
+<l>These forms of beauty have not been to me,</l>
+<l>As is a landscape to a blind man’s eye:</l>
+<l>But oft, in lonely rooms, and mid the din</l>
+<l>Of towns and cities, I have owed to them,</l>
+<l>In hours of weariness, sensations sweet,</l>
+<l>Felt in the blood, and felt along the heart,</l>
+<l>And passing even into my purer mind,<pb xml:id="p_203"/></l>
+<l>With tranquil restoration:—feelings too</l>
+<l>Of unremembered pleasure: such, perhaps,</l>
+<l>As may have had no trivial influence</l>
+<l>On that best portion of a good man’s life;</l>
+<l>His little, nameless, unremembered acts</l>
+<l>Of kindness and of love. Nor less, I trust,</l>
+<l>To them I may have owed another gift,</l>
+<l>Of aspect more sublime; that blessed mood,</l>
+<l>In which the burthen of the mystery,</l>
+<l>In which the heavy and the weary weight</l>
+<l>Of all this unintelligible world</l>
+<l>Is lighten’d:—that serene and blessed mood,</l>
+<l>In which the affections gently lead us on,</l>
+<l>Until, the breath of this corporeal frame,</l>
+<l>And even the motion of our human blood</l>
+<l>Almost suspended, we are laid asleep</l>
+<l>In body, and become a living soul:</l>
+<l>While with an eye made quiet by the power</l>
+<l>Of harmony, and the deep power of joy,</l>
+<l>We see into the life of things.<pb xml:id="p_204"/></l>
+<l>                              If this</l>
+<l>Be but a vain belief, yet, oh! how oft,</l>
+<l>In darkness, and amid the many shapes</l>
+<l>Of joyless day-light; when the fretful stir</l>
+<l>Unprofitable, and the fever of the world,</l>
+<l>Have hung upon the beatings of my heart,</l>
+<l>How oft, in spirit, have I turned to thee</l>
+<l>O sylvan Wye! Thou wanderer through the woods,</l>
+<l>How often has my spirit turned to thee!</l>
+<l>And now, with gleams of half-extinguish’d thought,</l>
+<l>With many recognitions dim and faint,</l>
+<l>And somewhat of a sad perplexity,</l>
+<l>The picture of the mind revives again:</l>
+<l>While here I stand, not only with the sense</l>
+<l>Of present pleasure, but with pleasing thoughts</l>
+<l>That in this moment there is life and food</l>
+<l>For future years. And so I dare to hope</l>
+<l>Though changed, no doubt, from what I was, when first<pb xml:id="p_205"/></l>
+<l>I came among these hills; when like a roe</l>
+<l>I bounded o’er the mountains, by the sides</l>
+<l>Of the deep rivers, and the lonely streams,</l>
+<l>Wherever nature led: more like a man</l>
+<l>Flying from something that he dreads, than one</l>
+<l>Who sought the thing he loved. For nature then</l>
+<l>(The coarser pleasures of my boyish days,</l>
+<l>And their glad animal movements all gone by,)</l>
+<l>To me was all in all.—I cannot paint</l>
+<l>What then I was. The sounding cataract</l>
+<l>Haunted me like a passion: the tall rock,</l>
+<l>The mountain, and the deep and gloomy wood,</l>
+<l>Their colours and their forms, were then to me</l>
+<l>An appetite: a feeling and a love,</l>
+<l>That had no need of a remoter charm,</l>
+<l>By thought supplied, or any interest</l>
+<l>Unborrowed from the eye.—That time is past,</l>
+<l>And all its aching joys are now no more,</l>
+<l>And all its dizzy raptures. Not for this<pb xml:id="p_206"/></l>
+<l>Faint I, nor mourn nor murmur: other gifts</l>
+<l>Have followed, for such loss, I would believe,</l>
+<l>Abundant recompence. For I have learned</l>
+<l>To look on nature, not as in the hour</l>
+<l>Of thoughtless youth, but hearing oftentimes</l>
+<l>The still, sad music of humanity,</l>
+<l>Nor harsh nor grating, though of ample power</l>
+<l>To chasten and subdue. And I have felt</l>
+<l>A presence that disturbs me with the joy</l>
+<l>Of elevated thoughts; a sense sublime</l>
+<l>Of something far more deeply interfused,</l>
+<l>Whose dwelling is the light of setting suns,</l>
+<l>And the round ocean, and the living air,</l>
+<l>And the blue sky, and in the mind of man,</l>
+<l>A motion and a spirit, that impels</l>
+<l>All thinking things, all objects of all thought,</l>
+<l>And rolls through all things. Therefore am I still</l>
+<l>A lover of the meadows and the woods,</l>
+<l>And mountains; and of all that we behold<pb xml:id="p_207"/></l>
+<l>From this green earth; of all the mighty world</l>
+<l>Of eye and ear, both what they half create,*</l>
+<l>And what perceive; well pleased to recognize</l>
+<l>In nature and the language of the sense,</l>
+<l>The anchor of my purest thoughts, the nurse,</l>
+<l>The guide, the guardian of my heart, and soul</l>
+<l>Of all my moral being.</l>
+<l>                              Nor, perchance,</l>
+<l>If I were not thus taught, should I the more</l>
+<l>Suffer my genial spirits to decay:</l>
+<l>For thou art with me, here, upon the banks</l>
+<l>Of this fair river; thou, my dearest Friend,</l>
+<l>My dear, dear Friend, and in thy voice I catch</l>
+<l>The language of my former heart, and read</l>
+<l>
+* This line has a close resemblance to an admirable line of Young, the exact expression of which I cannot recollect.<pb xml:id="p_208"/></l>
+<l>My former pleasures in the shooting lights</l>
+<l>Of thy wild eyes. Oh! yet a little while</l>
+<l>May I behold in thee what I was once,</l>
+<l>My dear, dear Sister! And this prayer I make,</l>
+<l>Knowing that Nature never did betray</l>
+<l>The heart that loved her; ’tis her privilege,</l>
+<l>Through all the years of this our life, to lead</l>
+<l>From joy to joy: for she can so inform</l>
+<l>The mind that is within us, so impress</l>
+<l>With quietness and beauty, and so feed</l>
+<l>With lofty thoughts, that neither evil tongues,</l>
+<l>Rash judgments, nor the sneers of selfish men,</l>
+<l>Nor greetings where no kindness is, nor all</l>
+<l>The dreary intercourse of daily life,</l>
+<l>Shall e’er prevail against us, or disturb</l>
+<l>Our chearful faith that all which we behold</l>
+<l>Is full of blessings. Therefore let the moon</l>
+<l>Shine on thee in thy solitary walk;</l>
+<l>And let the misty mountain winds be free<pb xml:id="p_209"/></l>
+<l>To blow against thee: and in after years,</l>
+<l>When these wild ecstasies shall be matured</l>
+<l>Into a sober pleasure, when thy mind</l>
+<l>Shall be a mansion for all lovely forms,</l>
+<l>Thy memory be as a dwelling-place</l>
+<l>For all sweet sounds and harmonies; Oh! then,</l>
+<l>If solitude, or fear, or pain, or grief,</l>
+<l>Should be thy portion, with what healing thoughts</l>
+<l>Of tender joy wilt thou remember me,</l>
+<l>And these my exhortations! Nor perchance,</l>
+<l>If I should be, where I no more can hear</l>
+<l>Thy voice, nor catch from thy wild eyes these gleams</l>
+<l>Of past existence, wilt thou then forget</l>
+<l>That on the banks of this delightful stream</l>
+<l>We stood together; and that I, so long</l>
+<l>A worshipper of Nature, hither came,</l>
+<l>Unwearied in that service: rather say</l>
+<l>With warmer love, oh! with far deeper zeal</l>
+<l>Of holier love. Nor wilt thou then forget,<pb xml:id="p_210"/></l>
+<l>That after many wanderings, many years</l>
+<l>Of absence, these steep woods and lofty cliffs,</l>
+<l>And this green pastoral landscape, were to me</l>
+<l>More dear, both for themselves, and for thy sake.<pb xml:id="p_211"/></l>
+NOTES.
+
+NOTE to THE THORN, p. 38.—This Poem ought to have been preceded by an introductory Poem, which I have been prevented from writing by never having felt myself in a mood when it was probable that I should write it well.—The character which I have here introduced speaking is sufficiently common. The Reader will perhaps have a general notion of it, if he has ever known a man, a Captain of a small trading vessel for example, who being past the middle age of life, had retired upon an annuity or small independent income to some village or country town of which he was not a native, or in which he had not been accustomed to live. Such men having little to do become credulous and talkative from indolence; and from the same cause, and other predisposing causes by which it is probable that such men may have been affected, they are prone to superstition. On which account it appeared to me proper to select a character like this to exhibit some of the general laws by which superstition acts upon the mind. Superstitious men are almost always men of slow faculties and deep feelings; their minds are not loose but adhesive; they have a reasonable share of imagination, by which word I mean the faculty which produces impressive<pb xml:id="p_212"/>
+effects out of simple elements; but they are utterly destitute of fancy, the power by which pleasure and surprize are excited by sudden varieties of situation and by accumulated imagery.
+It was my wish in this poem to shew the manner in which such men cleave to the same ideas; and to follow the turns of passion, always different, yet not palpably different, by which their conversation is swayed. I had two objects to attain; first, to represent a picture which should not be unimpressive yet consistent with the character that should describe it, secondly, while I adhered to the style in which such persons describe, to take care that words, which in their minds are impregnated with passion, should likewise convey passion to Readers who are not accustomed to sympathize with men feeling in that manner or using such language. It seemed to me that this might be done by calling in the assistance of Lyrical and rapid Metre. It was necessary that the Poem, to be natural, should in reality move slowly; yet I hoped, that, by the aid of the metre, to those who should at all enter into the spirit of the Poem, it would appear to move quickly. The Reader will have the kindness to excuse this note as I am sensible that an introductory Poem is necessary to give this Poem its full effect.
+
+Upon this occasion I will request permission to add a few words closely connected with THE THORN and many other<pb xml:id="p_213"/>
+Poems in these Volumes. There is a numerous class of readers who imagine that the same words cannot be repeated without tautology: this is a great error: virtual tautology is much oftener produced by using different words when the meaning is exactly the same. Words, a Poet’s words more particularly, ought to be weighed in the balance of feeling and not measured by the space which they occupy upon paper. For the Reader cannot be too often reminded that Poetry is passion: it is the history or science of feelings: now every man must know that an attempt is rarely made to communicate impassioned feelings without something of an accompanying consciousness of the inadequateness of our own powers, or the deficiencies of language. During such efforts there will be a craving in the mind, and as long as it is unsatisfied the Speaker will cling to the same words, or words of the same character. There are also various other reasons why repetition and apparent tautology are frequently beauties of the highest kind. Among the chief of these reasons is the interest which the mind attaches to words, not only as symbols of the passion, but as things, active and efficient, which are of themselves part of the passion. And further, from a spirit of fondness, exultation, and gratitude, the mind luxuriates in the repetition of words which appear successfully to communicate its feelings. The truth of these remarks might be shewn by innumerable passages from the Bible and from the impassioned poetry of every nation.
+
+“Awake, awake Deborah: awake, awake, utter a song:<pb xml:id="p_214"/>
+Arise Barak, and lead thy captivity captive, thou Son of Abinoam.
+At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell; where he bowed there he fell down dead.
+Why is his Chariot so long in coming? Why tarry the Wheels of his Chariot?”—Judges, Chap. 5th. Verses 12th, 27th, and part of 28th.—See also the whole of that tumultuous and wonderful Poem.
+NOTE to the ANCIENT MARINER, p. 155.—I cannot refuse myself the gratification of informing such Readers as may have been pleased with this Poem, or with any part of it, that they owe their pleasure in some sort to me; as the Author was himself very desirous that it should be suppressed. This wish had arisen from a consciousness of the defects of the Poem, and from a knowledge that many persons had been much displeased with it. The Poem of my Friend has indeed great defects; first, that the principal person has no distinct character, either in his profession of Mariner, or as a human being who having been long under the controul of supernatural impressions might be supposed himself to partake of something supernatural: secondly, that he does not act, but is continually acted upon: thirdly, that the events having no necessary connection do not produce each other; and lastly, that the imagery is somewhat too laboriously accumulated. Yet the Poem contains many delicate touches of passion, and indeed the passion<pb xml:id="p_215"/>
+is every where true to nature; a great number of the stanzas present beautiful images, and are expressed with unusual felicity of language; and the versification, though the metre is itself unfit for long poems, is harmonious and artfully varied, exhibiting the utmost powers of that metre, and every variety of which it is capable. It therefore appeared to me that these several merits (the first of which, namely that of the passion, is of the highest kind,) gave to the Poem a value which is not often possessed by better Poems. On this account I requested of my Friend to permit me to republish it.
+NOTE to the Poem ON REVISITING THE WYE, p. 201.— I have not ventured to call this Poem an Ode; but it was written with a hope that in the transitions, and the impassioned music of the versification would be found the principal requisites of that species of composition.
+
+END OF VOL. I. 
+
+Printed by BIGGS and COTTLE, St. Augustines-Back, Bristol.
+</TEI>
