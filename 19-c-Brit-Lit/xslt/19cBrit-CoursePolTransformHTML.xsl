@@ -74,7 +74,7 @@
                 <div id="policies">
                     <xsl:apply-templates select="//div[@type='policies']"/>
                     
-                    <xsl:apply-templates select="//div[@type='online']"/>
+                   <!-- <xsl:apply-templates select="//div[@type='online']"/>-->
                     
                 </div>
                 
