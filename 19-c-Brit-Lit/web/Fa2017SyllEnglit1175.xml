@@ -361,7 +361,11 @@
             <head>
                 <date when="2017-08-30">W 08-30</date>
             </head>
-           <div type="inclass"><p>Anna Barbauld, <title level="a"><ref target="http://spenserians.cath.vt.edu/TextRecord.php?textsid=39102">Washing Day</ref></title></p></div>
+           <div type="inclass"><p>Anna Barbauld, <title level="a"><ref target="http://spenserians.cath.vt.edu/TextRecord.php?textsid=39102">Washing Day</ref></title></p>
+               <list>
+                   <item><ref target="https://web.hypothes.is/start/">Create hypothes.is account</ref> for online annotations, with your pitt userid.</item>
+                   <item>Invitation to join <ref target="https://hypothes.is/groups/V5PWYY19/upg-fa2017-19cbrit">our class's hypothes.is annotation group</ref></item></list>
+           </div>
             <div type="assign"/>
         </div>
         <div type="day">
@@ -396,7 +400,7 @@
                   <list><item><hi>web:</hi> Expanded views of illuminated pages: <list><item><ref target="https://www.slideshare.net/ebbondar/william-blake-songs-of-experience">Slide view of selections from <title level="m">Songs of Experience</title></ref></item> <item>the William Blake Archive’s full view of <ref target="http://www.blakearchive.org/work/songsie">all known illuminated printings</ref></item> </list></item></list>
                </item>
             </list></div>
-           <div type="assign"><p><hi>CW: Short Paper 1 due</hi></p></div>
+            <div type="assign"><p><hi>WikiSpaces: <ref target="http://upg-19cbritlit-fa2017.wikispaces.com/Threaded+Writing+Assignment+1+on+Blake">Threaded Writing Assignment 1 due</ref> before class. If you were not in class on Friday 9/1, set up a free account on our class WikiSpace using the link and join code posted on our Announcements page on <ref target="http://courseweb.pitt.edu">Courseweb</ref>.</hi></p></div>
         </div>
         <div type="day">
             <head>
