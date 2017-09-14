@@ -445,12 +445,10 @@
                         <item><ref target="http://digital.lib.ucdavis.edu/projects/bwrp/Works/SmitCElegi.htm#p1">Sonnets I to VIII</ref> </item>
                         <item><ref target="http://digital.lib.ucdavis.edu/projects/bwrp/Works/SmitCElegi.htm#p22">Sonnets XLIII to LIX</ref></item>
                     </list>
-                    
-                    
-                    and <title level="a">The Swallow</title></item>
-               <item>Introduce Voice Recording Assignment</item>
+              </item>
+               <item>[POST]: Review Guide for Midterm Exam 1</item>
             </list></div>
-            <div type="assign"><p><hi>Hypothes.is Annotations on Elegaic Sonnets</hi>: Read and provide at least two annotations on the following sonnets. You might note the <q>voltas</q> and how they <q>turn</q> or <q>pivot</q> the concepts in the poem, as well as imagery and language as you did with the Barbauld poem you read for Wednesday.</p></div>
+            <div type="assign"><p><hi>Hypothes.is Annotations on Elegaic Sonnets</hi>: Read and provide at least two annotations on the sonnets readings for today. You might note the <q>voltas</q> and how they <q>turn</q> or <q>pivot</q> the concepts in the poem, as well as imagery and language as you did with the Barbauld poem you read for Wednesday.</p></div>
         </div>
     </div>
     <div type="week" n="4">
@@ -460,16 +458,16 @@
             </head>
            <div type="inclass">
               
-              <list><item>S. T. Coleridge, intro [TO BE POSTED] + <ref target="https://rpo.library.utoronto.ca/poems/eolian-harp"><title level="a">The Eolian Harp</title></ref></item>
+              <list><item>S. T. Coleridge, <ref target="https://rpo.library.utoronto.ca/poems/eolian-harp"><title level="a">The Eolian Harp</title></ref></item>
                  <item>William Wordsworth, <ref target="https://rpo.library.utoronto.ca/poems/ode-intimations-immortality-recollections-early-childhood"><title level="a">Ode: Intimations of Immortality</title></ref></item> 
            </list></div>
-            <div type="assign"/>
+            <div type="assign"><p><hi>Hypothes.is Annotations</hi>: Continuing to work within our class group, add at least three annotations on this pair of poems.</p></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-09-20">W 09-20</date>
             </head>
-           <div type="inclass"><p><hi>book:</hi> <title level="m">The Rime of the Ancient Mariner</title> S. T. Coleridge, <title level="a">Dejection: An Ode</title> and <title level="a">The Pains of Sleep</title>, pp. 63-68.</p></div>
+            <div type="inclass"><p>Read the poem S. T. Coleridge wrote in reply to Wm. Wordsworth’s <title level="a">Intimations of Immortality</title> ode: in <hi>book:</hi> <title level="m">The Rime of the Ancient Mariner</title> <title level="a">Dejection: An Ode</title>, with <title level="a">The Pains of Sleep</title>, pp. 63-68.</p></div>
             <div type="assign"/>
         </div>
         <div type="day">
@@ -506,7 +504,7 @@
                 <date when="2017-09-29">F 09-29</date>
             </head>
             <div type="inclass">
-               <p><hi>book:</hi> <title level="m">The Rime of the Ancient Mariner</title>: <title level="a">Kubla Khan</title> pp. 58-59, and <title level="a">Christabel</title> pp. 24-41.</p>
+                <p><ref target="https://tspace.library.utoronto.ca/html/1807/4350/poem524.html"><title level="a">Kubla Khan</title></ref> (also in <hi>book:</hi> <title level="m">The Rime of the Ancient Mariner</title>:  pp. 58-59) <!--, and <title level="a">Christabel</title> pp. 24-41.--></p>
             </div>
             <div type="assign"/>
         </div>
@@ -516,25 +514,23 @@
             <head>
                 <date when="2017-10-02">M 10-02</date>
             </head>
-           <div type="inclass"><p>Coleridge, <title level="a">Christabel</title> (discussion continued)</p></div>
+            <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: William Wordsworth’s poems (1798 edition): <title level="a">Goody Blake and Harry Gill, A True Story</title> and all poems through <title level="a">Lines, Written in Early Spring</title> (pp. 89-102)
+                
+               <!--Coleridge, <title level="a">Christabel</title> (discussion continued)--></p></div>
            <div type="assign"><p>[TBA: short paper, recording or annotation]</p></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-04">W 10-04</date>
             </head>
-           <div type="inclass"><list>
-              <item><hi>book:</hi> <title level="m">Lyrical Ballads</title>: William Wordsworth’s poems (1798 edition): <list><item><title level="a">The Female Vagrant</title> (pp. 81-89)</item>
-                 <item><title level="a">Goody Blake and Harry Gill, A True Story</title> and all poems through <title level="a">Lines, Written in Early Spring</title>" (pp. 89-102)</item>
-              </list></item>
-           </list></div>
+            <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: William Wordsworth, <title level="a">The Thorn</title> pp. 205-212, plus WW's Note to the Thorn, pp. 287-239.</p> </div>
             <div type="assign"></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-06">F 10-06</date>
             </head>
-           <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: William Wordsworth, <title level="a">The Thorn</title> pp. 205-212, plus WW's Note to the Thorn, pp. 287-239.</p></div>
+            <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: <title level="a">Lines Composed a Few Miles Above Tintern Abbey</title>, pp. 142-147.</p></div>
             <div type="assign"/>
         </div>
     </div>
@@ -552,21 +548,25 @@
             <head>
                 <date when="2017-10-10">T 10-10</date>
             </head>
-           <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: <title level="a">Lines Composed a Few Miles Above Tintern Abbey</title>, pp. 142-147.</p></div>
+            <div type="inclass"><p><ref target="http://www.bartleby.com/39/36.html">WW's 1800 Preface to Lyrical Ballads</ref> (also in <hi>book:</hi> <title level="m">Lyrical Ballads</title>: pp. 171-187)</p></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-11">W 10-11</date>
             </head>
-           <div type="inclass"><p><hi>book:</hi> <title level="m">Lyrical Ballads</title>: WW's 1800 Preface (pp. 171-187)</p></div>
+            <div type="inclass"><p>[TO BE POSTED]: Percy Bysshe Shelley, <title level="a">Ozymandias</title> and <title level="a">Mont Blanc</title></p></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-13">F 10-13</date>
             </head>
-           <div type="inclass"><p>[TO BE POSTED] George Gordon, Lord Byron, lyric and short narrative poems including <title level="a">So we’ll go no more a roving</title> and <title level="a">Darkness</title></p></div>
+            <div type="inclass"><list><item>Begin reading <hi rend="em"><title>Frankenstein</title> volume:</hi> Mary Shelley’s <title>Frankenstein</title>, to p. 35 (through Vol. I Ch. III).</item> <item>See also: slides  with maps and images: <ref target="http://www.slideshare.net/ebbondar/sublime-places-of-frankenstein">Sublime Places of <hi>Frankenstein</hi></ref></item>
+                <item>Our digital project: See <title level="a">Overview</title> of <title level="a">Rebuilding a Digital Frankenstein by 2018</title> and <ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/">Pittsburgh Bicentennial Frankenstein Project</ref></item>
+                
+            </list>
+               </div>
             <div type="assign"/>
         </div>
     </div>
@@ -575,28 +575,26 @@
             <head>
                 <date when="2017-10-16">M 10-16</date>
             </head>
-           <div type="inclass"><p><ref target="ByronCorsairCochranEd.pdf">PDF edition of Byron, <title>The
-              Corsair</title></ref>, at least to the end of Canto the First (to page 18) (or
-              somewhere halfway—through middle of Canto the Second <note><hi>Note for printing:</hi> This is 51 pages long (try printing multiple pages per sheet). I would like you to read the PDF version since it contains informative notes.</note></p>
-              <p>See also <ref target="https://www.slideshare.net/ebbondar/byron-orientalism">Byron and Orientalism image / map slides</ref></p></div>
+            <div type="inclass"><p><title>Frankenstein</title> to p. 101 (through Vol. II Ch. VIII—the end of the Creature’s narration)</p>
+               </div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-18">W 10-18</date>
             </head>
-           <div type="inclass"><p>Finish <ref target="ByronCorsairCochranEd.pdf">PDF edition of Byron, The
-              Corsair</ref> (Cantos the Second and The Third); start PDF edition of <ref
-                 target="ByronBeppoPCochranClassEd.pdf">Byron’s “Beppo: a Venetian Story”</ref>
-              <note><hi>Note for printing:</hi> This is 44 pages long, and once again you may wish to print multiple pages per sheet.</note> </p>
+            <div type="inclass">	
+                <p>finish <title level="m">Frankenstein</title> (to p. 161)</p>
            </div>
-            <div type="assign"/>
+            <div type="assign"><p><hi rend="em">short reflection assignment on <title level="m">Frankenstein</title></hi></p></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-20">F 10-20</date>
             </head>
-           <div type="inclass"><p><hi rend="em">CW:</hi> finish Byron’s <ref target="ByronBeppoPCochranClassEd.pdf">“Beppo: a Venetian Story”</ref></p>
+            <div type="inclass"><p>[TO BE POSTED] George Gordon, Lord Byron, lyric and short narrative poems including <title level="a">So we’ll go no more a roving</title> and <title level="a">Darkness</title></p>
+                <p>See also <ref target="https://www.slideshare.net/ebbondar/byron-orientalism">Byron and Orientalism image / map slides</ref></p>
+               
               <p>Introduce <ref target="AnnotResearchAssign.html">Annotation and Research Assignment</ref></p> </div>
             <div type="assign"/>
         </div>
@@ -606,25 +604,29 @@
             <head>
                 <date when="2017-10-23">M 10-23</date>
             </head>
-           <div type="inclass"><list><item>Begin reading <hi rend="em"><title>Frankenstein</title> volume:</hi> Mary Shelley’s <title>Frankenstein</title>, to p. 35 (through Vol. I Ch. III).</item> <item>See also: slides  with maps and images: <ref target="http://www.slideshare.net/ebbondar/sublime-places-of-frankenstein">Sublime Places of <hi>Frankenstein</hi></ref></item>
-              <item>Our digital project: See <title level="a">Overview</title> of <title level="a">Rebuilding a Digital Frankenstein by 2018</title> and <ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/">Pittsburgh Bicentennial Frankenstein Project</ref></item>
-              
-           </list><note>MITH Digital Dialogue</note></div>
+            <div type="inclass"> <!--<p><ref target="ByronCorsairCochranEd.pdf">PDF edition of Byron, <title>The
+                Corsair</title></ref>, at least to the end of Canto the First (to page 18) (or
+                somewhere halfway—through middle of Canto the Second <note><hi>Note for printing:</hi> This is 51 pages long (try printing multiple pages per sheet). I would like you to read the PDF version since it contains informative notes.</note></p>-->
+                <p>PDF edition of <ref target="ByronBeppoPCochranClassEd.pdf">Byron’s <title level="m">Beppo: a Venetian Story</title></ref>
+                    <note><hi>Note for printing:</hi> This is 44 pages long and you may want to print this with multiple pages per sheet. I would like you to read this PDF edition because it contains informative notes.</note> </p>
+               
+               <note>MITH Digital Dialogue</note></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-25">W 10-25</date>
             </head>
-           <div type="inclass"><p><title>Frankenstein</title> to p. 101 (through Vol. II Ch. VIII—the end of the Creature’s narration)</p><note>MITH Digital Dialogue</note></div>
+            <div type="inclass"><p><hi rend="em">CW:</hi> finish Byron’s <ref target="ByronBeppoPCochranClassEd.pdf">“Beppo: a Venetian Story”</ref></p>
+               <note>MITH Digital Dialogue</note></div>
            <div type="assign"></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-10-27">F 10-27</date>
             </head>
-           <div type="inclass"><p>finish <title>Frankenstein</title> (to p. 161)</p></div>
-           <div type="assign"><p><hi rend="em">CW: Frankenstein RP</hi></p></div>
+            <div type="inclass"><p>[TO BE POSTED] John Keats, Intro <title level="a">When I have fears that I may cease to be</title> p. 911; and Odes: To Psyche, To a Nightingale, on a Grecian Urn, and on Melancholy</p></div>
+           <div type="assign"></div>
         </div>
     </div>
     <div type="week" n="10">
@@ -632,22 +634,25 @@
             <head>
                 <date when="2017-10-30">M 10-30</date>
             </head>
-           <div type="inclass"><p><hi>Midterm Exam 2</hi></p></div>
+            <div type="inclass"><p><hi>Midterm Exam 2</hi></p>
+                
+                <!--<p>[TO BE POSTED] John Keats: <title level="a">The Eve of St. Agnes</title> and <title level="a">La Belle Dame Sans Merci</title></p>--></div>
            <div type="assign"></div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-11-01">W 11-01</date>
             </head>
-           <div type="inclass"><p>[TO BE POSTED] John Keats, Intro <title level="a">When I have fears that I may cease to be</title> p. 911; and Odes: To Psyche, To a Nightingale, on a Grecian Urn, and on Melancholy</p></div>
+            <div type="inclass"> <p>Start reading Emily Brontë, <title level="m">Wuthering Heights</title>, Chs. 1-5 (pp. 37-71)</p></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-11-03">F 11-03</date>
             </head>
-           <div type="inclass"><p>[TO BE POSTED] John Keats: <title level="a">The Eve of St. Agnes</title> and <title level="a">La Belle Dame Sans Merci</title></p></div>
-           <div type="assign"><p><hi rend="em">[TO BE POSTED] <!--<ref target="AnnotResearchAssign2016.html">-->Annotation Research Assignment<!--</ref>--></hi>: Choose your text to annotate: Indicate your choice with an hypothes.is annotation on our Assignment page.</p></div>
+            <div type="inclass"><p><title level="m">Wuthering Heights</title> through end of Ch. 11 (to p. 135)</p>
+</div>
+           <div type="assign"><p><hi rend="em"> <!--<ref target="AnnotResearchAssign2016.html">-->Annotation Research Assignment<!--</ref>--></hi>: Choose your text to annotate: Indicate your choice with an hypothes.is annotation on our Assignment page.</p></div>
         </div>
     </div>
     <div type="week" n="11">
@@ -655,17 +660,14 @@
             <head>
                 <date when="2017-11-06">M 11-06</date>
             </head>
-           <div type="inclass"><p>[TO BE POSTED]</p><list> <item>Alfred, Lord Tennyson intro, <title level="a">Mariana</title>, <title level="a">The Lady of Shalott</title></item><item>Elizabeth Barrett Browning, sonnets: <title level="a">To George Sand: A Desire and A Recognition</title></item></list></div>
+            <div type="inclass"><p><title level="m">Wuthering Heights</title> through end of Ch. 18 (to p. 200)</p></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-11-08">W 11-08</date>
             </head>
-           <div type="inclass"><list>
-              <item> <ref target="http://www.slideshare.net/ebbondar/the-industrial-revolution-and-the-hungry-forties">my slideshow notes on The Industrial Revolution and the <q>Hungry Forties</q></ref></item>
-              <item>Elizabeth Barrett Browning, <title level="a">The Cry of the Children</title> pp. 1124-28</item> 
-              <item><ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm">Charles Dickens, <title level="m">A Christmas Carol</title></ref> (e-book of the Dec. 1843 edition) Staves I-II</item></list>
+            <div type="inclass"><p><title level="m">Wuthering Heights</title> through end of Ch. 26 (to p. 252)</p>
               </div>
             <div type="assign"/>
         </div>
@@ -673,10 +675,8 @@
             <head>
                 <date when="2017-11-10">F 11-10</date>
             </head>
-           <div type="inclass">
-              <!--REMIX? -->
-              <p>Start reading Emily Brontë, <title level="m">Wuthering Heights</title>, Chs. 1-5 (pp. 37-71)</p>
-              <note>TEI Conference</note></div>
+            <div type="inclass"><p>Finish <title level="m">Wuthering Heights</title></p>
+              </div>
             <div type="assign"/>
         </div>
     </div>
@@ -685,9 +685,9 @@
             <head>
                 <date when="2017-11-13">M 11-13</date>
             </head>
-            <div type="inclass">
-               <!--REMIX? -->
-               <p><title level="m">Wuthering Heights</title> through end of Ch. 11 (to p. 135)</p>
+            <div type="inclass"> <p>[TO BE POSTED]</p> <list><item>Elizabeth Barrett Browning, sonnets: <title level="a">To George Sand: A Desire and A Recognition</title></item>
+                    <item>Alfred, Lord Tennyson intro, <title level="a">Mariana</title>, <title level="a">The Lady of Shalott</title></item></list>
+
                <note>TEI Conference</note></div>
             <div type="assign"/>
         </div>
@@ -695,9 +695,13 @@
             <head>
                 <date when="2017-11-15">W 11-15</date>
             </head>
-           <div type="inclass">
-              <!--REMIX? -->
-              <p><title level="m">Wuthering Heights</title> through end of Ch. 18 (to p. 200)</p>
+            <div type="inclass">
+                <list>
+                <item> <ref target="http://www.slideshare.net/ebbondar/the-industrial-revolution-and-the-hungry-forties">my slideshow notes on The Industrial Revolution and the <q>Hungry Forties</q></ref></item>
+                <item>Elizabeth Barrett Browning, <title level="a">The Cry of the Children</title> pp. 1124-28</item> </list>
+                
+                 
+              
               <note>TEI Conference</note></div>
             <div type="assign"/>
         </div>
@@ -705,9 +709,9 @@
             <head>
                 <date when="2017-11-17">F 11-17</date>
             </head>
-           <div type="inclass">
-              <!--REMIX? -->
-              <p><title level="m">Wuthering Heights</title> through end of Ch. 26 (to p. 252)</p></div>
+            <div type="inclass"><p><hi>book:</hi> Christina Rossetti, <title level="m">Goblin Market and Other Poems</title>: concentrate on the title poem, <title level="a">Goblin Market</title>, but scan through surrounding poems too, especially those dealing with trees and fruit.</p>
+                <note>TEI Conference</note>
+            </div>
             <div type="assign"/>
         </div>
     </div>
@@ -716,7 +720,8 @@
             <head>
                 <date when="2017-11-20">M 11-20</date>
             </head>
-           <div type="inclass"><p>Finish <title level="m">Wuthering Heights</title></p></div>
+            <div type="inclass"><p>[TO BE POSTED] Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, pp. 1560-1572, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></p>
+                <p><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref></p></div>
             <div type="assign"/>
         </div>
         <div type="day">
@@ -726,28 +731,23 @@
             <div type="inclass"><p>Thanksgiving Recess: No Classes.</p></div>
             <div type="assign"/>
         </div>
-        <div type="day">
-            <head>
-                <date when="2017-11-24">F 11-24</date>
-            </head>
-           <div type="inclass"><p>[TO BE POSTED] Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, pp. 1560-1572, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></p>
-              <p><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref></p></div>
-            <div type="assign"/>
-        </div>
     </div>
     <div type="week" n="14">
         <div type="day">
             <head>
                 <date when="2017-11-27">M 11-27</date>
             </head>
-           <div type="inclass"><p><hi>book:</hi> Christina Rossetti <title level="m">Goblin Market and Other Poems</title> (entire short volume)</p></div>
+            <div type="inclass"><p><ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm">Charles Dickens, <title level="m">A Christmas Carol</title></ref> (e-book of the Dec. 1843 edition) Staves I-II</p>
+               
+           </div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-11-29">W 11-29</date>
             </head>
-           <div type="inclass"><p>Revisit Christina Rossetti, <title level="a">In an Artist’s Studio</title>, p. 1493, with [TO BE POSTED] Dante Gabriel Rossetti, <title level="a">Jenny</title>, and sonnets from <title>The House of Life</title></p></div>
+            <div type="inclass"><p>Finish <ref target="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm">Charles Dickens, <title level="m">A Christmas Carol</title></ref></p>
+               <!--<p>Christina Rossetti, <title level="a">In an Artist’s Studio</title> (in book: <title level="m">Goblin Market and Other Poems</title>) with [TO BE POSTED] Dante Gabriel Rossetti, <title level="a">Jenny</title>, and sonnets from <title>The House of Life</title></p>--></div>
             <div type="assign"/>
         </div>
         <div type="day">
