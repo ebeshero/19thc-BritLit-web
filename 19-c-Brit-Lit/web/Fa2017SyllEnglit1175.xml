@@ -654,7 +654,9 @@
                 <date when="2017-10-27">F 10-27</date>
             </head>
             <div type="inclass"><p>John Keats, <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_81"><title level="a">The Eve of St. Agnes</title></ref> with Ode to Psyche</p></div>
-           <div type="assign"><p>Hypothes.is annotations on Keats's poems</p></div>
+           <div type="assign"><p>Hypothes.is annotations on Keats's poems</p>
+           <p><ref target="Fa17Midterm2-Review.pdf">Midterm Exam 2 Review Guide</ref></p>
+           </div>
         </div>
     </div>
     <div type="week" n="10">
@@ -671,7 +673,9 @@
             <head>
                 <date when="2017-11-01">W 11-01</date>
             </head>
-            <div type="inclass"> <p>Start reading Emily Brontë, <title level="m">Wuthering Heights</title>, Chs. 1-5 (pp. 37-71)</p></div>
+            <div type="inclass"> <p>Start reading Emily Brontë, <title level="m">Wuthering Heights</title>, Chs. 1-5 (pp. 37-71)</p>
+                <p><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title>: Project Gutenberg Edition</ref> (for annotation) </p>
+            </div>
             <div type="assign"/>
         </div>
         <div type="day">
