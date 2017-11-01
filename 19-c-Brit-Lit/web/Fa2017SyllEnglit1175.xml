@@ -674,7 +674,8 @@
                 <date when="2017-11-01">W 11-01</date>
             </head>
             <div type="inclass"> <p>Start reading Emily Brontë, <title level="m">Wuthering Heights</title>, Chs. 1-5 (pp. 37-71)</p>
-                <p><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title>: Project Gutenberg Edition</ref> (for annotation) </p>
+               <list> <item><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title>: Project Gutenberg Edition</ref> (for annotation) </item>
+                <item><ref target="https://www.slideshare.net/ebbondar/wuthering-heights-81474391">Slides on the Brontës and <title level="m">Wuthering Heights</title></ref></item></list>
             </div>
             <div type="assign"/>
         </div>
