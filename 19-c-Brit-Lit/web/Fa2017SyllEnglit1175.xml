@@ -756,7 +756,7 @@
             <head>
                 <date when="2017-11-20">M 11-20</date>
             </head>
-            <div type="inclass"><p>[TO BE POSTED] Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, pp. 1560-1572, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></p>
+            <div type="inclass"><p><ref target="VictorianIssuesPDF.pdf">Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></ref></p>
                 <p><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref></p></div>
             <div type="assign"/>
         </div>
@@ -800,22 +800,22 @@
                 <date when="2017-12-04">M 12-04</date>
             </head>
            <div type="inclass"><p>Finish <title level="m">The Hound of the Baskervilles</title></p></div>
-            <div type="assign"><p><hi>Research Paper due by 11:59pm on Tues. 12-05</hi> for <ref target="AnnotResearchAssign.html">Scholarly Annotation Assignment</ref></p>
+            <div type="assign"><p></p>
         </div>
         </div>
         <div type="day">
             <head>
                 <date when="2017-12-06">W 12-06</date>
             </head>
-            <div type="inclass"><p>[TO BE POSTED]: Rudyard Kipling selection</p></div>
+            <div type="inclass"><p>Rudyard Kipling, <ref target="http://www.telelib.com/authors/K/KiplingRudyard/prose/PhantomRickshaw/manwhowouldbeking.html"><title level="a">The Man Who Would Be King</title></ref>: read to the section break (up to this sentence): <q>I would have prayed for them, but, that night, a real King died in Europe, and demanded an obituary notice.</q></p></div>
             <div type="assign"/>
         </div>
         <div type="day">
             <head>
                 <date when="2017-12-08">F 12-08</date>
             </head>
-           <div type="inclass"><p>[TO BE POSTED]: Rudyard Kipling selection</p></div>
-            <div type="assign"/>
+            <div type="inclass"><p>Finish Rudyard Kipling, <ref target="http://www.telelib.com/authors/K/KiplingRudyard/prose/PhantomRickshaw/manwhowouldbeking.html"><title level="a">The Man Who Would Be King</title></ref></p></div>
+            <div type="assign"><p><hi>Annotation Research Paper due by 11:59pm</hi> for <ref target="AnnotResearchAssign.html">Scholarly Annotation Assignment</ref></p></div>
         </div>
     </div>
    <div type="week">
