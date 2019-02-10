@@ -5,13 +5,14 @@
          <titleStmt>
             <title level="a">The Swallow</title>
             <author>Charlotte Turner Smith</author>
+            <editor>Elisa Beshero-Bondar</editor>
          </titleStmt>
          <publicationStmt>
             <p>prepared for Elisa Beshero-Bondar's course materials on <ref target="http://newtfire.org">newtFire</ref>.</p>
          </publicationStmt>
          <sourceDesc>
             <p>As published in <bibl><author>Charlotte Turner Smith</author>, <title level="m">Beachy Head: With Other Poems</title>,
-                     <pubPlace>London</pubPlace>:<publisher>J. Johnson</publisher>, <date when="1807">1807</date>, <biblScope unit="page">79-83</biblScope></bibl>.</p>
+               <pubPlace>London</pubPlace>:<publisher>J. Johnson</publisher>, <date when="1807">1807</date>, <biblScope unit="page">79-83</biblScope>, digitally represented on HathiTrust <ptr target="https://babel.hathitrust.org/cgi/pt?id=uc1.31175035207326;view=1up;seq=7"/>.</bibl></p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
