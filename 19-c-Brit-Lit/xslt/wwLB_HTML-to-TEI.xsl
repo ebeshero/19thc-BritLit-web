@@ -13,7 +13,7 @@
             <fileDesc>
                 <titleStmt>
                     <title level="m"><xsl:apply-templates select="//head/title"/></title>
-                    <author>William Wordsworth</author>
+                    <author xml:id="WW">William Wordsworth</author>
                     <editor xml:id="ebb">Elisa Beshero-Bondar</editor>
                 </titleStmt>
                 <publicationStmt>
@@ -54,7 +54,7 @@
             </front>
            <body>
               <xsl:apply-templates select="//div[@id='preface']"/>
-               
+             <xsl:apply-templates select="//div[@class='poem']"/>  
            </body> 
         </text>
     </TEI>
@@ -76,4 +76,20 @@
        <ref target="{@href}"> <xsl:apply-templates/>
        </ref>
     </xsl:template>
+    <xsl:template match="p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="div[@class='poem']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="h2">
+        <head><xsl:apply-templates/></head>
+    </xsl:template>
+    <xsl:template match="div[@class='lg']">
+        <lg><xsl:apply-templates/></lg>
+    </xsl:template>
+    <xsl:template match="div[@class='line']">
+        <l n="{child::span[@class='num']}"><xsl:apply-templates select="child::span[@class='num']/following-sibling::node()"/></l>
+    </xsl:template>
+    <xsl:template match="div[@class='footNote']"><note resp="#WW"><xsl:apply-templates/></note></xsl:template>
 </xsl:stylesheet>
