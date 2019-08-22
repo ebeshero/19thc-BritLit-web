@@ -329,7 +329,13 @@
             <item><ref target="https://web.hypothes.is/start/">First, create a Hypothes.is account</ref> for online annotations, with your pitt userid.</item>
             <item>Then, <ref target="https://hypothes.is/groups/maEkRo6M/2019-upg-19cbrit">join our class’s Hypothes.is annotation group</ref></item>
         <item>Begin annotating the assigned reading for next class. Annotations on passages can comment, raise questions, provide </item>
-        </list></cell>
+        </list>
+        Resources for annotations:
+            <list><item>Look up definitions of words first in the Oxford English Dictionary (via the Pitt Digital Library Database login). Choose what strikes you as the best-fitting definition for an interesting word, and then also be sure to explain how the word fits in the context of the larger phrase: Why does this word fit here, or what significance does it seem to have in context with the language in the poem at this point? </item> 
+                <item>Try looking up unusual phrases in the Credo Reference (Pitt Digital Library database) or with a Google Search, or in <ref target="http://www.bartleby.com/81/">Brewer’s Dictionary of Phrase and Fable</ref>. As with definitions, in your annotation, describe what strikes you as the best explanation for a phrase, and explain how it fits in context with the passage in the poem of which it is part. </item>
+                <item>Look for images or multimedia that help illuminate a phenomenon being described verbally, and provide some explanation and context (link to their source on the web if you can). </item>  
+            </list>
+        </cell>
     </row>
         
     <row role="day">
@@ -342,7 +348,16 @@
     <row role="day">        <cell role="date">
             <date when="2019-08-30">F 08-30</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">William Blake, poet, artist, and printer: Start <title level="m">Songs of Innocence and Experience</title>: just <title level="m">Songs of Innocence</title> (first printed 1789) for today. Read <ref target="http://www.blakearchive.org/copy/songsie.l?descId=songsie.l.illbk.01">Copy L (1795) on the William Blake Archive</ref>. How to read and annotate:
+            <list>
+                <item>On the top right, set <q>G</q> for gallery mode.</item>
+                <item>In the white-on-black menu below the Blake plate, select <q>Diplomatic Transcription</q>, to help us read Blake's text and make annotations.</item>
+                <item>In the grey menu bar, you can <q>Objects from the Same Matrix</q>  to see how this print compares to other printings Blake made of the same plate. Or look at <q>Objects in Copy</q> to see all the plates in the Copy L.</item>
+                
+               <!-- <item><ref target="https://www.slideshare.net/ebbondar/songs-of-innocence">Slide view of selections from <title level="m">Songs of Innocence</title></ref></item> <item>the William Blake Archive’s full view of <ref target="http://www.blakearchive.org/work/songsie">all known illuminated printings</ref></item>-->
+            </list>
+            <p>How did Blake create his plates? Read <ref target="http://www.williamblakeprints.co.uk/making-the-plates/"><title level="a">William Blake Prints</title></ref> and watch the eight-minute video at the end.</p>
+        </cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="2"><row role="day">
@@ -356,56 +371,92 @@
         <cell role="date">
             <date when="2019-09-04">W 09-04</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass">Blake, <ref target="http://www.blakearchive.org/copy/songsie.l?descId=songsie.l.illbk.29"><title level="m">Songs of Experience</title> in Copy L</ref>.
+          <!--  <list><item><ref target="https://www.slideshare.net/ebbondar/william-blake-songs-of-experience">Slide view of selections from <title level="m">Songs of Experience</title></ref></item> <item>the William Blake Archive’s full view of <ref target="http://www.blakearchive.org/work/songsie">all known illuminated printings</ref></item> </list>-->
+        </cell>
+        <cell role="assign">CNV: Threaded reflection on pairings </cell>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-06">F 09-06 <note>drop-add period ends</note></date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item><hi rend="em">web:</hi> <ref target="http://www.pitt.edu/~ebb8/Southey/PoemsSlaveTrade.html">Robert Southey, <title level="a">Poems on the Slave Trade</title>,</ref></item> 
+            <item><hi>web:</hi> <ref target="https://www.slideshare.net/ebbondar/blake-and-race"><title level="a">Images of Little Black Boys in William Blake’s Songs of Innocence and Experience</title></ref></item>
+        </list></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="3"><row role="day">
         <cell role="date">
             <date when="2019-09-09">M 09-09</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><hi>Revolution and apocalypse</hi> <list>
+            <item><ref target="http://www.wwnorton.com/college/english/nael/romantic/topic_3/welcome.htm">French Revolution—Apocalyptic Expectations: Overview</ref>.
+                <list>
+                    <item>Excerpt from Joseph Priestley, <ref target="https://wwnorton.com/college/english/nael/romantic/topic_3/priestley.htm"><title level="m">The present state of Europe compared with antient prophecies : a sermon, preached at the Gravel Pit meeting in Hackney, February 28, 1794</title></ref> </item>
+                    <item><ref target="https://www.wwnorton.com/college/english/nael/romantic/topic_3/revel.htm">artwork</ref></item>
+                    <item>Excerpt from William Blake, <ref target="https://wwnorton.com/college/english/nael/romantic/topic_3/blpoem.htm"><title level="m">The French Revolution</title></ref></item>
+                    <item>Excerpt from William Blake, <ref target="https://wwnorton.com/college/english/nael/romantic/topic_3/blamerica.htm"><title level="m">America: A Prophecy</title></ref></item>
+                </list>
+            
+            </item>
+            <item>William Blake: <ref target="http://www.blakearchive.org/copy/bb126.1?descId=bb126.1.ms.12"><title level="a">The Grey Monk</title> and <title level="a">Auguries of Innocence</title></ref> (select <q>Diplomatic Transcription</q> to read and annotate).</item>
+        </list></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-11">W 09-11</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Robert Southey, <ref target="https://romantic-circles.org/editions/wattyler/index.html"><title level="m">Wat Tyler</title></ref>: Introduction and Act I, and <ref target="https://romantic-circles.org/editions/wattyler/contexts/publication_history.html"><title level="a">A Brief Publication History of Wat Tyler</title></ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-13">F 09-13 <note>TEI</note></date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Reading Day</cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="4"><row role="day">
         <cell role="date">
             <date when="2019-09-16">M 09-16 <note>TEI</note></date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Finish <ref target="https://romantic-circles.org/editions/wattyler/index.html">Finish <title level="m">Wat Tyler</title>: Acts II and III</ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-18">W 09-18 <note>TEI</note></date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">
+            <list>
+                <item><ref target="https://www.slideshare.net/ebbondar/sublime-beautiful-and-picturesque"><title level="a">Background on the Sublime, Beautiful, and Picturesque</title></ref></item>
+                <item><ref target="http://digital.lib.ucdavis.edu/projects/bwrp/Works/SmitCElegi.htm">Charlotte Turner Smith, <title level="m">Elegaic Sonnets</title></ref>: 
+                    <list>
+                        <item><ref target="http://digital.lib.ucdavis.edu/projects/bwrp/Works/SmitCElegi.htm#p1">Sonnets I to VIII</ref> </item>
+                        <item><ref target="http://digital.lib.ucdavis.edu/projects/bwrp/Works/SmitCElegi.htm#p22">Sonnets XLIII to LIX</ref></item>
+                    </list>
+                </item>
+                
+            </list>
+            
+        </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-20">F 09-20 <note>TEI</note></date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">
+            <list>
+                <item>Charlotte Smith, <ref target="Swallow_CSmith.html"><title level="a">The Swallow</title></ref></item>
+                <item>S. T. Coleridge, <ref target="https://rpo.library.utoronto.ca/poems/eolian-harp"><title level="a">The Eolian Harp</title></ref></item>
+                <item>Listen: <list>
+                    <item><ref target="https://www.youtube.com/watch?v=yK3sHmw3jzI">an Aeolian window harp</ref></item>
+                    <item><ref target="https://youtu.be/lWShKUPpaAw">More Aeolian harps</ref></item>
+                    <item>Frederic Chopin’s Op. 25 No. 1 <title level="a">Aeolian Harp</title> (1836) </item></list></item>
+            </list>
+        </cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="5"><row role="day">

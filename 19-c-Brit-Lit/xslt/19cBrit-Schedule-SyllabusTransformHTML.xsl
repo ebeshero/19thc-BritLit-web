@@ -61,7 +61,7 @@
                    
           
                    
-                 <xsl:apply-templates select="//div[@type='schedule']/div[@type='week']"/>
+                 <xsl:apply-templates select="//div[@type='schedule']/table[@type='week']"/>
                    
                   
                    
@@ -113,7 +113,7 @@
     
     <xsl:template match="row[@role='day'][parent::table/@n]">
         
-        <tr id="d{head/date/@when}"> <td><h4><xsl:apply-templates select="descendant::date/text()"/></h4>
+        <tr id="d{descendant::date/@when}"> <td><h4><xsl:apply-templates select="descendant::date/text()"/></h4>
             <xsl:if test="descendant::date/note"><xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates select="descendant::date/note"/></span></xsl:if>
         </td>
             
