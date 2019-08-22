@@ -166,7 +166,7 @@
                      duplicated by others in the class. (See the section on Academic Dishonesty and
                      Plagiarism below.) </item>
                </list>-->
-               <p><hi rend="em">Digital Sound Composition (15%): </hi> You will choose a passage from our readings to perform out loud in a sound recording, perhaps with sound effects. The performance involves interpretation and reflection, and preparing an audio file.</p>
+               <div type="sound"><head>Digital Sound Compositions (15%): </head> <p>This will involve choosing a passage from our readings or excerpts from digital databases of periodicals to perform out loud in a sound recording, perhaps with sound effects. The performance involves interpretation and reflection, and preparing an audio file.</p></div>
             </div>
             <div type="projects">
                <head>Annotation Research Project and Paper (20%)</head>
@@ -222,7 +222,7 @@
                   as your own, and, if you commit plagiarism in this course, you will receive a
                   final course grade of F and be reported to the Vice President of Academic Affairs.
                   Representing the voice of another individual as your own voice constitutes
-                  plagiarism, however generous that person may be in "helping" you with an
+                  plagiarism, however generous that person may be in <q>helping</q> you with an
                   assignment. <hi rend="em">To avoid plagiarism,</hi> cite your sources whenever you
                   quote, paraphrase, or summarize material, or use digital images from any outside
                   source (including websites, articles, books, course readings, Courseweb postings,
@@ -326,8 +326,10 @@
         <cell role="inclass"><p>First day! <ref target="Barbauld_MouseCaterpillar.pdf"><hi rend="em">Handout:</hi> Anna Barbauld, <title level="a">The Mouse’s Petition</title>
             and <title level="a">The Caterpillar</title></ref></p></cell>
         <cell role="assign"><list>
-            <item><ref target="https://web.hypothes.is/start/">Create hypothes.is account</ref> for online annotations, with your pitt userid.</item>
-            <item>Invitation to join <!--<ref target="https://hypothes.is/groups/V5PWYY19/upg-fa2017-19cbrit">-->our class's hypothes.is annotation group<!--</ref>--></item></list></cell>
+            <item><ref target="https://web.hypothes.is/start/">First, create a Hypothes.is account</ref> for online annotations, with your pitt userid.</item>
+            <item>Then, <ref target="https://hypothes.is/groups/maEkRo6M/2019-upg-19cbrit">join our class’s Hypothes.is annotation group</ref></item>
+        <item>Begin annotating the assigned reading for next class. Annotations on passages can comment, raise questions, provide </item>
+        </list></cell>
     </row>
         
     <row role="day">
@@ -380,28 +382,28 @@
     </row>
     <row role="day">
         <cell role="date">
-            <date when="2019-09-13">F 09-13</date>
+            <date when="2019-09-13">F 09-13 <note>TEI</note></date>
         </cell>
         <cell role="inclass"/>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="4"><row role="day">
         <cell role="date">
-            <date when="2019-09-16">M 09-16</date>
+            <date when="2019-09-16">M 09-16 <note>TEI</note></date>
         </cell>
         <cell role="inclass"/>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
-            <date when="2019-09-18">W 09-18</date>
+            <date when="2019-09-18">W 09-18 <note>TEI</note></date>
         </cell>
         <cell role="inclass"/>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
-            <date when="2019-09-20">F 09-20</date>
+            <date when="2019-09-20">F 09-20 <note>TEI</note></date>
         </cell>
         <cell role="inclass"/>
         <cell role="assign"/>
