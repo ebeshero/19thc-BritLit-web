@@ -347,7 +347,7 @@
         <cell role="date">
             <date when="2019-09-02">M 09-02</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><hi>Labor Day Holiday: No classes.</hi></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
@@ -359,7 +359,7 @@
     </row>
     <row role="day">
         <cell role="date">
-            <date when="2019-09-06">F 09-06</date>
+            <date when="2019-09-06">F 09-06 <note>drop-add period ends</note></date>
         </cell>
         <cell role="inclass"/>
         <cell role="assign"/>
@@ -597,23 +597,9 @@
     </row>
     </table><table type="week" n="14"><row role="day">
         <cell role="date">
-            <date when="2019-11-25">M 11-25</date>
+            <date when="2019-11-25">M 11-25 to F 11-29</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
-    </row>
-    <row role="day">
-        <cell role="date">
-            <date when="2019-11-27">W 11-27</date>
-        </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
-    </row>
-    <row role="day">
-        <cell role="date">
-            <date when="2019-11-29">F 11-29</date>
-        </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><hi>Thanksgiving Recess: no classes</hi></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="15"><row role="day">
@@ -637,6 +623,12 @@
         <cell role="inclass"/>
         <cell role="assign"/>
     </row>
+    </table>
+    <table type="week">
+        <row role="day">
+            <cell role="date">Final Exam Info: to be announced.</cell>
+            <cell role="assign"/>
+        </row>
     </table>
 </div>
 
