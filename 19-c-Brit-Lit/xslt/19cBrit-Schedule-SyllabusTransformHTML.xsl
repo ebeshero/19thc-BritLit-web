@@ -81,7 +81,7 @@
 
     </xsl:template>
     
-    <xsl:template match="div[@type='week']">
+    <xsl:template match="table[@type='week']">
         <xsl:choose> <xsl:when test="@n">
             <!--<tr>
          <td>--><table> 
@@ -90,7 +90,7 @@
                     <th><h4><em>Readings due</em></h4></th>
                     <th><h4><em>Assignments due</em></h4></th>
                 </tr>
-                <xsl:apply-templates select="div[@type='day']"/>
+                <xsl:apply-templates select="row[@role='day']"/>
             </table><!--</td>
            </tr>-->
             
@@ -99,10 +99,10 @@
             <xsl:otherwise>
                 
                 
-                <!--<tr><td>--> <table><tr><td><h4><xsl:apply-templates select="div[@type='day']/head/date/text()"/></h4>
-                    <xsl:if test="div[@type='day']/head/date/note"><span class="smaller"><xsl:apply-templates select="div[@type='day']/head/date/note"/></span></xsl:if>
+                <!--<tr><td>--> <table><tr><td><h4><xsl:apply-templates select="row[@role='day']//date/text()"/></h4>
+                    <xsl:if test="row[@role='day']//date/note"><span class="smaller"><xsl:apply-templates select="row[@role='day']//date/note"/></span></xsl:if>
                 </td>
-                    <td><xsl:apply-templates select="div[@type='day']/div[@type='assign']"/></td></tr></table><!--</td>
+                    <td><xsl:apply-templates select="row[@role='day']/cell[@role='assign']"/></td></tr></table><!--</td>
 </tr>-->
                 
             </xsl:otherwise>
@@ -111,14 +111,14 @@
     </xsl:template>
     
     
-    <xsl:template match="div[@type='day'][parent::div/@n]">
+    <xsl:template match="row[@role='day'][parent::table/@n]">
         
-        <tr id="d{head/date/@when}"> <td><h4><xsl:apply-templates select="head/date/text()"/></h4>
-            <xsl:if test="head/date/note"><xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates select="head/date/note"/></span></xsl:if>
+        <tr id="d{head/date/@when}"> <td><h4><xsl:apply-templates select="descendant::date/text()"/></h4>
+            <xsl:if test="descendant::date/note"><xsl:text> </xsl:text><span class="smaller"><xsl:apply-templates select="descendant::date/note"/></span></xsl:if>
         </td>
             
-            <td><xsl:apply-templates select="div[@type='inclass']"/></td>
-            <td><xsl:apply-templates select="div[@type='assign']"/></td></tr>
+            <td><xsl:apply-templates select="cell[@role='inclass']"/></td>
+            <td><xsl:apply-templates select="cell[@role='assign']"/></td></tr>
         
         
     </xsl:template>
