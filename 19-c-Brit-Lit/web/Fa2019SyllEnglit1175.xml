@@ -489,12 +489,7 @@
         <cell role="date">
             <date when="2019-09-27">F 09-27</date>
         </cell>
-        <cell role="inclass">    The changing <title level="a">Rime of the Ancient Mariner</title>
-            <list>
-                <item><ref target="https://www.gutenberg.org/files/9622/9622-h/9622-h.htm#poem1"><title level="m">Lyrical Ballads</title> (1798): Advertisement and first version of <title level="a">The Rime of the Ancyent Marinere, in Seven Parts</title></ref></item>
-                <item>Look at the book view <ref target="https://archive.org/details/sibyllineleaves00colegoog"><title level="a">Rime</title> as published in <title level="m">Sibylline Leaves</title> (1817)</ref></item>
-                <item>Read / annotate <ref target="https://en.wikisource.org/wiki/The_Rime_of_the_Ancient_Mariner_(1817)">this edition of the 1817 <title level="a">The Rime of the Ancient Mariner</title></ref></item>
-            </list> 
+        <cell role="inclass"><hi>Midterm Exam 1</hi>    
           </cell>
         <cell role="assign"/>
     </row>
@@ -502,170 +497,224 @@
         <cell role="date">
             <date when="2019-09-30">M 09-30</date>
         </cell>
-        <cell role="inclass"><list><item>Continue discussion <title level="a">The Rime of the Ancient Mariner</title></item>
-            <item><ref target="https://rpo.library.utoronto.ca/poems/kubla-khan"><title level="a">Kubla Khan</title></ref></item>
-        </list></cell>
+        <cell role="inclass">The Lyrical Ballads <q>experiment</q> and <title level="a">The Rime of the Ancient Mariner</title><list>
+            <item><ref target="https://www.gutenberg.org/files/9622/9622-h/9622-h.htm#poem1"><title level="m">Lyrical Ballads</title> (1798): Advertisement and first version of <title level="a">The Rime of the Ancyent Marinere, in Seven Parts</title></ref></item>
+            <item>Look at the book view <ref target="https://archive.org/details/sibyllineleaves00colegoog"><title level="a">Rime</title> as published in <title level="m">Sibylline Leaves</title> (1817)</ref></item>
+            <item>Read / annotate <ref target="https://en.wikisource.org/wiki/The_Rime_of_the_Ancient_Mariner_(1817)">this edition of the 1817 <title level="a">The Rime of the Ancient Mariner</title></ref></item>
+        </list>
+            <!--Joanna Baillie, <ref target="Baillie-IntroDiscourse.pdf"><title level="a">Introductory Discourse</title></ref> from <title level="m">Plays on the Passions</title>-->
+           </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-02">W 10-02</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item>Continue discussion <title level="a">The Rime of the Ancient Mariner</title></item>
+            <item><ref target="https://rpo.library.utoronto.ca/poems/kubla-khan"><title level="a">Kubla Khan</title></ref></item>
+        </list>   
+            <!--Joanna Baillie, <ref target="Baillie-DeMonfort.pdf"><title level="a">De Monfort</title> from <title level="m">Plays on the Passions</title></ref>: Read to the end of Act 1--></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-04">F 10-04</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><title level="m">Lyrical Ballads</title> (1800): William Wordsworth’s poems: <ref target="https://newtfire.org/courses/19cBrit/LyricalBallads_1800.html#GoodyBlake"><title level="a">Goody Blake and Harry Gill</title>, <title level="a">The Thorn</title> and the Note to <title level="a">The Thorn</title></ref>
+            <!--Joanna Baillie, <ref target="Baillie-DeMonfort.pdf"><title level="a">De Monfort</title> from <title level="m">Plays on the Passions</title></ref>: Read to the end of Act 3--></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="7"><row role="day">
         <cell role="date">
             <date when="2019-10-07">M 10-07</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Wordsworth poems: <list><item><ref target="LyricalBallads_1800.html#Seven"><title level="a">We Are Seven</title>, <title level="a">Anecdote for Fathers</title>, <title level="a">Lines (Written at a small distance from my house)</title></ref></item>
+            <item><ref target="LyricalBallads_1800.html#SimonLee"><title level="a">Simon Lee: The Old Huntsman</title> and <title level="a">Lines Written in Early Spring</title></ref></item>
+            <item><ref target="LyricalBallads_1800.html#IdiotBoy"><title level="a">The Idiot Boy</title>, <title level="a">Love</title>, and <title level="a">The Mad Mother</title></ref></item>
+        </list>
+            <!--Finish Joanna Baillie, <ref target="Baillie-DeMonfort.pdf"><title level="a">De Monfort</title> from <title level="m">Plays on the Passions</title></ref>--></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-09">W 10-09</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><ref target="LyricalBallads_1800.html">Wordsworth, Preface to <title level="m">Lyrical Ballads</title> (1800)</ref></cell>
+        <cell role="assign">Suggestions for annotations:
+            <list>
+                <item>Define and explain uses of interesting / unfamiliar words and references.</item>
+                <item>Try to <q>boil down</q> complex stretches of language in this Preface in your own words more simply: or raise questions about particularly difficult passages: what questions do these passages raise for you?</item>
+                <item>What passages indicate positive and negative qualities of poetry (what makes for good vs. bad poems, according to WW)? Highlight and comment on these.</item>
+                <item>Note where WW uses language from the sciences to describe the ideal <q>Poet</q> or the act of writing poetry.</item>
+                <item>Note what specific capacities and experiences WW claims poets need to have. How are poets different from other people, according to WW?</item>
+                <item>Note what kinds of people poets should be connecting with, and how they make a connection.</item>
+                
+            </list></cell>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-11">F 10-11</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><p><ref target="LyricalBallads_1800.html#Tintern">Wordsworth, <title level="a">Lines, written a few miles above Tintern Abbey</title></ref></p>
+            <p>Introduce <ref target="AnnotResearchAssign.html">Annotation and Research Assignment</ref></p></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="8"><row role="day">
         <cell role="date">
             <date when="2019-10-14">M 10-14</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list>
+            <item>Lord Byron, <ref target="https://www.poetryfoundation.org/poems/43843/prometheus-56d222b61d799"><title level="a">Prometheus</title></ref></item>
+            <item>Begin reading <ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/Frankenstein_1818_classEd.html">Mary Shelley’s <title level="m">Frankenstein</title> through Vol. I Ch. III</ref>.</item>
+            <item>See also: slides  with maps and images: <ref target="http://www.slideshare.net/ebbondar/sublime-places-of-frankenstein">Sublime Places of <hi>Frankenstein</hi></ref></item>  
+        </list> </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-16">W 10-16</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/Frankenstein_1818_classEd.html"><title level="m">Frankenstein</title></ref> to the end of Volume 1</cell>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-18">F 10-18</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/Frankenstein_1818_classEd.html"><title level="m">Frankenstein</title></ref> to p. 101 (through Vol. II Ch. VIII—the end of the Creature’s narration)</cell>
+        <cell role="assign"></cell>
     </row>
     </table><table type="week" n="9"><row role="day">
         <cell role="date">
             <date when="2019-10-21">M 10-21</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item>Finish <ref target="https://ebeshero.github.io/Pittsburgh_Frankenstein/Frankenstein_1818_classEd.html"><title level="m">Frankenstein</title></ref>.</item>
+            <item><ref target="https://bookhaven.stanford.edu/2018/02/ozymandias-who-wore-it-better/">Percy Bysshe Shelley, <title level="a">Ozymandias</title> (Leigh Hunt’s <title level="j">Examiner</title>: January, 1818) with Horace Smith, <title level="a">Ozymandias</title> (<title level="j">Examiner</title>: February, 1818)</ref></item>
+        
+        </list></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-23">W 10-23</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><list>
+            <item>Percy Bysshe Shelley: <list>
+                
+                <item><ref target="http://knarf.english.upenn.edu/PShelley/anarchy.html"><title level="m">The Mask of Anarchy</title></ref></item>
+            </list>
+            </item>
+            <item>George Gordon, Lord Byron (short poems): <list>
+         
+            <item><ref target="https://www.poetryfoundation.org/poems/43825/darkness-56d222aeeee1b"><title level="a">Darkness</title></ref></item> 
+            <!--<item><ref target="https://en.wikisource.org/wiki/The_Works_of_Lord_Byron_(ed._Coleridge,_Prothero)/Poetry/Volume_4/The_Prisoner_of_Chillon"><title level="a">The Prisoner of Chillon</title></ref>: <hi>scroll down to read the poem first</hi>: you can read the introduction and advertisement later!</item>-->
+            </list></item></list></cell>
+       
+        <cell role="assign"></cell>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-25">F 10-25</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><list>
+            <item><ref target="https://www.poetryfoundation.org/poems/43845/so-well-go-no-more-a-roving"><title level="a">So we’ll go no more a roving</title></ref></item>
+            <item>Start <ref target="ByronBeppoPCochranClassEd.pdf">Lord Byron’s <title level="m">Beppo: a Venetian Story</title>, read roughly the first half, through stanza 46 (to the point signed <q>Printer's Devil</q>.</ref></item>
+            <item>See also <ref target="https://www.slideshare.net/ebbondar/byron-orientalism">Byron and Orientalism image / map slides</ref></item>
+        </list> </cell>
+        <cell role="assign"><hi rend="em"> <ref target="AnnotResearchAssign.html">Annotation Research Assignment</ref></hi>: Choose your text to annotate: Indicate your choice with an hypothes.is annotation on our Assignment page.
+            </cell>
+        <cell role="assign"></cell>
     </row>
     </table><table type="week" n="10"><row role="day">
         <cell role="date">
             <date when="2019-10-28">M 10-28</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item>Finish Byron’s <ref target="ByronBeppoPCochranClassEd.pdf">“Beppo: a Venetian Story”</ref>.</item>
+            <item><ref target="https://www.poetryfoundation.org/poems/43841/january-22nd-missolonghi"><title level="a">On this Day I Complete My Thirty-Sixth Year</title></ref></item>
+        </list>
+            </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-10-30">W 10-30</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">John Keats, <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_81"><title level="a">The Eve of St. Agnes</title></ref> with <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_117">Ode to Psyche</ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-01">F 11-01</date>
         </cell>
-        <cell role="inclass"/>
-        <cell role="assign"/>
+        <cell role="inclass"><list><item>Start reading Emily Brontë, <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref></item>
+            <item><ref target="https://www.slideshare.net/ebbondar/wuthering-heights-81474391">Slides on the Brontës and <title level="m">Wuthering Heights</title></ref></item>
+        </list></cell>
+        <cell role="assign">Midterm Exam 2 (take-home exam) due</cell>
     </row>
     </table><table type="week" n="11"><row role="day">
         <cell role="date">
             <date when="2019-11-04">M 11-04</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 11 (to p. 135)</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-06">W 11-06</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 18 (to p. 200)</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-08">F 11-08</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 26 (to p. 252)</cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="12"><row role="day">
         <cell role="date">
             <date when="2019-11-11">M 11-11</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Finish <title level="m">Wuthering Heights</title></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-13">W 11-13</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item>Alfred, Lord Tennyson, <ref target="https://rpo.library.utoronto.ca/poems/mariana"><title level="a">Mariana</title></ref></item>
+            <item><ref target="https://rpo.library.utoronto.ca/poems/lady-shalott-1832"><title level="a">The Lady of Shalott</title></ref></item></list></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-15">F 11-15</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list>
+            <item> <ref target="http://www.slideshare.net/ebbondar/the-industrial-revolution-and-the-hungry-forties">my slideshow notes on The Industrial Revolution and the <q>Hungry Forties</q></ref></item>
+            <item>Elizabeth Barrett Browning, <ref target="https://rpo.library.utoronto.ca/poems/cry-children"><title level="a">The Cry of the Children</title></ref></item> </list></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="13"><row role="day">
         <cell role="date">
             <date when="2019-11-18">M 11-18</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item><ref target="VictorianIssues.pdf">Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></ref></item>
+            <item><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref></item></list></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-20">W 11-20</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Christina Rossetti, <ref target="https://ebooks.adelaide.edu.au/r/rossetti/christina/goblin_market/chapter1.html"><title level="a">Goblin Market</title></ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-22">F 11-22</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Arthur Conan Doyle, <ref target="https://ignisart.com/camdenhouse/canon/spec.htm"><title level="a">The Speckled Band</title> from <title level="m">The Adventures of Sherlock Holmes</title></ref></cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="14"><row role="day">
@@ -679,28 +728,28 @@
         <cell role="date">
             <date when="2019-12-02">M 12-02</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><ref target="https://www.gutenberg.org/files/1097/1097-h/1097-h.htm#link2H_4_0002">George Bernard Shaw, <title level="m">Mrs. Warren’s Profession</title> Act 1</ref> (skip Shaw’s long preface)</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-12-04">W 12-04</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/1097/1097-h/1097-h.htm#link2H_4_0004">George Bernard Shaw, <title level="m">Mrs. Warren’s Profession</title> Acts 2 and 3</ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-12-06">F 12-06</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Last Day! Finish <ref target="http://www.gutenberg.org/files/1097/1097-h/1097-h.htm#link2H_4_0006"><title level="m">Mrs. Warren’s Profession</title></ref></cell>
         <cell role="assign"/>
     </row>
     </table>
     <table type="week">
         <row role="day">
-            <cell role="date">Final Exam Info: to be announced.</cell>
-            <cell role="assign"/>
+            <cell role="date"><date when="2019-12-09">M 12-09 to F 12-13</date></cell>
+            <cell role="assign">Final Exam Info: to be announced.</cell>
         </row>
     </table>
 </div>
