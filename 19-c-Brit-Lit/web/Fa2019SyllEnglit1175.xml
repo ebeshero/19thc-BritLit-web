@@ -654,28 +654,28 @@
         <cell role="date">
             <date when="2019-11-04">M 11-04</date>
         </cell>
-        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 11 (to p. 135)</cell>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 11 (to p. 135)</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-06">W 11-06</date>
         </cell>
-        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 18 (to p. 200)</cell>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 18 (to p. 200)</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-08">F 11-08</date>
         </cell>
-        <cell role="inclass"><title level="m">Wuthering Heights</title> through end of Ch. 26 (to p. 252)</cell>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 26 (to p. 252)</cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="12"><row role="day">
         <cell role="date">
             <date when="2019-11-11">M 11-11</date>
         </cell>
-        <cell role="inclass">Finish <title level="m">Wuthering Heights</title></cell>
+        <cell role="inclass">Finish <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
