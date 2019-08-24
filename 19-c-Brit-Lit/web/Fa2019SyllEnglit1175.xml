@@ -454,7 +454,7 @@
                 <item>Listen: <list>
                     <item><ref target="https://www.youtube.com/watch?v=yK3sHmw3jzI">an Aeolian window harp</ref></item>
                     <item><ref target="https://youtu.be/lWShKUPpaAw">More Aeolian harps</ref></item>
-                    <item>Frederic Chopin’s Op. 25 No. 1 <title level="a">Aeolian Harp</title> (1836) </item></list></item>
+                    <item>Frederic Chopin’s Op. 25 No. 1 <ref target="https://www.youtube.com/watch?v=1C63bDL6ekA"><title level="a">Aeolian Harp</title> (1836)</ref> </item></list></item>
             </list>
         </cell>
         <cell role="assign"/>
@@ -463,28 +463,48 @@
         <cell role="date">
             <date when="2019-09-23">M 09-23</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">
+            <list><item>Traditional oral/aural forms revived: the Ballad:  <list>
+              <item><ref target="https://en.wikipedia.org/wiki/Sir_Patrick_Spens"><title level="a">Sir Patrick Spens</title></ref></item>
+              <item><ref target="https://mainlynorfolk.info/lloyd/songs/thedemonlover.html"><title level="a">The Dæmon-lover</title></ref> (This gives a history of adaptations, so just skim through that. Scroll down to read the ballad in its variety of forms)</item>
+              <item><ref target="http://www.harveyreid.com/lyrics/barbaraallen.html"><title level="a">Barbara Allen</title></ref> and listen to <ref target="https://www.youtube.com/watch?v=087p-Wpkyog">Altan and Dolly Parton sing it in Irish and English</ref></item>
+              <item><ref target="https://www.poets.org/poetsorg/poem/lord-randall"><title level="a">Lord Randall</title></ref></item>
+          </list></item>
+                <item><ref target="http://digital.library.upenn.edu/women/robinson/other/rmd-beach.html">Mary Robinson’s adaptation of the ballad: <title level="a">The Haunted Beach</title></ref></item> 
+                <item><ref target="https://www.youtube.com/watch?v=hOthQ_x6xMk">Trailer for <title level="m">Songcatcher</title></ref></item>
+            </list>
+        </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-25">W 09-25</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">Mary Wollstonecraft, <title level="m">A Vindication of the Rights of Woman</title>: <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Dedication">Dedication to M. Talleyrand-Périgord</ref>, <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction">Introduction</ref>, and <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Chapter_II">Chapter II</ref>. 
+        
+        </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-09-27">F 09-27</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass">    The changing <title level="a">Rime of the Ancient Mariner</title>
+            <list>
+                <item><ref target="https://www.gutenberg.org/files/9622/9622-h/9622-h.htm#poem1"><title level="m">Lyrical Ballads</title> (1798): Advertisement and first version of <title level="a">The Rime of the Ancyent Marinere, in Seven Parts</title></ref></item>
+                <item>Look at the book view <ref target="https://archive.org/details/sibyllineleaves00colegoog"><title level="a">Rime</title> as published in <title level="m">Sibylline Leaves</title> (1817)</ref></item>
+                <item>Read / annotate <ref target="https://en.wikisource.org/wiki/The_Rime_of_the_Ancient_Mariner_(1817)">this edition of the 1817 <title level="a">The Rime of the Ancient Mariner</title></ref></item>
+            </list> 
+          </cell>
         <cell role="assign"/>
     </row>
     </table><table type="week" n="6"><row role="day">
         <cell role="date">
             <date when="2019-09-30">M 09-30</date>
         </cell>
-        <cell role="inclass"/>
+        <cell role="inclass"><list><item>Continue discussion <title level="a">The Rime of the Ancient Mariner</title></item>
+            <item><ref target="https://rpo.library.utoronto.ca/poems/kubla-khan"><title level="a">Kubla Khan</title></ref></item>
+        </list></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
