@@ -638,7 +638,9 @@
         <cell role="date">
             <date when="2019-10-30">W 10-30</date>
         </cell>
-        <cell role="inclass">John Keats, <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_81"><title level="a">The Eve of St. Agnes</title></ref> with <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_117">Ode to Psyche</ref></cell>
+        <cell role="inclass"><p>John Keats, <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_81"><title level="a">The Eve of St. Agnes</title></ref> with <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_117">Ode to Psyche</ref></p>
+        <p>Initiate <hi>Midterm Exam 2</hi> (take-home exam)</p>
+        </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
@@ -648,7 +650,7 @@
         <cell role="inclass"><list><item>Start reading Emily Brontë, <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref></item>
             <item><ref target="https://www.slideshare.net/ebbondar/wuthering-heights-81474391">Slides on the Brontës and <title level="m">Wuthering Heights</title></ref></item>
         </list></cell>
-        <cell role="assign">Midterm Exam 2 (take-home exam) due</cell>
+        <cell role="assign"><hi>Midterm Exam 2 (take-home exam) due</hi></cell>
     </row>
     </table><table type="week" n="11"><row role="day">
         <cell role="date">
