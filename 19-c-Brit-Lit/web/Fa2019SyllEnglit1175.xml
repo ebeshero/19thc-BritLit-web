@@ -407,7 +407,9 @@
         <cell role="date">
             <date when="2019-09-11">W 09-11</date>
         </cell>
-        <cell role="inclass">Robert Southey, <ref target="https://romantic-circles.org/editions/wattyler/index.html"><title level="m">Wat Tyler</title></ref>: Introduction and Act I, and <ref target="https://romantic-circles.org/editions/wattyler/contexts/publication_history.html"><title level="a">A Brief Publication History of Wat Tyler</title></ref></cell>
+        <cell role="inclass"><p>Robert Southey, <ref target="https://romantic-circles.org/editions/wattyler/index.html"><title level="m">Wat Tyler</title></ref>: Introduction and Act I, and <ref target="https://romantic-circles.org/editions/wattyler/contexts/publication_history.html"><title level="a">A Brief Publication History of Wat Tyler</title></ref></p>
+        <p>Assign <hi>Digital Sound Compositions</hi> (set due dates in September and October) [TBD]</p>
+        </cell>
         <cell role="assign"/>
     </row>
     <row role="day">
@@ -719,7 +721,7 @@
             <date when="2019-11-22">F 11-22</date>
         </cell>
         <cell role="inclass">Arthur Conan Doyle, <ref target="https://ignisart.com/camdenhouse/canon/spec.htm"><title level="a">The Speckled Band</title> from <title level="m">The Adventures of Sherlock Holmes</title></ref></cell>
-        <cell role="assign"/>
+        <cell role="assign"><hi>Annotation Research Project due</hi></cell>
     </row>
     </table><table type="week" n="14"><row role="day">
         <cell role="date">
