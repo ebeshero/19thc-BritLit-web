@@ -323,12 +323,13 @@
         <cell role="date">
             <date when="2019-08-26">M 08-26</date>
         </cell>
-        <cell role="inclass"><p>First day! <ref target="Barbauld_MouseCaterpillar.pdf"><hi rend="em">Handout:</hi> Anna Barbauld, <title level="a">The Mouse’s Petition</title>
+        <cell role="inclass"><p>First day! <ref target="Barbauld_MouseCaterpillar.pdf">Anna Barbauld, <title level="a">The Mouse’s Petition</title>
             and <title level="a">The Caterpillar</title></ref></p></cell>
         <cell role="assign"><list>
             <item><ref target="https://web.hypothes.is/start/">First, create a Hypothes.is account</ref> for online annotations, with your pitt userid.</item>
             <item>Then, <ref target="https://hypothes.is/groups/maEkRo6M/2019-upg-19cbrit">join our class’s Hypothes.is annotation group</ref></item>
-        <item>Begin annotating the assigned reading for next class. Annotations on passages can comment, raise questions, provide </item>
+        <item>Begin annotating the assigned reading for next class. Annotations on passages can raise questions, provide information, point to related resources with links, 
+            provide illustrations, and be replied to by me and your peers. We will start a running informative conversation in the margins of our readings this semester. </item>
         </list>
         Resources for annotations:
             <list><item>Look up definitions of words first in the Oxford English Dictionary (via the Pitt Digital Library Database login). Choose what strikes you as the best-fitting definition for an interesting word, and then also be sure to explain how the word fits in the context of the larger phrase: Why does this word fit here, or what significance does it seem to have in context with the language in the poem at this point? </item> 
@@ -342,7 +343,7 @@
         <cell role="date">
             <date when="2019-08-28">W 08-28</date>
         </cell>
-        <cell role="inclass"><p>Anna Barbauld, <title level="a"><ref target="http://spenserians.cath.vt.edu/TextRecord.php?textsid=39102">Washing Day</ref></title></p></cell>
+        <cell role="inclass"><p>Anna Barbauld, <ref target="Barbauld_MouseCaterpillar.pdf"><title level="a">The Caterpillar</title></ref>, and <title level="a"><ref target="http://spenserians.cath.vt.edu/TextRecord.php?textsid=39102">Washing Day</ref></title></p></cell>
         <cell role="assign"/>
     </row>
     <row role="day">        <cell role="date">
