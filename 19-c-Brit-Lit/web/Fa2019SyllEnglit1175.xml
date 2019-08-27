@@ -328,8 +328,9 @@
         <cell role="assign"><list>
             <item><ref target="https://web.hypothes.is/start/">First, create a Hypothes.is account</ref> for online annotations, with your pitt userid.</item>
             <item>Then, <ref target="https://hypothes.is/groups/maEkRo6M/2019-upg-19cbrit">join our class’s Hypothes.is annotation group</ref></item>
-            <item>Set up hypothes.is to run in your preferred browser, <ref target="https://web.hypothes.is/start/">following the instructions</ref>. There is an extension in Google Chrome, or a “bookmarklet” for other browsers.</item>
-        <item>Begin annotating the assigned reading for next class. Annotations on passages can raise questions, provide information, point to related resources with links, 
+            <item>Set up Hypothes.is to run in your preferred browser, <ref target="https://web.hypothes.is/start/">following the instructions</ref>. There is an extension in Google Chrome, or a “bookmarklet” for other browsers.</item>
+        <item>Begin annotating the assigned reading for next class. Turn on hypothes.is in your browser window, and change your group setting (at the top of the Hypothes.is panel) from <q>Public</q> to our class annotation group, <hi><q>2019-UPG-19cBrit</q></hi>, so you will be part of our class conversation.</item> 
+            <item>Annotations on passages can raise questions, provide information, point to related resources with links, 
             provide illustrations, and be replied to by me and your peers. We will start a running informative conversation in the margins of our readings this semester. </item>
         </list>
         Resources for annotations:
