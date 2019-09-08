@@ -19,7 +19,7 @@
                 <h1><xsl:apply-templates select="//titleStmt/title"/></h1>
                 <h2><xsl:apply-templates select="//titleStmt/author"/></h2>
                 <p><xsl:apply-templates select="//sourceDesc/p"/></p>
-                <p><span class="smaller">This edition was prepared in <a href="http://www.tei-c.org/index.xml">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="Swallow_CSmith.xml">View this poem in TEI XML.</a></span></p>
+                <p><span class="smaller">This edition was prepared in <a href="https://www.tei-c.org/">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="Swallow_CSmith.xml">View this poem in TEI XML.</a></span></p>
               <xsl:apply-templates select="//text"/> 
                
             </body>
