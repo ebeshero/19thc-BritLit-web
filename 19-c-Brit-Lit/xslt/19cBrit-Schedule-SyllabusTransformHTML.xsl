@@ -161,7 +161,7 @@
     </xsl:template>-->
     
     <xsl:template match="ref">
-        <a href="{@target}"><xsl:apply-templates/></a>
+        <a href="{@target}" target="_blank"><xsl:apply-templates/></a>
     </xsl:template>
     
     <xsl:template match="p">
