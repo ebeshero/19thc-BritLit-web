@@ -411,15 +411,15 @@
         <cell role="date">
             <date when="2019-09-13">F 09-13 <note>TEI</note></date>
         </cell>
-        <cell role="inclass">Reading Day</cell>
-        <cell role="assign"/>
+        <cell role="inclass">Reading Day: no class meeting.</cell>
+        <cell role="assign">Survey readings and experiment with technology for Digital Sound/Video Interpretation I.</cell>
     </row>
     </table><table type="week" n="4"><row role="day">
         <cell role="date">
             <date when="2019-09-16">M 09-16 <note>TEI</note></date>
         </cell>
         <cell role="inclass">Finish <ref target="https://romantic-circles.org/editions/wattyler/index.html">Finish <title level="m">Wat Tyler</title>: Acts II and III</ref></cell>
-        <cell role="assign"/>
+        <cell role="assign">Choose a reading and experiment with technology for Digital Sound/Video Interpretation I.</cell>
     </row>
     <row role="day">
         <cell role="date">
@@ -480,7 +480,7 @@
         <cell role="inclass">Mary Wollstonecraft, <title level="m">A Vindication of the Rights of Woman</title>: <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Dedication">Dedication to M. Talleyrand-Périgord</ref>, <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Introduction">Introduction</ref>, and <ref target="https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Chapter_II">Chapter II</ref>. 
         
         </cell>
-        <cell role="assign"/>
+        <cell role="assign">Digital Sound/Video Interpretation I due in Canvas.</cell>
     </row>
     <row role="day">
         <cell role="date">
