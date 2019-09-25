@@ -486,7 +486,10 @@
         <cell role="date">
             <date when="2019-09-27">F 09-27</date>
         </cell>
-        <cell role="inclass"><hi>Midterm Exam 1</hi>    
+        <cell role="inclass"><list>
+            <item><ref target="https://www.slideshare.net/ebbondar/a-history-of-feminism-in-20-minutes">History of Feminism in 20 minutes: full slideset</ref></item>
+            <item>Wollstonecraft discussion, continued.</item>
+            <item>Distribute and start <hi>Midterm Exam 1</hi> </item>   </list>
           </cell>
         <cell role="assign"/>
     </row>
