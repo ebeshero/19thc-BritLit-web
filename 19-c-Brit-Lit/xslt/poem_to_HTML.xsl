@@ -13,6 +13,7 @@
                 <meta name="keywords"
                     content="Percy Bysshe Shelley, Percy Shelley, 19th century, 19th-century, the nineteenth century, digital scholarship, digital edition, electronic edition, electronic text, humanities computing, electronic editing, Beshero-Bondar" />
                 <link rel="stylesheet" type="text/css" href="../poem.css"/>
+                <script type="text/javascript" src="../notes.js" xml:space="preserve"></script>
             </head>
             <body>
                 <xsl:comment>#include virtual="top.html" </xsl:comment>  
@@ -20,7 +21,7 @@
                 <h2><xsl:apply-templates select="//titleStmt/title[@type='sub']"/></h2>
                 <h2><xsl:apply-templates select="//titleStmt/author"/></h2>
                 <p><xsl:apply-templates select="//sourceDesc/p"/></p>
-                <p><span class="smaller">This edition was prepared in <a href="https://www.tei-c.org/">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="Swallow_CSmith.xml">View this poem in TEI XML.</a></span></p>
+                <p><span class="smaller">This edition was prepared in <a href="https://www.tei-c.org/">TEI, the language of the Text Encoding Initiative</a> and transformed to HTML for reading on the web. <a href="{tokenize(base-uri(), '/')[last()]}">View this poem in TEI XML.</a></span></p>
               <xsl:apply-templates select="//text"/> 
                
             </body>
@@ -30,6 +31,10 @@
  <xsl:template match="ref">
      <a href="{@target}"><xsl:apply-templates/></a>
  </xsl:template>
+    <xsl:template match="ptr">
+        <a href="{@target}"><xsl:value-of select="@target"/></a>
+    </xsl:template>
+    
     <xsl:template match="title[@level='m']">
        <cite><xsl:apply-templates/></cite>
     </xsl:template>
@@ -66,8 +71,8 @@
         <span class="label"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template match="note">
-        <span class="anchor"><xsl:value-of select="count(preceding::note) + 1"/></span>
-        <span class="note"><xsl:apply-templates/></span>
+        <span class="anchor"><xsl:value-of select="count(preceding::note) + 1"/>
+            <span class="note"><xsl:apply-templates/></span></span>
     </xsl:template>
     
 </xsl:stylesheet>

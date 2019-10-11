@@ -40,9 +40,11 @@ h3 {color:#00056B; display:block;
  font-size: 1.1em; margin-left:10%; padding:3px;}
 h4{color:#990033; display:block; margin-left:10%; font-size: 1em; text-align:left;    
 }
-
+span[class="label"]{margin-left:20%}
 div[class="lg"]{padding-top:7px; padding-bottom:7px;}
+span[class="lg"]{display:block; /*padding-top:7px; padding-bottom:7px;*/}
 div[class="line"]{margin-left:10%; color:black;}
+span[class="line"]{display:block; margin-left:10%; color:black;}
 span[class="indent"]{padding-left:1em;}
 span.indent_15 {padding-left:10em;}
 span.indent_5{padding-left:3em;}
@@ -53,6 +55,8 @@ span.footNote {color:#00056B; font-size:.9em}
 div.footNote {color:#00056B; font-size:.9em}
 /* The next rules are for notes supplied by the editor of the web edition. */
 span.note {display:inline; font-size:0.8em; line-height:1.2em; padding:2px; }
+span.anchor {display:inline; line-height:.8em; /*padding:2px; */vertical-align: super; 
+        font-size: small;  }
 span.anchor span.note {position:absolute;
     color:#00056B;
     background:#e6e6ff;
@@ -61,6 +65,7 @@ span.anchor span.note {position:absolute;
     border:solid blue 1px;
     width:350px;
    display:none;}
+
 
 q {quotes:'“' '”' '‘' '’'; 
 }

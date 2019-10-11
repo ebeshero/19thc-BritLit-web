@@ -13,11 +13,11 @@
 					License</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>This is a text for teaching purposes, derived from the edition published
+				<p>This is a text prepared for teaching purposes, derived from the edition published
 					digitally in <bibl><editor>Stuart Curran</editor> and <editor>Jack
 							Lynch</editor>, <title level="m">Frankenstein: or the Modern
 							Prometheus</title>: <title level="m">Works Included in this
-							edition</title>, <date>1994</date>: <ref target="http://knarf.english.upenn.edu/PShelley/witch.html"/></bibl></p>
+							edition</title>, <date>1994</date>: <ptr target="http://knarf.english.upenn.edu/PShelley/witch.html"/></bibl></p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
