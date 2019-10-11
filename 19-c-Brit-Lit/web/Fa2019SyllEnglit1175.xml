@@ -555,7 +555,14 @@
         <cell role="date">
             <date when="2019-10-11">F 10-11</date>
         </cell>
-        <cell role="inclass"><p><ref target="LyricalBallads_1800.html#Tintern">Wordsworth, <title level="a">Lines, written a few miles above Tintern Abbey</title></ref></p>
+        <cell role="inclass"><list><item><ref target="LyricalBallads_1800.html#Tintern">Wordsworth, <title level="a">Lines, written a few miles above Tintern Abbey</title></ref></item>
+            <item>Work in progress and collaboration: <title level="a">The Daffodils</title> (drafted between 1804 and 1807, first published in William Wordsworth’s <title level="m">Poems in Two Volumes</title>):
+                <list><item><ref target="https://www.euromanticism.org/two-pages-from-dorothy-wordsworths-grasmere-journal/">Dorothy Wordsworth’s journal entry</ref></item>
+                    <item><ref target="https://www.bl.uk/learning/timeline/item126751.html">Manuscript draft of the poem</ref></item>
+                    <item><ref target="https://en.wikipedia.org/wiki/I_Wandered_Lonely_as_a_Cloud">An account of the collaboration and 1815 published version</ref></item>
+                </list>
+            </item>
+        </list>
             <p>Introduce <ref target="AnnotResearchAssign.html">Annotation and Research Assignment</ref></p></cell>
         <cell role="assign"/>
     </row>
