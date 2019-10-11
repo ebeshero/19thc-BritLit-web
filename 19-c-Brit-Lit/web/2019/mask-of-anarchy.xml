@@ -3,8 +3,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title level="a">The Mask of Anarchy: Written on the Occasion of the Massacre at
-					Manchester</title>
+				<title>The Mask of Anarchy:</title>
+				<title type="sub">Written on the Occasion of the Massacre at Manchester</title>
 				<author>Percy Bysshe Shelley</author>
 				<editor>Elisa Beshero-Bondar</editor>
 			</titleStmt>
@@ -419,351 +419,353 @@
 				<l n="197">“Birds find rest, in narrow nest</l>
 				<l n="198">When weary of their wingè;d quest;</l>
 				<l n="199">Beasts find fare, in woody lair</l>
-				<l n="200">When storm and snow are in the air,</l>
-				<l n="201"> </l>
-			</lg><note n="1">The following stanza is found in the Wise MS and in Mary Shelley's edition of 1839, but is wanting in the Hunt MS and  in the first edition of 1832:
-				<lg><l>“Horses, oxen, have a home,</l>
-				<l>When from daily toil they come;</l>
-				<l>Household dogs, when the wind roars, </l>
-				<l>Find a home within warm doors.”</l></lg>
-			</note>
+				<l n="200">When storm and snow are in the air,<note n="1">The following stanza is found in the Wise MS and in Mary Shelley's edition
+					of 1839, but is wanting in the Hunt MS and&#x2028; in the first edition of 1832:
+					<lg><l>“Horses, oxen, have a home,</l>
+						<l>When from daily toil they come;</l>
+						<l>Household dogs, when the wind roars,&#x2028;</l>
+						<l>Find a home within warm doors.”</l></lg>
+				</note></l>
+			</lg>
+			
 			<lg n="50">
 				<label>50</label>
-				<l n="202">“Asses, swine, have litter spread</l>
-				<l n="203">And with fitting food are fed;</l>
-				<l n="204">All things have a home but one—</l>
-				<l n="205">Thou, Oh, Englishman, hast none!</l>
+				<l n="201">“Asses, swine, have litter spread</l>
+				<l n="202">And with fitting food are fed;</l>
+				<l n="203">All things have a home but one—</l>
+				<l n="204">Thou, Oh, Englishman, hast none!</l>
 
 			</lg>
 			<lg n="51">
 				<label>51</label>
-				<l n="206">“This is Slavery — savage men,</l>
-				<l n="207">Or wild beasts within a den</l>
-				<l n="208">Would endure not as ye do—</l>
-				<l n="209">But such ills they never knew.</l>
+				<l n="205">“This is Slavery — savage men,</l>
+				<l n="206">Or wild beasts within a den</l>
+				<l n="207">Would endure not as ye do—</l>
+				<l n="208">But such ills they never knew.</l>
 
 			</lg>
 			<lg n="52">
 				<label>52</label>
-				<l n="210">“What art thou Freedom? O! could slaves</l>
-				<l n="211">Answer from their living graves</l>
-				<l n="212">This demand — tyrants would flee</l>
-				<l n="213">Like a dream’s dim imagery:</l>
+				<l n="209">“What art thou Freedom? O! could slaves</l>
+				<l n="210">Answer from their living graves</l>
+				<l n="211">This demand — tyrants would flee</l>
+				<l n="212">Like a dream’s dim imagery:</l>
 
 			</lg>
 			<lg n="53">
 				<label>53</label>
-				<l n="214">“Thou art not, as impostors say,</l>
-				<l n="215">A shadow soon to pass away,</l>
-				<l n="216">A superstition, and a name</l>
-				<l n="217">Echoing from the cave of Fame.</l>
+				<l n="213">“Thou art not, as impostors say,</l>
+				<l n="214">A shadow soon to pass away,</l>
+				<l n="215">A superstition, and a name</l>
+				<l n="216">Echoing from the cave of Fame.</l>
 
 			</lg>
 			<lg n="54">
 				<label>54</label>
-				<l n="218">“For the labourer thou art bread,</l>
-				<l n="219">And a comely table spread</l>
-				<l n="220">From his daily labour come</l>
-				<l n="221">In a neat and happy home.</l>
+				<l n="217">“For the labourer thou art bread,</l>
+				<l n="218">And a comely table spread</l>
+				<l n="219">From his daily labour come</l>
+				<l n="220">In a neat and happy home.</l>
 			</lg>
 			<lg n="55">
 				<label>55</label>
-				<l n="222">“Thou art clothes, and fire, and food</l>
-				<l n="223">For the trampled multitude—</l>
-				<l n="224">No — in countries that are free</l>
-				<l n="225">Such starvation cannot be</l>
-				<l n="226">As in England now we see.</l>
+				<l n="221">“Thou art clothes, and fire, and food</l>
+				<l n="222">For the trampled multitude—</l>
+				<l n="223">No — in countries that are free</l>
+				<l n="224">Such starvation cannot be</l>
+				<l n="225">As in England now we see.</l>
 
 			</lg>
 			<lg n="56">
 				<label>56</label>
-				<l n="227">“To the rich thou art a check,</l>
-				<l n="228">When his foot is on the neck</l>
-				<l n="229">Of his victim, thou dost make</l>
-				<l n="230">That he treads upon a snake.</l>
+				<l n="226">“To the rich thou art a check,</l>
+				<l n="227">When his foot is on the neck</l>
+				<l n="228">Of his victim, thou dost make</l>
+				<l n="229">That he treads upon a snake.</l>
 
 			</lg>
 			<lg n="57">
 				<label>57</label>
-				<l n="231">“Thou art Justice — ne’er for gold</l>
-				<l n="232">May thy righteous laws be sold</l>
-				<l n="233">As laws are in England — thou</l>
-				<l n="234">Shield’st alike the high and low.</l>
+				<l n="230">“Thou art Justice — ne’er for gold</l>
+				<l n="231">May thy righteous laws be sold</l>
+				<l n="232">As laws are in England — thou</l>
+				<l n="233">Shield’st alike the high and low.</l>
 
 			</lg>
 			<lg n="58">
 				<label>58</label>
-				<l n="235">“Thou art Wisdom — Freemen never</l>
-				<l n="236">Dream that God will damn for ever</l>
-				<l n="237">All who think those things untrue</l>
-				<l n="238">Of which Priests make such ado.</l>
+				<l n="234">“Thou art Wisdom — Freemen never</l>
+				<l n="235">Dream that God will damn for ever</l>
+				<l n="236">All who think those things untrue</l>
+				<l n="237">Of which Priests make such ado.</l>
 
 			</lg>
 			<lg n="59">
 				<label>59</label>
-				<l n="239">“Thou art Peace — never by thee</l>
-				<l n="240">Would blood and treasure wasted be</l>
-				<l n="241">As tyrants wasted them, when all</l>
-				<l n="242">Leagued to quench thy flame in Gaul.</l>
+				<l n="238">“Thou art Peace — never by thee</l>
+				<l n="239">Would blood and treasure wasted be</l>
+				<l n="240">As tyrants wasted them, when all</l>
+				<l n="241">Leagued to quench thy flame in Gaul.</l>
 
 			</lg>
 			<lg n="60">
 				<label>60</label>
-				<l n="243">“What if English toil and blood</l>
-				<l n="244">Was poured forth, even as a flood?</l>
-				<l n="245">It availed, Oh, Liberty,</l>
-				<l n="246">To dim, but not extinguish thee.</l>
+				<l n="242">“What if English toil and blood</l>
+				<l n="243">Was poured forth, even as a flood?</l>
+				<l n="244">It availed, Oh, Liberty,</l>
+				<l n="245">To dim, but not extinguish thee.</l>
 
 			</lg>
 			<lg n="61">
 				<label>61</label>
-				<l n="247">“Thou art Love — the rich have kissed</l>
-				<l n="248">Thy feet, and like him following Christ,</l>
-				<l n="249">Give their substance to the free</l>
-				<l n="250">And through the rough world follow thee,</l>
+				<l n="246">“Thou art Love — the rich have kissed</l>
+				<l n="247">Thy feet, and like him following Christ,</l>
+				<l n="248">Give their substance to the free</l>
+				<l n="249">And through the rough world follow thee,</l>
 
 			</lg>
 			<lg n="62">
 				<label>62</label>
-				<l n="251">“Or turn their wealth to arms, and make</l>
-				<l n="252">War for thy belovè;d sake</l>
-				<l n="253">On wealth, and war, and fraud—whence they</l>
-				<l n="254"> Drew the power which is their prey.</l>
+				<l n="250">“Or turn their wealth to arms, and make</l>
+				<l n="251">War for thy belovè;d sake</l>
+				<l n="252">On wealth, and war, and fraud—whence they</l>
+				<l n="253"> Drew the power which is their prey.</l>
 
 			</lg>
 			<lg n="63">
 				<label>63</label>
-				<l n="255">“Science, Poetry, and Thought</l>
-				<l n="256">Are thy lamps; they make the lot</l>
-				<l n="257">Of the dwellers in a cot</l>
-				<l n="258">So serene, they curse it not.</l>
+				<l n="254">“Science, Poetry, and Thought</l>
+				<l n="255">Are thy lamps; they make the lot</l>
+				<l n="256">Of the dwellers in a cot</l>
+				<l n="257">So serene, they curse it not.</l>
 
 			</lg>
 			<lg n="64">
 				<label>64</label>
-				<l n="259">“Spirit, Patience, Gentleness,</l>
-				<l n="260">All that can adorn and bless</l>
-				<l n="261">Art thou — let deeds, not words, express </l>
-				<l n="262">Thine exceeding loveliness.</l>
+				<l n="258">“Spirit, Patience, Gentleness,</l>
+				<l n="259">All that can adorn and bless</l>
+				<l n="260">Art thou — let deeds, not words, express </l>
+				<l n="261">Thine exceeding loveliness.</l>
 
 			</lg>
 			<lg n="65">
 				<label>65</label>
-				<l n="263">“Let a great Assembly be</l>
-				<l n="264">Of the fearless and the free</l>
-				<l n="265">On some spot of English ground</l>
-				<l n="266">Where the plains stretch wide around.</l>
+				<l n="262">“Let a great Assembly be</l>
+				<l n="263">Of the fearless and the free</l>
+				<l n="264">On some spot of English ground</l>
+				<l n="265">Where the plains stretch wide around.</l>
 
 			</lg>
 			<lg n="66">
 				<label>66</label>
-				<l n="267">“Let the blue sky overhead,</l>
-				<l n="268">The green earth on which ye tread,</l>
-				<l n="269">All that must eternal be</l>
-				<l n="270">Witness the solemnity.</l>
+				<l n="266">“Let the blue sky overhead,</l>
+				<l n="267">The green earth on which ye tread,</l>
+				<l n="268">All that must eternal be</l>
+				<l n="269">Witness the solemnity.</l>
 
 			</lg>
 			<lg n="67">
 				<label>67</label>
-				<l n="271">“From the corners uttermost</l>
-				<l n="272">Of the bonds of English coast;</l>
-				<l n="273">From every hut, village, and town</l>
-				<l n="274">Where those who live and suffer moan</l>
-				<l n="275">For others’ misery or their own.</l>
-				<l n="276"> </l>
-			</lg><note n="2">The following stanza is found (cancelled) at this 	place in the Wise MS.:
-				<lg><l>“From the cities where from caves,</l>
-				<l>Like the dead from putrid graves,</l>
-				<l>Troops of starvelings gliding come,</l>
-				<l>Living Tenants of a tomb.”</l></lg> </note>
+				<l n="270">“From the corners uttermost</l>
+				<l n="271">Of the bonds of English coast;</l>
+				<l n="272">From every hut, village, and town</l>
+				<l n="273">Where those who live and suffer moan</l>
+				<l n="274">For others’ misery or their own.<note n="2">The following stanza is found (cancelled) at this&#x2028; place in the Wise MS.:
+					<lg><l>“From the cities where from caves,</l>
+						<l>Like the dead from putrid graves,</l>
+						<l>Troops of starvelings gliding come,</l>
+						<l>Living Tenants of a tomb.”</l></lg>
+				</note></l>
+			</lg>
+			
 			<lg n="68">
 				<label>68</label>
-				<l n="277">“From the workhouse and the prison</l>
-				<l n="278">Where pale as corpses newly risen,</l>
-				<l n="279">Women, children, young and old</l>
-				<l n="280">Groan for pain, and weep for cold—</l>
+				<l n="275">“From the workhouse and the prison</l>
+				<l n="276">Where pale as corpses newly risen,</l>
+				<l n="277">Women, children, young and old</l>
+				<l n="278">Groan for pain, and weep for cold—</l>
 
 			</lg>
 			<lg n="69">
 				<label>69</label>
-				<l n="281">“From the haunts of daily life</l>
-				<l n="282">Where is waged the daily strife</l>
-				<l n="283">With common wants and common cares</l>
-				<l n="284">Which sows the human heart with tares—</l>
+				<l n="279">“From the haunts of daily life</l>
+				<l n="280">Where is waged the daily strife</l>
+				<l n="281">With common wants and common cares</l>
+				<l n="282">Which sows the human heart with tares—</l>
 
 			</lg>
 			<lg n="70">
 				<label>70</label>
-				<l n="285">“Lastly from the palaces</l>
-				<l n="286">Where the murmur of distress</l>
-				<l n="287">Echoes, like the distant sound</l>
-				<l n="288">Of a wind alive around</l>
+				<l n="283">“Lastly from the palaces</l>
+				<l n="284">Where the murmur of distress</l>
+				<l n="285">Echoes, like the distant sound</l>
+				<l n="286">Of a wind alive around</l>
 
 			</lg>
 			<lg n="71">
 				<label>71</label>
-				<l n="289">“Those prison halls of wealth and fashion,</l>
-				<l n="290">Where some few feel such compassion</l>
-				<l n="291">For those who groan, and toil, and wail</l>
-				<l n="292">As must make their brethren pale—</l>
+				<l n="287">“Those prison halls of wealth and fashion,</l>
+				<l n="288">Where some few feel such compassion</l>
+				<l n="289">For those who groan, and toil, and wail</l>
+				<l n="290">As must make their brethren pale—</l>
 			</lg>
 			<lg n="72">
 				<label>72</label>
-				<l n="293">“Ye who suffer woes untold,</l>
-				<l n="294">Or to feel, or to behold</l>
-				<l n="295">Your lost country bought and sold</l>
-				<l n="296">With a price of blood and gold—</l>
+				<l n="291">“Ye who suffer woes untold,</l>
+				<l n="292">Or to feel, or to behold</l>
+				<l n="293">Your lost country bought and sold</l>
+				<l n="294">With a price of blood and gold—</l>
 
 			</lg>
 			<lg n="73">
 				<label>73</label>
-				<l n="297">“Let a vast assembly be,</l>
-				<l n="298">And with great solemnity</l>
-				<l n="299">Declare with measured words that ye</l>
-				<l n="300">Are, as God has made ye, free—</l>
+				<l n="295">“Let a vast assembly be,</l>
+				<l n="296">And with great solemnity</l>
+				<l n="297">Declare with measured words that ye</l>
+				<l n="298">Are, as God has made ye, free—</l>
 
 			</lg>
 			<lg n="74">
 				<label>74</label>
-				<l n="301">“Be your strong and simple words</l>
-				<l n="302">Keen to wound as sharpened swords,</l>
-				<l n="303">And wide as targes let them be,</l>
-				<l n="304">With their shade to cover ye.</l>
+				<l n="299">“Be your strong and simple words</l>
+				<l n="300">Keen to wound as sharpened swords,</l>
+				<l n="301">And wide as targes let them be,</l>
+				<l n="302">With their shade to cover ye.</l>
 
 			</lg>
 			<lg n="75">
 				<label>75</label>
-				<l n="305">“Let the tyrants pour around</l>
-				<l n="306">With a quick and startling sound,</l>
-				<l n="307">Like the loosening of a sea,</l>
-				<l n="308">Troops of armed emblazonry.</l>
+				<l n="303">“Let the tyrants pour around</l>
+				<l n="304">With a quick and startling sound,</l>
+				<l n="305">Like the loosening of a sea,</l>
+				<l n="306">Troops of armed emblazonry.</l>
 
 			</lg>
 			<lg n="76">
 				<label>76</label>
-				<l n="309">“Let the charged artillery drive</l>
-				<l n="310">Till the dead air seems alive</l>
-				<l n="311">With the clash of clanging wheels,</l>
-				<l n="312">And the tramp of horses’ heels.</l>
+				<l n="307">“Let the charged artillery drive</l>
+				<l n="308">Till the dead air seems alive</l>
+				<l n="309">With the clash of clanging wheels,</l>
+				<l n="310">And the tramp of horses’ heels.</l>
 			</lg>
 			<lg n="77">
 				<label>77</label>
-				<l n="313">“Let the fixè;d bayonet</l>
-				<l n="314">Gleam with sharp desire to wet</l>
-				<l n="315">Its bright point in English blood</l>
-				<l n="316">Looking keen as one for food.</l>
+				<l n="311">“Let the fixè;d bayonet</l>
+				<l n="312">Gleam with sharp desire to wet</l>
+				<l n="313">Its bright point in English blood</l>
+				<l n="314">Looking keen as one for food.</l>
 
 			</lg>
 			<lg n="78">
 				<label>78</label>
-				<l n="317">“Let the horsemen’s scimitars</l>
-				<l n="318">Wheel and flash, like sphereless stars</l>
-				<l n="319">Thirsting to eclipse their burning</l>
-				<l n="320">In a sea of death and mourning.</l>
+				<l n="315">“Let the horsemen’s scimitars</l>
+				<l n="316">Wheel and flash, like sphereless stars</l>
+				<l n="317">Thirsting to eclipse their burning</l>
+				<l n="318">In a sea of death and mourning.</l>
 
 			</lg>
 			<lg n="79">
 				<label>79</label>
-				<l n="321">“Stand ye calm and resolute,</l>
-				<l n="322">Like a forest close and mute,</l>
-				<l n="323">With folded arms and looks which are</l>
-				<l n="324">Weapons of unvanquished war,</l>
+				<l n="319">“Stand ye calm and resolute,</l>
+				<l n="320">Like a forest close and mute,</l>
+				<l n="321">With folded arms and looks which are</l>
+				<l n="322">Weapons of unvanquished war,</l>
 
 			</lg>
 			<lg n="80">
 				<label>80</label>
-				<l n="325">“And let Panic, who outspeeds</l>
-				<l n="326">The career of armè;d steeds</l>
-				<l n="327">Pass, a disregarded shade</l>
-				<l n="328">Through your phalanx undismayed.</l>
+				<l n="323">“And let Panic, who outspeeds</l>
+				<l n="324">The career of armè;d steeds</l>
+				<l n="325">Pass, a disregarded shade</l>
+				<l n="326">Through your phalanx undismayed.</l>
 
 			</lg>
 			<lg n="81">
 				<label>81</label>
-				<l n="329">“Let the laws of your own land,</l>
-				<l n="330">Good or ill, between ye stand</l>
-				<l n="331">Hand to hand, and foot to foot,</l>
-				<l n="332">Arbiters of the dispute,</l>
+				<l n="327">“Let the laws of your own land,</l>
+				<l n="328">Good or ill, between ye stand</l>
+				<l n="329">Hand to hand, and foot to foot,</l>
+				<l n="330">Arbiters of the dispute,</l>
 			</lg>
 			<lg n="82">
 				<label>82</label>
-				<l n="333">“The old laws of England — they</l>
-				<l n="334">Whose reverend heads with age are gray,</l>
-				<l n="335">Children of a wiser day;</l>
-				<l n="336">And whose solemn voice must be</l>
-				<l n="337">Thine own echo — Liberty!</l>
+				<l n="331">“The old laws of England — they</l>
+				<l n="332">Whose reverend heads with age are gray,</l>
+				<l n="333">Children of a wiser day;</l>
+				<l n="334">And whose solemn voice must be</l>
+				<l n="335">Thine own echo — Liberty!</l>
 
 			</lg>
 			<lg n="83">
 				<label>83</label>
-				<l n="338">“On those who first should violate</l>
-				<l n="339">Such sacred heralds in their state</l>
-				<l n="340">Rest the blood that must ensue,</l>
-				<l n="341">And it will not rest on you.</l>
+				<l n="336">“On those who first should violate</l>
+				<l n="337">Such sacred heralds in their state</l>
+				<l n="338">Rest the blood that must ensue,</l>
+				<l n="339">And it will not rest on you.</l>
 
 			</lg>
 			<lg n="84">
 				<label>84</label>
-				<l n="342">“And if then the tyrants dare</l>
-				<l n="343">Let them ride among you there,</l>
-				<l n="344">Slash, and stab, and maim, and hew,—</l>
-				<l n="345">What they like, that let them do.</l>
+				<l n="340">“And if then the tyrants dare</l>
+				<l n="341">Let them ride among you there,</l>
+				<l n="342">Slash, and stab, and maim, and hew,—</l>
+				<l n="343">What they like, that let them do.</l>
 			</lg>
 			<lg n="85">
 				<label>85</label>
-				<l n="346">“With folded arms and steady eyes,</l>
-				<l n="347">And little fear, and less surprise,</l>
-				<l n="348">Look upon them as they slay</l>
-				<l n="349">Till their rage has died away.</l>
+				<l n="344">“With folded arms and steady eyes,</l>
+				<l n="345">And little fear, and less surprise,</l>
+				<l n="346">Look upon them as they slay</l>
+				<l n="347">Till their rage has died away.</l>
 
 			</lg>
 			<lg n="86">
 				<label>86</label>
-				<l n="350">“Then they will return with shame</l>
-				<l n="351">To the place from which they came,</l>
-				<l n="352">And the blood thus shed will speak</l>
-				<l n="353">In hot blushes on their cheek.</l>
+				<l n="348">“Then they will return with shame</l>
+				<l n="349">To the place from which they came,</l>
+				<l n="350">And the blood thus shed will speak</l>
+				<l n="351">In hot blushes on their cheek.</l>
 
 			</lg>
 			<lg n="87">
 				<label>87</label>
-				<l n="354"> “Every woman in the land</l>
-				<l n="355">Will point at them as they stand—</l>
-				<l n="356">They will hardly dare to greet</l>
-				<l n="357">Their acquaintance in the street.</l>
+				<l n="352"> “Every woman in the land</l>
+				<l n="353">Will point at them as they stand—</l>
+				<l n="354">They will hardly dare to greet</l>
+				<l n="355">Their acquaintance in the street.</l>
 
 			</lg>
 			<lg n="88">
 				<label>88</label>
-				<l n="358">“And the bold, true warriors</l>
-				<l n="359">Who have hugged Danger in wars</l>
-				<l n="360">Will turn to those who would be free,</l>
-				<l n="361">Ashamed of such base company.</l>
+				<l n="356">“And the bold, true warriors</l>
+				<l n="357">Who have hugged Danger in wars</l>
+				<l n="358">Will turn to those who would be free,</l>
+				<l n="359">Ashamed of such base company.</l>
 
 			</lg>
 			<lg n="89">
 				<label>89</label>
-				<l n="362">“And that slaughter to the Nation</l>
-				<l n="363">Shall steam up like inspiration,</l>
-				<l n="364">Eloquent, oracular;</l>
-				<l n="365">A volcano heard afar.</l>
+				<l n="360">“And that slaughter to the Nation</l>
+				<l n="361">Shall steam up like inspiration,</l>
+				<l n="362">Eloquent, oracular;</l>
+				<l n="363">A volcano heard afar.</l>
 
 			</lg>
 			<lg n="90">
 				<label>90</label>
-				<l n="366">“And these words shall then become</l>
-				<l n="367">Like Oppression’s thundered doom</l>
-				<l n="368">Ringing through each heart and brain,</l>
-				<l n="369">Heard again — again — again—</l>
+				<l n="364">“And these words shall then become</l>
+				<l n="365">Like Oppression’s thundered doom</l>
+				<l n="366">Ringing through each heart and brain,</l>
+				<l n="367">Heard again — again — again—</l>
 
 			</lg>
 			<lg n="91">
 				<label>91</label>
-				<l n="370">“Rise like Lions after slumber</l>
-				<l n="371">In unvanquishable number—</l>
-				<l n="372">Shake your chains to earth like dew</l>
-				<l n="373">Which in sleep had fallen on you—</l>
-				<l n="374">Ye are many — they are few.”</l>
+				<l n="368">“Rise like Lions after slumber</l>
+				<l n="369">In unvanquishable number—</l>
+				<l n="370">Shake your chains to earth like dew</l>
+				<l n="371">Which in sleep had fallen on you—</l>
+				<l n="372">Ye are many — they are few.”</l>
 			</lg>
 
 
