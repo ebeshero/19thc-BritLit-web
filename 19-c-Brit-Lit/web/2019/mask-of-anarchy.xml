@@ -421,7 +421,12 @@
 				<l n="199">Beasts find fare, in woody lair</l>
 				<l n="200">When storm and snow are in the air,</l>
 				<l n="201"> </l>
-			</lg>
+			</lg><note n="1">The following stanza is found in the Wise MS and in Mary Shelley's edition of 1839, but is wanting in the Hunt MS and  in the first edition of 1832:
+				<lg><l>“Horses, oxen, have a home,</l>
+				<l>When from daily toil they come;</l>
+				<l>Household dogs, when the wind roars, </l>
+				<l>Find a home within warm doors.”</l></lg>
+			</note>
 			<lg n="50">
 				<label>50</label>
 				<l n="202">“Asses, swine, have litter spread</l>
@@ -566,7 +571,11 @@
 				<l n="274">Where those who live and suffer moan</l>
 				<l n="275">For others’ misery or their own.</l>
 				<l n="276"> </l>
-			</lg>
+			</lg><note n="2">The following stanza is found (cancelled) at this 	place in the Wise MS.:
+				<lg><l>“From the cities where from caves,</l>
+				<l>Like the dead from putrid graves,</l>
+				<l>Troops of starvelings gliding come,</l>
+				<l>Living Tenants of a tomb.”</l></lg> </note>
 			<lg n="68">
 				<label>68</label>
 				<l n="277">“From the workhouse and the prison</l>
