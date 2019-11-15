@@ -646,7 +646,7 @@
             <date when="2019-10-30">W 10-30</date>
         </cell>
         <cell role="inclass"><p>John Keats, <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_81"><title level="a">The Eve of St. Agnes</title></ref> with <ref target="http://gutenberg.readingroo.ms/2/3/6/8/23684/23684-h/23684-h.htm#Page_117">Ode to Psyche</ref></p>
-        <p>Initiate <hi>Midterm Exam 2</hi> (take-home exam)</p>
+            <p>Initiate <ref target="https://canvas.pitt.edu/courses/284/assignments/21847"><hi>Midterm Exam 2</hi> (take-home exam)</ref></p>
         </cell>
         <cell role="assign"/>
     </row>
@@ -654,45 +654,46 @@
         <cell role="date">
             <date when="2019-11-01">F 11-01</date>
         </cell>
-        <cell role="inclass"><list><item>Start reading Emily Brontë, <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref></item>
+        <cell role="inclass"><list><item>Start reading Emily Brontë, <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through the end of Chapter III (3).</item>
             <item><ref target="https://www.slideshare.net/ebbondar/wuthering-heights-81474391">Slides on the Brontës and <title level="m">Wuthering Heights</title></ref></item>
         </list></cell>
-        <cell role="assign"><hi>Midterm Exam 2 (take-home exam) due</hi></cell>
+        <cell role="assign"/>
     </row>
     </table><table type="week" n="11"><row role="day">
         <cell role="date">
             <date when="2019-11-04">M 11-04</date>
         </cell>
-        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 11 (to p. 135)</cell>
-        <cell role="assign"/>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> to the end of Ch. IX (9).</cell>
+        <cell role="assign"><hi><ref target="https://canvas.pitt.edu/courses/284/assignments/21847">Midterm Exam 2 (take-home exam) due by 11:59pm.</ref></hi></cell>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-06">W 11-06</date>
         </cell>
-        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 18 (to p. 200)</cell>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> to the end of Ch. XIV (14).</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-08">F 11-08</date>
         </cell>
-        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> through end of Ch. 26 (to p. 252)</cell>
+        <cell role="inclass"><ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> to the end of Ch. XX (20).</cell>
         <cell role="assign"><hi rend="em"> <ref target="AnnotResearchAssign2019.html">Annotation Research Assignment</ref></hi>: Complete a draft round of annotations and choose a topic to investigate at greater length in the paper.</cell>
     </row>
     </table><table type="week" n="12"><row role="day">
         <cell role="date">
             <date when="2019-11-11">M 11-11</date>
         </cell>
-        <cell role="inclass">Finish <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref></cell>
+        <cell role="inclass"><hi>Reading Day</hi> (no class meeting). (Read <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title></ref> to the end of Ch. XXVIII (28).</cell>
         <cell role="assign"/>
     </row>
     <row role="day">
         <cell role="date">
             <date when="2019-11-13">W 11-13</date>
         </cell>
-        <cell role="inclass"><list><item>Alfred, Lord Tennyson, <ref target="https://rpo.library.utoronto.ca/poems/mariana"><title level="a">Mariana</title></ref></item>
-            <item><ref target="https://rpo.library.utoronto.ca/poems/lady-shalott-1832"><title level="a">The Lady of Shalott</title></ref></item></list></cell>
+        <cell role="inclass">Finish <ref target="http://www.gutenberg.org/files/768/768-h/768-h.htm"><title level="m">Wuthering Heights</title>.</ref>
+         <!--   <list><item>Alfred, Lord Tennyson, <ref target="https://rpo.library.utoronto.ca/poems/mariana"><title level="a">Mariana</title></ref></item>
+            <item><ref target="https://rpo.library.utoronto.ca/poems/lady-shalott-1832"><title level="a">The Lady of Shalott</title></ref></item></list>--></cell>
         <cell role="assign"/>
     </row>
     <row role="day">
