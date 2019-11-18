@@ -712,7 +712,13 @@
         <cell role="date">
             <date when="2019-11-18">M 11-18</date>
         </cell>
-        <cell role="inclass"><list><item><ref target="VictorianIssues.pdf">Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></ref></item>
+        <cell role="inclass"><list><item><ref target="VictorianIssues.pdf">Victorian Issues: Evolution: Charles Darwin excerpts from <title>The Origin of Species</title> and <title>The Descent of Man</title>, with Tennyson, intro + stanzas from <title level="a">In Memoriam</title></ref>. From facsimile publication of <title level="m">In Memoriam</title>:
+            <list>
+                <item><ref target="https://play.google.com/books/reader?id=KA03AAAAIAAJ&amp;pg=GBS.PA11">Beginning</ref></item>
+                <item><ref target="https://play.google.com/books/reader?id=KA03AAAAIAAJ&amp;pg=GBS.PA59">Sections LV and LVI: <q>Nature red in tooth and claw</q> passage</ref></item>
+            </list>
+        
+        </item>
             <item><ref target="http://www.slideshare.net/ebbondar/science-vs-religion-darwin-and-the-victorians">Slides on Darwin vs. Religion: Darwin and the Victorians</ref></item>
             <item><ref target="http://www.alice-in-wonderland.net/resources/chapters-script/alices-adventures-in-wonderland/chapter-2/">Chapter 2</ref> and <ref target="http://www.alice-in-wonderland.net/resources/chapters-script/alices-adventures-in-wonderland/chapter-3/">Chapter 3</ref> from Lewis Carroll (Charles Lutwidge Dodson), <title level="m">Alice in Wonderland</title></item>
         </list></cell>
